@@ -2,7 +2,6 @@
 
 ## 5.1. Software Configuration Management  
 
-
 ### 5.1.1. Software Development Environment Configuration  
 
 ### 5.1.2. Source Code Management  
@@ -30,4 +29,3 @@
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
-
