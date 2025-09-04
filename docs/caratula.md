@@ -24,8 +24,8 @@
       <td>U202210790</td>
     </tr>
     <tr>
-      <td>---</td>
-      <td>---</td>
+      <td>Martínez Gaona, Pablo Afranio</td>
+      <td>U202120011</td>
     </tr>
     <tr>
       <td>---</td>
