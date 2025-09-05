@@ -253,6 +253,8 @@ Estos wireframes establecen la base de una plataforma dinámica, social y fácil
 
 ## 4.5. Web Applications Prototyping  
 
+![web_user_flow](/assets/chapter-4/web_user_flow.png)
+
 ## 4.6. Domain-Driven Software Architecture  
 
 ### 4.6.1. Software Architecture Context Diagram  
