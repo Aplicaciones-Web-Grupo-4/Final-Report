@@ -258,8 +258,10 @@ Estos wireframes establecen la base de una plataforma dinámica, social y fácil
 ## 4.6. Domain-Driven Software Architecture  
 
 ### 4.6.1. Software Architecture Context Diagram  
+![Context Diagram](/assets/chapter-4/Context_Diagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams  
+![Container Diagram](/assets/chapter-4/Container_Diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams  
 
