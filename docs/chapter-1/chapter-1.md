@@ -3,9 +3,71 @@
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
-Neovent es una startup limeña que nace con el propósito de transformar la manera en la que los ciudadanos descubren y disfrutan las ferias gastronómicas de la ciudad. Bajo el producto NextHappen, buscamos convertirnos en el punto de encuentro digital donde los limeños puedan encontrar de forma sencilla y confiable los mejores eventos gastronómicos cerca de ellos, acceder a la compra de entradas y recibir recomendaciones personalizadas gracias a nuestra mascota Happi. Con un enfoque fresco y humano, Neovent se plantea como un puente entre el ecosistema emprendedor y el público, facilitando que nadie se pierda de una experiencia cultural, artística o culinaria que enriquezca su vida.
+Neovent es una startup limeña que nace con el propósito de transformar la manera en la que los ciudadanos descubren y disfrutan las ferias gastronómicas de la ciudad. Bajo el producto NextHappen, buscamos convertirnos en el punto de encuentro digital donde los limeños puedan encontrar de forma sencilla y confiable los mejores eventos gastronómicos cerca de ellos, acceder a la compra de entradas y recibir recomendaciones personalizadas. Con un enfoque fresco y humano, Neovent se plantea como un puente entre el ecosistema emprendedor y el público, facilitando que nadie se pierda de una experiencia cultural, artística o culinaria que enriquezca su vida.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+<table style="width:100%; border-collapse:collapse;">
+
+  <tr>
+    <td style="width:35%; vertical-align:top; padding:8px;">
+      <img src="../../assets/chapter-1/integrante1.jpg" alt="Integrante 1" width="500">
+    </td>
+    <td style="width:65%; vertical-align:top; padding:8px;">
+      <strong>Nombre Apellido (U---)</strong> – <em>Carrera</em><br><br>
+      <p style="margin:0;">
+        ---
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:35%; vertical-align:top; padding:8px;">
+      <img src="../../assets/chapter-1/Pablo_Perfil.jpeg" alt="Pablo Perfil" width="500">
+    </td>
+    <td style="width:65%; vertical-align:top; padding:8px;">
+      <strong>Pablo Afranio Martinez Gaona (U202120011)</strong> – <em>Ingenieria de Software</em><br><br>
+      <p style="margin:0;">
+      Tengo 23 años y estoy estudiando en la Universidad Peruana de Ciencias Aplicadas. Me considero alguien adaptable a la situación, asi como alguien que trabaja muy bien en equipo. Manejo lenguajes de programación como c++ y python, así como manejo de SQL. Busco aprender más acerca de la ciencia de datos asi como de la inteligencia artificial.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:35%; vertical-align:top; padding:8px;">
+      <img src="a../../assets/chapter-1/integrante3.jpg" alt="Integrante 3" width="500">
+    </td>
+    <td style="width:65%; vertical-align:top; padding:8px;">
+      <strong>Nombre Apellido (U---)</strong> – <em>Carrera</em><br><br>
+      <p style="margin:0;">
+        ---
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:35%; vertical-align:top; padding:8px;">
+      <img src="../../assets/chapter-1/integrante4.jpg" alt="Integrante 4" width="500">
+    </td>
+    <td style="width:65%; vertical-align:top; padding:8px;">
+      <strong>Nombre Apellido (U---)</strong> – <em>Carrera</em><br><br>
+      <p style="margin:0;">
+        ---
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width:35%; vertical-align:top; padding:8px;">
+      <img src="../../assets/chapter-1/integrante5.jpg" alt="Integrante 5" width="500">
+    </td>
+    <td style="width:65%; vertical-align:top; padding:8px;">
+      <strong>Nombre Apellido (U---)</strong> – <em>Carrera</em><br><br>
+      <p style="margin:0;">
+        ---
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 1.2. Solution Profile
 
@@ -44,7 +106,7 @@ Los emprendedores tienen dificultades para dar visibilidad a sus ferias y gestio
    
 3.	Los emprendedores estarán dispuestos a pagar una comisión o plan de suscripción a cambio de mayor visibilidad y ventas.
    
-4.	Las recomendaciones personalizadas (Happi) ayudarán a los usuarios a descubrir ferias que de otra manera pasarían desapercibidas.
+4.	Las recomendaciones personalizadas ayudarán a los usuarios a descubrir ferias que de otra manera pasarían desapercibidas.
    
 5.	La confianza en la plataforma se fortalecerá con un sistema de reseñas y calificaciones de los usuarios.
     
@@ -61,8 +123,8 @@ Los emprendedores tienen dificultades para dar visibilidad a sus ferias y gestio
 **Cuando** la tasa de no-shows sea al menos un 20% menor en comparación con ferias sin alertas.
 
 - **Hypothesis 3**  
-**Creemos que** las recomendaciones de Happi, basadas en los intereses del usuario, aumentarán el descubrimiento de nuevas ferias.  
-**Sabremos que** Happi aporta valor cuando los usuarios hagan clic en las ferias sugeridas.  
+**Creemos que** las recomendaciones personalizadas, basadas en los intereses del usuario, aumentarán el descubrimiento de nuevas ferias.  
+**Sabremos que** aportaran valor cuando los usuarios hagan clic en las ferias sugeridas.  
 **Cuando** al menos el 10% de los clics en la aplicación provengan de tarjetas recomendadas.
 
 - **Hypothesis 4**  
@@ -76,6 +138,69 @@ Los emprendedores tienen dificultades para dar visibilidad a sus ferias y gestio
 **Cuando** la valoración media alcance 4.2/5 o más y los reclamos disminuyan en al menos un 15%.
 
 #### 1.2.2.4. Lean UX Canvas
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; text-align:left;">
+  <tr>
+    <td><strong>BUSINESS PROBLEM</strong><br>
+   La información de las ferias está dispersa en redes sociales y medios físicos, lo que dificulta que los limeños encuentren opciones confiables y que los emprendedores logren llegar a su público. Esto afecta la asistencia, la satisfacción y la rentabilidad de los organizadores.
+    </td>
+    <td><strong>SOLUTIONS</strong><br>
+      • Mapa interactivo en tiempo real con filtros de búsqueda.<br>
+      • Alertas personalizadas para usuarios.<br>
+      • Panel de gestión para emprendedores.<br>
+      • Recomendaciones personalizadas. <br>
+      • Sistema de calificaciones y reseñas.
+    </td>
+    <td><strong>BUSINESS OUTCOMES</strong><br>
+   •	Aumentar el número de usuarios que encuentran y compran entradas a ferias mediante NextHappen.<br>
+   •	Reducir la frustración de los usuarios gracias a información clara y actualizada.<br>
+   •	Incrementar la visibilidad y ventas de emprendedores.<br>
+   •	Posicionar a NextHappen como la plataforma de referencia en ferias gastronómicas de Lima.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>USERS</strong><br>
+    • Conductores de vehículos de transporte pesado.<br>
+    • Supervisores operativos responsables del monitoreo de entregas.
+    </td>
+    <td>
+    </td>
+    <td><strong>USER OUTCOMES & BENEFITS</strong><br>
+   •	Descubrir ferias cercanas y auténticas de manera sencilla.<br>
+   •	Comprar entradas de forma rápida y segura.<br>
+   •	Recibir alertas confiables sobre horarios y cambios.<br>
+   •	Los emprendedores logran mayor difusión y ventas.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HYPOTHESES</strong><br>
+  • Creemos que al mostrar ferias cercanas en un mapa interactivo con filtros, los usuarios podrán decidir con mayor rapidez a qué feria asistir.
+    Sabremos que el mapa cumple su propósito cuando incremente la conversión de “vista de evento - compra de entrada”.
+    Cuando al menos el 15% de las visitas al detalle de un evento terminen en la compra de una entrada.
+       
+  • Creemos que enviar alertas sobre nuevas ferias o cambios de horario reducirá la inasistencia a eventos.
+    Sabremos que las alertas son efectivas cuando disminuya el número de entradas no utilizadas (no-shows).
+    Cuando la tasa de no-shows sea al menos un 20% menor en comparación con ferias sin alertas.
+   
+ •  Creemos que las recomendaciones personalizadas, basadas en los intereses del usuario, aumentarán el descubrimiento de nuevas ferias.
+    Sabremos que aporta valor cuando los usuarios hagan clic en las ferias sugeridas.
+    Cuando al menos el 10% de los clics en la aplicación provengan de tarjetas recomendadas.
+   
+ •  Creemos que ofrecer un panel de gestión simple a emprendedores facilitará la publicación recurrente de ferias.
+    Sabremos que la herramienta es útil cuando los emprendedores publiquen más de un evento de forma continua.
+    Cuando al menos el 30% de ellos repita la publicación en el mes siguiente.
+   
+•   Creemos que un sistema de calificaciones y reseñas mejorará la percepción de confianza en la plataforma.
+    Sabremos que el sistema genera confianza cuando la calificación promedio de los eventos sea elevada y se reduzcan los reclamos.
+    Cuando la valoración media alcance 4.2/5 o más y los reclamos disminuyan en al menos un 15%.
+    </td>
+    <td><strong>WHAT’S THE MOST IMPORTANT THING WE NEED TO LEARN FIRST?</strong><br>
+    Necesitamos validar si los usuarios realmente confían en NextHappen como su fuente principal de información para planear sus fines de semana y si los emprendedores perciben valor suficiente como para publicar sus ferias en la plataforma.
+    </td>
+    <td><strong>WHAT’S THE LEAST AMOUNT OF WORK WE NEED TO DO TO LEARN THE NEXT MOST IMPORTANT THING?</strong><br>
+      Prototipar una versión inicial con mapa, búsqueda básica y alertas simples. Probarla con un pequeño grupo de usuarios y emprendedores para comprobar si el flujo básico (descubrimiento → detalle → compra) funciona sin fricción.
+    </td>
+  </tr>
+</table>
 
 ## 1.3. Segmentos objetivo
 **Asistentes a ferias (exploradores foodie, familias y turistas)**  
