@@ -32,8 +32,8 @@
       <td>U202116401</td>
     </tr>
     <tr>
-      <td>---</td>
-      <td>---</td>
+      <td>Chirito Torres , Jose Raul</td>
+      <td>U20201A293</td>
     </tr>
     <tr>
       <td>---</td>
