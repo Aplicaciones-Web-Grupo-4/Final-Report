@@ -76,111 +76,147 @@ Nuestra estrategia se basa en la **especialización y confianza**, diferenciánd
 ### 2.2.2. Registro de entrevistas
 
 #### Entrevistado N°1 – Usuario
+![Usuario1](../../assets/chapter-2/Usuario1.jpg)
 
-- Nombre:  
-- Edad:  
-- Distrito:  
-- Duración:  
-- Resumen:  
+- Nombre: Mariana Rafael  
+- Edad: 20  
+- Distrito: Lince  
+- Duración: 02:24  
+- Resumen: Se entera de ferias por Instagram, Facebook y volantes. Considera indispensable un itinerario con puestos, participantes y motivo de la feria. Quiere notificaciones de ferias cercanas y usaría Yape o Plin para pagar.  
 
 ---
 
 #### Entrevistado N°2 – Usuario
+![Usuario2](../../assets/chapter-2/Usuario2.jpg)
 
-- Nombre:  
-- Edad:  
-- Distrito:  
-- Duración:  
-- Resumen:  
+- Nombre: Milenko Rubén Cayanchi Avila  
+- Edad: 19  
+- Distrito: Comas  
+- Duración: 02:18  
+- Resumen: Se informa por Instagram y Facebook. Dificultades con ubicación y horarios. Necesita datos claros y reseñas. Le gustaría recibir notificaciones y pagar con Yape.  
 
 ---
 
 #### Entrevistado N°3 – Usuario
+![Usuario3](../../assets/chapter-2/Usuario3.jpg)
 
-- Nombre:  
-- Edad:  
-- Distrito:  
-- Duración:  
-- Resumen:  
+- Nombre: Cristhian Talledo  
+- Edad: 21  
+- Distrito: Jesús María  
+- Duración: 02:23  
+- Resumen: Se entera por TikTok, Instagram, afiches y amigos. Considera indispensable ubicación en mapa, horarios, precios y reseñas. Quiere notificaciones en tiempo real. Compraría entradas digitales con tarjeta o apps como Yape y Plin.  
 
 ---
 
 #### Entrevistado N°4 – Organizador
+![Organizador1](../../assets/chapter-2/Organizador1.jpg)
 
-- Nombre:  
-- Edad:  
-- Distrito:  
-- Duración:  
-- Resumen:  
+- Nombre: Carlos Garnique  
+- Edad: 25  
+- Distrito: Lince  
+- Duración: 02:01  
+- Resumen: Promociona en redes y WhatsApp, pero con bajo alcance. Necesita métricas claras de ventas y asistencia. Pagará comisión si la plataforma ofrece alcance. Valora panel sencillo, estadísticas, alertas y reseñas.  
 
 ---
 
 #### Entrevistado N°5 – Organizador
+![Organizador2](../../assets/chapter-2/Organizador2.jpg)
 
-- Nombre:  
-- Edad:  
-- Distrito:  
-- Duración:  
-- Resumen:  
+- Nombre: Renato Gamarra  
+- Edad: 28  
+- Distrito: Jesús María  
+- Duración: 02:52  
+- Resumen: Promociona en redes, pero pierde alcance y la información se dispersa. Quiere métricas de entradas, asistentes y feedback. Acepta pagar comisión si aumenta visibilidad. Valora panel simple, estadísticas y notificaciones.  
 
 ---
 
 #### Entrevistado N°6 – Organizador
+![Organizador3](../../assets/chapter-2/Organizador3.jpg)
 
-- Nombre:  
-- Edad:  
-- Distrito:  
-- Duración:  
-- Resumen:  
+- Nombre: Renato Calvo Yalan  
+- Edad: 26  
+- Distrito: San Isidro  
+- Duración: 01:58  
+- Resumen: Promociona en redes, afiches y boca a boca. Limitaciones: bajo alcance y sin métricas en tiempo real. Necesita estadísticas de ventas y asistentes. Pagará por visibilidad. Valora panel centralizado, notificaciones y métricas en vivo.  
 
 ---
 
 ### 2.2.3. Análisis de entrevistas
 Análisis de los datos obtenidos durante las entrevistas:
- 
+
+![Estadistica1](../../assets/chapter-2/Estadistica1.png)
+
+![Estadistica2](../../assets/chapter-2/Estadistica2.png)
+
+![Estadistica3](../../assets/chapter-2/Estadistica3.png)
+
+![Estadistica4](../../assets/chapter-2/Estadistica4.png)
+
 ---
 
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
-#### Segmento 1: Asistentes
+#### Segmento 1 – Usuario (Mariana Rafael)
 
-#### Segmento 2: Emprendedores
+---
+
+#### Segmento 2 – Organizador (Carlos Garnique)
 
 ---
 
 ### 2.3.2. User Task Matrix
 
-> Segmento 1: Asistentes
+> Segmento 1 – Usuario (Mariana Rafael)  
 
+| **Tarea** | **Frecuencia** | **Importancia** |  
+|-----------|----------------|-----------------|  
+| Buscar información sobre ferias | Often | High |  
+| Ubicar ferias en un mapa | Often | High |  
+| Comprar entradas online | Occasionally | High |  
+| Recibir notificaciones en tiempo real | Often | High |  
+| Consultar reseñas de otros asistentes | Occasionally | Medium |  
 
-> Segmento 2: Emprendedores
+> Segmento 2 – Organizador (Carlos Garnique)  
 
+| **Tarea** | **Frecuencia** | **Importancia** |  
+|-----------|----------------|-----------------|  
+| Promocionar ferias en la plataforma | Often | High |  
+| Actualizar información en tiempo real | Often | High |  
+| Consultar métricas (ventas, asistentes) | Occasionally | High |  
+| Gestionar ferias desde un panel centralizado | Occasionally | High |  
+| Recibir reseñas y feedback de asistentes | Occasionally | Medium |  
 
 ---
 
 ### 2.3.3. User Journey Mapping
 
-> Segmento 1:
+> Segmento 1 – Mariana Rafael  
 
-> Segmento 2:
+---
+
+> Segmento 2 – Carlos Garnique  
 
 ---
 
 ### 2.3.4. Empathy Mapping
 
-#### Segmento 1:
-
-#### Segmento 2:
+#### Segmento 1 – Mariana Rafael  
 
 ---
 
-### 2.3.5. As-is Scenario Mapping
+#### Segmento 2 – Carlos Garnique  
 
-> Segmento 1:
+---
 
-> Segmento 2:
+### 2.3.5. As-is Scenario Mapping  
+
+> Segmento 1 – Mariana Rafael  
+
+---
+
+> Segmento 2 – Carlos Garnique  
 
 ---
 
