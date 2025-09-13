@@ -160,10 +160,12 @@ Análisis de los datos obtenidos durante las entrevistas:
 
 #### Segmento 1 – Usuario (Mariana Rafael)
 
+![User_Persona1](../../assets/chapter-2/User_Persona1.png)
 ---
 
 #### Segmento 2 – Organizador (Carlos Garnique)
 
+![User_Persona2](../../assets/chapter-2/User_Persona2.png)
 ---
 
 ### 2.3.2. User Task Matrix
@@ -194,31 +196,45 @@ Análisis de los datos obtenidos durante las entrevistas:
 
 > Segmento 1 – Mariana Rafael  
 
+![User_Journey_Mapping1](../../assets/chapter-2/User_Journey_Mapping1.png)
 ---
 
-> Segmento 2 – Carlos Garnique  
+> Segmento 2 – Carlos Garnique
 
+![User_Journey_Mapping2](../../assets/chapter-2/User_Journey_Mapping2.png)
 ---
 
 ### 2.3.4. Empathy Mapping
 
 #### Segmento 1 – Mariana Rafael  
 
+![Empathy_Mapping1](../../assets/chapter-2/Empathy_Mapping1.png)
 ---
 
 #### Segmento 2 – Carlos Garnique  
 
+![Empathy_Mapping2](../../assets/chapter-2/Empathy_Mapping2.png)
 ---
 
 ### 2.3.5. As-is Scenario Mapping  
 
-> Segmento 1 – Mariana Rafael  
+> **Segmento 1 – Mariana Rafael (Usuario – asistente a ferias)**  
+
+| **Phases**              | **Buscar información** | **Planificar la visita** | **Asistir a la feria** | **Compartir experiencia** |
+|--------------------------|-------------------------|---------------------------|-------------------------|---------------------------|
+| **Doing**   | • Revisa Instagram, Facebook y volantes en la calle.<br>• Pregunta a amigas sobre las ferias. | • Anota horarios y posibles ubicaciones en su celular.<br>• Elige qué feria visitar sin itinerario claro. | • Llega al lugar siguiendo direcciones en redes sociales.<br>• Recorre los stands sin mapa ni planificación clara. | • Comenta en redes sociales o a sus amigas cómo estuvo la feria.<br>• No siempre deja reseñas públicas. |
+| **Thinking** | • ¿Dónde encuentro toda la información de forma confiable?<br>• ¿Cuáles ferias valen la pena? | • ¿Tendrán los stands que me interesan?<br>• ¿Dónde está ubicado exactamente el evento? | • ¿Estaré perdiéndome algún stand?<br>• ¿Qué horarios tienen las actividades? | • ¿Valdrá la pena recomendar esta feria?<br>• ¿La información que comparta ayudará a otros? |
+| **Feeling** | • Frustrada por la información dispersa.<br>• Insegura sobre los detalles de la feria. | • Ansiosa por no tener claridad.<br>• Motivada si encuentra algún dato en redes. | • Emocionada por asistir.<br>• Confundida al no encontrar toda la organización. | • Satisfecha si la experiencia fue buena.<br>• Molesta si la feria no cumplió expectativas. |
 
 ---
 
-> Segmento 2 – Carlos Garnique  
+> **Segmento 2 – Carlos Garnique (Organizador de ferias)**  
 
----
+| **Phases**              | **Promocionar feria** | **Gestionar inscripciones** | **Medir resultados** | **Atender imprevistos** |
+|--------------------------|------------------------|------------------------------|-----------------------|--------------------------|
+| **Doing**   | • Publica en Facebook, Instagram y WhatsApp.<br>• Comparte afiches físicos en la zona. | • Recibe mensajes por inbox y llamadas para confirmar asistencia.<br>• No cuenta con sistema centralizado. | • Estima asistentes por número de “likes” o mensajes.<br>• No tiene métricas claras de ventas o visitas. | • Informa cambios por publicaciones rápidas en redes.<br>• Atiende dudas de asistentes manualmente. |
+| **Thinking** | • ¿Cómo puedo llegar a más personas sin gastar tanto?<br>• ¿Cómo hacer que la info no se pierda en redes? | • ¿Cuántas entradas realmente se han vendido?<br>• ¿Cómo centralizo todo sin depender de WhatsApp? | • ¿Mis ferias están creciendo o estancadas?<br>• ¿Vale la pena invertir más en publicidad? | • ¿Cómo puedo avisar rápido de un cambio?<br>• ¿Cómo evitar que la gente se frustre? |
+| **Feeling** | • Preocupado por el bajo alcance.<br>• Frustrado con la dispersión de información. | • Agobiado al gestionar todo de forma manual.<br>• Inseguro por la falta de control. | • Insatisfecho con la falta de métricas.<br>• Incierto sobre el impacto real del evento. | • Estresado por cambios de último momento.<br>• Aliviado cuando logra resolverlos. |
 
 ## 2.4. Ubiquitous Language
 En este proyecto, cuyo objetivo principal es centralizar la información sobre ferias gastronómicas y facilitar la compra de entradas, se define el siguiente lenguaje ubicuo:
