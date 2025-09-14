@@ -5,7 +5,7 @@
 
 | **Phases**              | **Buscar información** | **Planificar la visita** | **Asistir a la feria** | **Compartir experiencia** |
 |--------------------------|-------------------------|---------------------------|-------------------------|---------------------------|
-| **Doing**   |•Filtros por ubicacion , ferias e intereses. •Muestra las ferias en un calendario interactivo | • |•  | •  |
+| **Doing**   |•Filtros por ubicacion , ferias e intereses.<br> •Muestra las ferias en un calendario interactivo |•Crea trayectos personalizados. <br>•Muestra horarios, mapas del evento y notificaciones.|•Alertas sobre actividades.<br>•App con información clara.<br>•Acceso a mapas  en tiempo real. |•Sistema de recompensas por compartir opiniones o experiencias. <br> •Comenta reseñas en la plataforma.<br> •Rretroalimentacipon para nuevos asistentes y organizadores.|
 | **Thinking** | •  | •  | •  | • |
 | **Feeling** | •  | •  | • | •|
 
