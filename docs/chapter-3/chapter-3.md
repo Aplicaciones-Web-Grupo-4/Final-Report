@@ -5,7 +5,7 @@
 
 | **Phases**              | **Buscar información** | **Planificar la visita** | **Asistir a la feria** | **Compartir experiencia** |
 |--------------------------|-------------------------|---------------------------|-------------------------|---------------------------|
-| **Doing**   | •  | • |•  | •  |
+| **Doing**   |•Filtros por ubicacion , ferias e intereses. •Muestra las ferias en un calendario interactivo | • |•  | •  |
 | **Thinking** | •  | •  | •  | • |
 | **Feeling** | •  | •  | • | •|
 
