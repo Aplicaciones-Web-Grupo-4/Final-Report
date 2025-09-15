@@ -22,7 +22,7 @@
 ## 3.2. User Stories
 | ID   | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |------|--------|-------------|-------------------------|----------------------------|
-| E1   | Descubrimiento de Ferias | Como visitante foodie quiero descubrir ferias gastronómicas organizadas para poder decidir a cuáles asistir. | N/A | - |
+| EP01   | Descubrimiento de Ferias | Como visitante foodie quiero descubrir ferias gastronómicas organizadas para poder decidir a cuáles asistir. | N/A | - |
 
 ## 3.3. Impact Mapping
 
