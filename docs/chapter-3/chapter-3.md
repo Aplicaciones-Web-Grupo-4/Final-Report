@@ -16,7 +16,7 @@
 | **Phases**              | **Promocionar feria** | **Gestionar inscripciones** | **Medir resultados** | **Atender imprevistos** |
 |--------------------------|------------------------|------------------------------|-----------------------|--------------------------|
 | **Doing**   |•Publica su feria que promueve en redes sociales. |•Recibe notificaciones automáticas en la plataforma.  |•Acceso a ventas, visitas y reseñas. |•Envía notificaciones mediante la app o SMS  a los asistentes. |
-| **Thinking** |•"Estoy logrando motivar ar mas público." <br>•"La información extra no se pierde."|•"Puedo contabilizar de los asistentes en tiempo real."  |•"Sé como se ha llevado el evento acabo."<br> •"Puedo justificar la inversión en publicidad."  |•"Los cambios de notificaciones son inmediatos y fácil de comprensión."|
+| **Thinking** |•"Estoy logrando motivar a más público." <br>•"La información extra no se pierde."|•"Puedo contabilizar de los asistentes en tiempo real."  |•"Sé como se ha llevado el evento acabo."<br> •"Puedo justificar la inversión en publicidad."  |•"Los cambios de notificaciones son inmediatos y fácil de comprensión."|
 | **Feeling** |•Aliviado.  <br>•Motivado.  |•Seguro. <br>•Confiado. |•Satisfecho. <br>•Motivado para mejorar eventos futuros. |•Tranquilo por resolver los problemas de manera eficaz.|
 
 ## 3.2. User Stories
