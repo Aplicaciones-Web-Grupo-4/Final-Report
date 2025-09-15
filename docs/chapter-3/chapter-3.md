@@ -20,6 +20,9 @@
 | **Feeling** |•Aliviado.  <br>•Motivado.  |•Seguro. <br>•Confiado. |•Satisfecho. <br>•Motivado para mejorar eventos futuros. |•Tranquilo por resolver los problemas de manera eficaz.|
 
 ## 3.2. User Stories
+| ID   | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|------|--------|-------------|-------------------------|----------------------------|
+| E1   | Descubrimiento de Ferias | Como visitante foodie quiero descubrir ferias gastronómicas organizadas para poder decidir a cuáles asistir. | N/A | - |
 
 ## 3.3. Impact Mapping
 
