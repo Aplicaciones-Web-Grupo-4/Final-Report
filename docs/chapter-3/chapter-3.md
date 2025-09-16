@@ -23,6 +23,16 @@
 | ID   | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |------|--------|-------------|-------------------------|----------------------------|
 | EP01   | Descubrimiento de Ferias | Como visitante quiero descubrir ferias gastronómicas organizadas para poder decidir a cuáles asistir. | N/A | - |
+| EP02   | Compra de entradas  | Como organizador quiero gestionar la compra y validacion de entradas de manera sencilla. | N/A | - |
+| EP03   | Recomendaciones personalizadas | Como developer quiero ofrecer sugerencias basadas en sus intereses. | N/A | - |
+| EP04   | Gestion de Ferias | Como organizador quiero que los emprendedores gestionen sus ferias de forma eficiente. | N/A | - |
+| EP05   | Conexion de Landing Page | Como developer quiero disponer de un sitio web informativo que capte atencion de los visitantes. | N/A | - |
+| EP06  | Api Restful | Como developer quiero exponer servicios que permitan la integracion del sistema. | N/A | - |
+| EP07   | Administracion de PLataforma | Como organizador  quiero supervisar la calidad edl sistema. | N/A | - |
+| EP08   | Descubir eventos | Como visitante quiero explorar eventos de ferias gastronomicas segun la fecha y ubicacion. | N/A | - |
+| EP09  | Recibir notificaciones | Como visitante quiero recibir notificaciones sobre mis eventos y recordatorios en tiempo real. | N/A | - |
+| EP10  | Experiencia turisticas | Como turista quiero encontrar ferias con traduccion basica para una facil comprension. | N/A | - |
+| EP11  | Metrica para ogranizadores  | Como organizador quiero ver acceder a metricas de mis ferias para evaluar el impacto. | N/A | - |
 
 ## 3.3. Impact Mapping
 
