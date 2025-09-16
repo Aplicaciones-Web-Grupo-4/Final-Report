@@ -38,8 +38,8 @@
 | US02  |Mapa interactivo  |Como visitante quiero visualizar las ferias en un mapa para ubicarme con facilidad . |**Dado que** un visitante abre el mapa , **cuando** selecciona un evento en el mapa, **entonces**  se muestra informacion clara de ubibcacion , fecha y hora.| E1 |
 | US03  |Alertas en tiempo real  |Como visitante quiero recibir alertas en tiempo real de algunos cambios en la feria para non perderme el evento . |**Dado que** esta inscrito a un evento , **cuando** el organizador actualiza el horario o el lugar, **entonces**  se muestra una notificacion inmediata.| E1 |
 | US04  |Favoritos  |Como visitante quiero marcar ferias como favoritas para visualizar en cualquier momento . |**Dado que** un visitante visualiza un evento , **cuando** pulsa "favoritos" , **entonces**  el evento se guarda en su lista personal.| E1 |
-| US05  |Compra de entradas |Como visitante quiero comprar entradas de forma segura para asistir a una feria . |**Dado que** selecciona un evento , **cuando** confirma la compra con pago valido , **entonces**  se muestra un comprobante de pago.| E1 |
-| US06  |Mapa interactivo  |Como visitante quiero  . |**Dado que** , **cuando** , **entonces** .| E1 |
+| US05  |Compra de entradas |Como visitante quiero comprar entradas de forma segura para asistir a una feria . |**Dado que** selecciona un evento , **cuando** confirma la compra con pago valido , **entonces**  se muestra un comprobante de pago.| E2 |
+| US06  |Mapa interactivo  |Como visitante quiero  . |**Dado que** , **cuando** , **entonces** .| E2 |
 
 ## 3.3. Impact Mapping
 
