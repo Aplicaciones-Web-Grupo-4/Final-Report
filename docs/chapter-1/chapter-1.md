@@ -46,12 +46,12 @@ Neovent es una startup limeña que nace con el propósito de transformar la mane
 
   <tr>
     <td style="width:35%; vertical-align:top; padding:8px;">
-      <img src="../../assets/chapter-1/integrante4.jpg" alt="Integrante 4" width="500">
+      <img src="../../assets/chapter-1/Billy.jpg" alt="Integrante 4" width="500">
     </td>
     <td style="width:65%; vertical-align:top; padding:8px;">
-      <strong>Nombre Apellido (U---)</strong> – <em>Carrera</em><br><br>
+      <strong>Billy Jake Ruiz Madrid (U202116401)</strong> – <em>Ingenieria de Software</em><br><br>
       <p style="margin:0;">
-        ---
+      Tengo 21 años, soy una persona tranquila, colaborativa y adaptable. Me gusta trabajar en equipo, aportando ideas y soluciones que contribuyan al desarrollo de los proyectos. Prefiero colaborar antes que liderar y suelo integrarme bien con distintos estilos de trabajo, lo que me permite adaptarme fácilmente al grupo. Cuento con conocimientos en lenguajes de programación como C++ y Python. Siempre busco formas de hacer las cosas bien, de manera eficiente y sin complicaciones.
       </p>
     </td>
   </tr>
