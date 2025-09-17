@@ -34,7 +34,7 @@ Neovent es una startup limeña que nace con el propósito de transformar la mane
 
   <tr>
     <td style="width:35%; vertical-align:top; padding:8px;">
-      <img src="a../../assets/chapter-1/integrante3.jpg" alt="Integrante 3" width="500">
+      <img src="a../../assets/chapter-1/Jojse.png" alt="Integrante 3" width="500">
     </td>
     <td style="width:65%; vertical-align:top; padding:8px;">
       <strong>Jose Raul Chirito Torres (U20201a293)</strong> – <em>Ingenieria de Software</em><br><br>
