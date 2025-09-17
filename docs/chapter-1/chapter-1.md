@@ -39,7 +39,7 @@ Neovent es una startup limeña que nace con el propósito de transformar la mane
     <td style="width:65%; vertical-align:top; padding:8px;">
       <strong>Jose Raul Chirito Torres (U20201a293)</strong> – <em>Ingenieria de Software</em><br><br>
       <p style="margin:0;">
-        ---
+        Tengo 23 años y estudio la carrera de Ingenieráa de Software.Considero que aprendo rápido ,participo en los grupos y avanzo a tiempo los trabajos grupales. Tengo conocimiento de varios lenguajes de programación y me adecuo a lo nuevo.
       </p>
     </td>
   </tr>
