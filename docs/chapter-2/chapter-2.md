@@ -81,7 +81,8 @@ Nuestra estrategia se basa en la **especialización y confianza**, diferenciánd
 - Nombre: Mariana Rafael  
 - Edad: 20  
 - Distrito: Lince  
-- Duración: 02:24  
+- Duración: 02:24
+- Link: <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116401_upc_edu_pe/EeGxX1UamAhPiyS-qJydlIYBPjoQ3NxPCl5i8C9G0yr7lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4nLyZw" title="Title">Microsoft Stream</p></td>
 - Resumen: Se entera de ferias por Instagram, Facebook y volantes. Considera indispensable un itinerario con puestos, participantes y motivo de la feria. Quiere notificaciones de ferias cercanas y usaría Yape o Plin para pagar.  
 
 ---
@@ -92,7 +93,8 @@ Nuestra estrategia se basa en la **especialización y confianza**, diferenciánd
 - Nombre: Milenko Rubén Cayanchi Avila  
 - Edad: 19  
 - Distrito: Comas  
-- Duración: 02:18  
+- Duración: 02:18
+- Link: <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116401_upc_edu_pe/EeGxX1UamAhPiyS-qJydlIYBPjoQ3NxPCl5i8C9G0yr7lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4nLyZw" title="Title">Microsoft Stream</p></td>
 - Resumen: Se informa por Instagram y Facebook. Dificultades con ubicación y horarios. Necesita datos claros y reseñas. Le gustaría recibir notificaciones y pagar con Yape.  
 
 ---
@@ -103,7 +105,8 @@ Nuestra estrategia se basa en la **especialización y confianza**, diferenciánd
 - Nombre: Cristhian Talledo  
 - Edad: 21  
 - Distrito: Jesús María  
-- Duración: 02:23  
+- Duración: 02:23
+- Link: <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116401_upc_edu_pe/EeGxX1UamAhPiyS-qJydlIYBPjoQ3NxPCl5i8C9G0yr7lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4nLyZw" title="Title">Microsoft Stream</p></td>
 - Resumen: Se entera por TikTok, Instagram, afiches y amigos. Considera indispensable ubicación en mapa, horarios, precios y reseñas. Quiere notificaciones en tiempo real. Compraría entradas digitales con tarjeta o apps como Yape y Plin.  
 
 ---
@@ -114,7 +117,8 @@ Nuestra estrategia se basa en la **especialización y confianza**, diferenciánd
 - Nombre: Carlos Garnique  
 - Edad: 25  
 - Distrito: Lince  
-- Duración: 02:01  
+- Duración: 02:01
+- Link: <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116401_upc_edu_pe/EeGxX1UamAhPiyS-qJydlIYBPjoQ3NxPCl5i8C9G0yr7lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4nLyZw" title="Title">Microsoft Stream</p></td>
 - Resumen: Promociona en redes y WhatsApp, pero con bajo alcance. Necesita métricas claras de ventas y asistencia. Pagará comisión si la plataforma ofrece alcance. Valora panel sencillo, estadísticas, alertas y reseñas.  
 
 ---
@@ -125,7 +129,8 @@ Nuestra estrategia se basa en la **especialización y confianza**, diferenciánd
 - Nombre: Renato Gamarra  
 - Edad: 28  
 - Distrito: Jesús María  
-- Duración: 02:52  
+- Duración: 02:52
+- Link: <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116401_upc_edu_pe/EeGxX1UamAhPiyS-qJydlIYBPjoQ3NxPCl5i8C9G0yr7lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4nLyZw" title="Title">Microsoft Stream</p></td>
 - Resumen: Promociona en redes, pero pierde alcance y la información se dispersa. Quiere métricas de entradas, asistentes y feedback. Acepta pagar comisión si aumenta visibilidad. Valora panel simple, estadísticas y notificaciones.  
 
 ---
@@ -136,7 +141,8 @@ Nuestra estrategia se basa en la **especialización y confianza**, diferenciánd
 - Nombre: Renato Calvo Yalan  
 - Edad: 26  
 - Distrito: San Isidro  
-- Duración: 01:58  
+- Duración: 01:58
+- Link: <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116401_upc_edu_pe/EeGxX1UamAhPiyS-qJydlIYBPjoQ3NxPCl5i8C9G0yr7lg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4nLyZw" title="Title">Microsoft Stream</p></td>
 - Resumen: Promociona en redes, afiches y boca a boca. Limitaciones: bajo alcance y sin métricas en tiempo real. Necesita estadísticas de ventas y asistentes. Pagará por visibilidad. Valora panel centralizado, notificaciones y métricas en vivo.  
 
 ---
