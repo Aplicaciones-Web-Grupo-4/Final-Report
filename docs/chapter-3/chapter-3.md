@@ -80,3 +80,20 @@
 |------|--------|-------------|-------------------------|----------------------------|
 | 1  |US01 | Registro de usuario | **Como** visitante **quiero** registrarme en la plataforma **para** acceder a beneficios personalizados. | 5 |
 | 2  |US02 |  Landing Page | **Como** visitante **quiero** ver la página principal **para** conocer la propuesta de NextHappen. | 3 |
+| 3  |US03 |  Iniciar sesión | **Como**usuario **quiero** iniciar sesión **para** acceder a mis preferencias y ferias guardadas. | 3 |
+| 4  |US04 |  Favoritos | **Como** usuario **quiero** seleccionar intereses y distritos favoritos **para** recibir notificaciones favoritas. | 5 |
+| 5  |US05 |  Eventos Recomendados| **Como** usuario **quiero**  ver un listadode ferias recomendadas **para** encontrar ferias de mi gusto. | 5 |
+| 6  |US06 | Buscar ferias | **Como** usuario registrado **quiero** buscar ferias por ubicación, fechas o categoría **para** encontrar opciones relevantes. | 5 |
+| 7  |US07 |  Ver detalle de ferias | **Como** usuario registrado **quiero** ver información detallada de una feria(mapa,horarios) **para** organizar mi visita. | 8 |
+| 8  |US08 |  Guardar feria | **Como** usuario **quiero** guardar ferias en una lista **para** acceder con frecuencia de mi preferencia. | 3 |
+| 9  |US09 |  Recibir notificaciones | **Como** usuario **quiero** recibir notificaciones sobre eventos cercanos y cambios en tiempo real **para** no perder la visita. | 5 |
+| 10 |US10 |  Editar perfil de usuario | **Como** usuario registrado **quiero** actualizar mis datos, interes y distritos favoritos **para** mantener mi perfil al día. | 3 |
+| 11 |US11 |  Pulibcar feria | **Como** organizador **quiero** crear un evento con título , descripción,ubicacipon y fotos **para** difundir en la plataforma. | 8 |
+| 12 |US12 |  Panel de control | **Como** organizador **quiero**  acceder a un panel de mis ferias publicadas **para** evualuar su alcance. | 8 |
+| 13 |US13 |  Gestión de ferias | **Como** organizador **quiero** actualizar o editar información de las ferias creadas  **para** mantener los datos correctos. | 5 |
+| 14 |US14 |  Registrar feria | **Como** organizador **quiero** registrar mi feria   **para** mostrar a los usuarios la oferta disponible. | 5 |
+| 15 |US15 | Búqueda avanzada | **Como** usuario  **quiero** filtrar eventos por fecha, ubicación   **para** encontrar lo que mas me interesa. | 3 |
+| 16 |US16 | Preguntas frecuentes| **Como** usuario  **quiero** ver una sección de preguntas   **para** resolver mis dudas con facilidad. | 2 |
+| 17 |US17 | Compartir evento | **Como** usuario  **quiero** compartir un evento en redes sociales **para** invitar a mis amigos. | 3 |
+| 18 |US18 | Adaptación multiplataforma | **Como** usuario  **quiero** que la landing page y el sistema se adapten a móvil y escritorio **para** tener una mejor experiencia. | 8 |
+| 19 |US19 | Logo  | **Como** usuario  **quiero** ver el logo de NextHappen en la landing page **para** reconocer la plataforma con facilidad. | 1 |
