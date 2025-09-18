@@ -74,4 +74,9 @@
 <br><br>
 **Usuario:**
 ![Impact Mapping](../../assets/chapter-3/persona2.png)
+
 ## 3.4. Product Backlog
+| **Orden**   | **User Story ID** |Título | Descripción | Story points |
+|------|--------|-------------|-------------------------|----------------------------|
+| 1  |US01 | Registro de usuario | **Como** visitante **quiero** registrarme en la plataforma **para** acceder a beneficios personalizados. | 5 |
+| 2  |US02 |  Landing Page | **Como** visitante **quiero** ver la página principal **para** conocer la propuesta de NextHappen. | 3 |
