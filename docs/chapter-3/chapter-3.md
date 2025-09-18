@@ -71,5 +71,5 @@
 ## 3.3. Impact Mapping
 ![Impact Mapping](../../assets/chapter-3/Impactmap.png)
 <br><br>
-
+![Impact Mapping](../../assets/chapter-3/persona2.png)
 ## 3.4. Product Backlog
