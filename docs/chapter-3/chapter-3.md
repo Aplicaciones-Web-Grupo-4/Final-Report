@@ -69,6 +69,6 @@
 
 
 ## 3.3. Impact Mapping
-![Impact Mapping]([https://github.com/TU-USUARIO/Final-Report/blob/main/assets/Impactmap.png?raw=true](https://github.com/Aplicaciones-Web-Grupo-4/Final-Report/blob/chapter-3/Impact%20map%201.png))
+![Impact Mapping]([https://github.com/TU-USUARIO/Final-Report/blob/main/assets/Impactmap.png?raw=true])
 
 ## 3.4. Product Backlog
