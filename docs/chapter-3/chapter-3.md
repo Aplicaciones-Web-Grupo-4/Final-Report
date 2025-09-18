@@ -69,7 +69,6 @@
 
 
 ## 3.3. Impact Mapping
-![Impact Mapping](assets/Impactmap.png)
-
+![Impact Mapping](https://github.com/TU-USUARIO/Final-Report/blob/main/assets/Impactmap.png?raw=true)
 
 ## 3.4. Product Backlog
