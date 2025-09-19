@@ -172,7 +172,7 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <th>Commited</th>
   </tr>
   <tr>
-    <td>NeoEvent/Project-Reportt</td>
+    <td>NeoEvent/Final-Report</td>
     <td></td>
     <td></td>
     <td></td>
@@ -180,7 +180,7 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <td></td>
   </tr>
   <tr>
-    <td>NeoEvent/Project-Report</td>
+    <td>NeoEvent/Final-Report</td>
     <td></td>
     <td></td>
     <td></td>
@@ -188,7 +188,7 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <td></td>
   </tr>
   <tr>
-    <td>NeoEvent/Project-Report</td>
+    <td>NeoEvent/Final-Report</td>
     <td></td>
     <td></td>
     <td></td>
@@ -196,7 +196,7 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <td></td>
   </tr>
   <tr>
-    <td>NeoEvent/Project-Report</td>
+    <td>NeoEvent/Final-Report</td>
     <td></td>
     <td></td>
     <td></td>
@@ -204,7 +204,7 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <td></td>
   </tr>
   <tr>
-    <td>NeoEvent/Project-Report</td>
+    <td>NeoEvent/Final-Repor</td>
     <td></td>
     <td></td>
     <td></td>
