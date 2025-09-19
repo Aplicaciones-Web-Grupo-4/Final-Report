@@ -115,6 +115,7 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 #### 5.2.1.2. Aspect Leaders and Collaborators 1  
 
 #### 5.2.1.3. Sprint Backlog 1  
+![Sprint1](../../assets/chapter-5/sprint1.png)
 
 #### 5.2.1.4. Development Evidence for Sprint Review  
 
