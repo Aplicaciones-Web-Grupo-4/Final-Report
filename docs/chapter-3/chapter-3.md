@@ -98,4 +98,6 @@
 | 18 |US18 | Adaptación multiplataforma | **Como** usuario  **quiero** que la landing page y el sistema se adapten a móvil y escritorio **para** tener una mejor experiencia. | 8 |
 | 19 |US19 | Logo  | **Como** usuario  **quiero** ver el logo de NextHappen en la landing page **para** reconocer la plataforma con facilidad. | 1 |
 
+## Trello
+**Pruebas:**
 ![Product Backlog](../../assets/chapter-3/backlog1.png)
