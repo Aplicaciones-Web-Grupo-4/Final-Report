@@ -40,6 +40,15 @@ La página de aterrizaje del proyecto fue desarrollada empleando las tecnología
 Se utilizó como repositorio principal de control de versiones. Permitió al equipo almacenar, organizar y dar seguimiento al código fuente de la landing page y otros entregables. Asimismo, sirvió como medio para la documentación del proyecto mediante el archivo **README.md** y como canal de despliegue gracias a **GitHub Pages**.  
 
 ### 5.1.2. Source Code Management  
+La gestión de todas las actividades de la startup **Neovent** se lleva a cabo dentro de una organización en **GitHub**, centralizando la documentación y el código fuente del proyecto.  
+
+## Repositorios  
+
+- **Organization:** [Aplicaciones-Web-Grupo-4](https://github.com/Aplicaciones-Web-Grupo-4)  
+- **Final Report Repository (Documentación):** [Final Report](https://github.com/Aplicaciones-Web-Grupo-4/Final-Report.git)  
+- **Landing Page Repository:** [Landing Page](https://github.com/Aplicaciones-Web-Grupo-4/Landing-Page.git)  
+
+---
 
 ### 5.1.3. Source Code Style Guide & Conventions  
 
