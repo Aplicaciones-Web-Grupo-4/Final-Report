@@ -96,6 +96,22 @@ Se sigue la **Google JavaScript Style Guide**:
 ### 5.2.1. Sprint 1  
 
 #### 5.2.1.1. Sprint Planning 1  
+En esta sección, se presentará el sprint planning 1 donde se describirá de manera detallada cada una de las evidencias planificadas e implementación del *Landing Page*. Asimismo, se evidenciarán los avances del proyecto e *insights* de colaboración en equipo mediante nuestro repositorio de GitHub.
+
+| Sprint # | Sprint 1 |
+|----------|-----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025/09/14 |
+| **Time** | 12:56 AM |
+| **Location** | Discord |
+| **Prepared by** | José Adrian Paredes Dávila |
+| **Attendees (to planning meeting)** | Todos los miembros del equipo NeoEvent |
+| **Sprint 1 Review Summary** | Dado que es el primer sprint que se está llevando a cabo, no se está considerando los *Review Summary* ya que no hemos recibido ninguno en el sprint anterior. |
+| **Sprint 1 Retrospective Summary** | Al ser el primer Sprint, se planea el desarrollo de nuestra landing page mediante el uso de herramientas web nativas como **HTML5, CSS3 y JavaScript**. Adicional a ello, se dialogó con todo el equipo sobre el contenido de los textos que tendrá el landing page, así como el diseño que se ha venido implementando anteriormente en **Figma**. Finalizado el desarrollo, se procederá a desplegar la landing page mediante los servicios de **GitHub Pages** para que cualquier usuario pueda acceder y visualizar la página a través del link generado. |
+
+**Sprint Goal & User Stories**  
+- **Sprint 1 Velocity:** 18  
+- **Sum of story points:** 18  
 
 #### 5.2.1.2. Aspect Leaders and Collaborators 1  
 
