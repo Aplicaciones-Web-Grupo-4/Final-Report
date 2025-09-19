@@ -63,7 +63,7 @@ Neovent es una startup limeña que nace con el propósito de transformar la mane
     <td style="width:65%; vertical-align:top; padding:8px;">
       <strong>Jose Adrian Paredes Davila (U202216163)</strong> – <em>Ingenieria de Software</em><br><br>
       <p style="margin:0;">
-        ---
+        Mi nombre es Jose Adrian Paredes Davila. Poseo conocimientos básicos en programación con C++, Python y HTML. Me caracterizo por valorar el trabajo en equipo, manteniendo siempre una actitud colaborativa y comprometida con el logro de los objetivos, aportando de manera responsable para un buen rendimiento grupal.
       </p>
     </td>
   </tr>
