@@ -102,8 +102,7 @@
 **Pruebas:**
 <br><br>
 ![Product Backlog](../../assets/chapter-3/backlog1.png)
-<br><br>
-![Product Backlog](../../assets/chapter-3/backlog2.png)
+
 <br><br>![Product Backlog](../../assets/chapter-3/backlog3.png)
 <br><br>
 ![Product Backlog](../../assets/chapter-3/backlog4.png)
@@ -112,4 +111,5 @@
 <br><br>
 ![Product Backlog](../../assets/chapter-3/backlog6.png)
 <br><br>
+![Product Backlog](../../assets/chapter-3/backlog2.png)
 
