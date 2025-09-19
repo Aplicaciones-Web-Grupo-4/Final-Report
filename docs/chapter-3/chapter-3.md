@@ -99,5 +99,6 @@
 | 19 |US19 | Logo  | **Como** usuario  **quiero** ver el logo de NextHappen en la landing page **para** reconocer la plataforma con facilidad. | 1 |
 
 ## Trello
+<br>
 **Pruebas:**
 ![Product Backlog](../../assets/chapter-3/backlog1.png)
