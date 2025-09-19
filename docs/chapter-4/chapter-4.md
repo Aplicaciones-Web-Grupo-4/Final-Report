@@ -265,6 +265,24 @@ Estos wireframes establecen la base de una plataforma dinámica, social y fácil
 
 ### 4.6.3. Software Architecture Components Diagrams  
 
+#### Diagrama de componentes - Content Bounded Context
+![Content_BC](/assets/chapter-4/Content_BC.png)
+
+#### Diagrama de componentes - Discovery Bounded Context
+![Discovery_BC](/assets/chapter-4/Discovery_BC.png)
+
+#### Diagrama de componentes - Identity Bounded Context
+![Identity_BC](/assets/chapter-4/Identity_BC.png)
+
+#### Diagrama de componentes - Media Bounded Context
+![Media_BC](/assets/chapter-4/Media_BC.png)
+
+#### Diagrama de componentes - Notifications Bounded Context
+![Notifications_BC](/assets/chapter-4/Notifications_BC.png)
+
+#### Diagrama de componentes - Ticketing Bounded Context
+![Ticketing_BC](/assets/chapter-4/Ticketing_BC.png)
+
 ## 4.7. Software Object-Oriented Design  
 
 ### 4.7.1. Class Diagrams  
