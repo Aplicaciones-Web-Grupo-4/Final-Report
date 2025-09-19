@@ -122,22 +122,22 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <th>Aspect Name 3 Leader (L) / Collaborator (C)</th>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Chirito Torres, Jose Raul</td>
     <td>JoseR044</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
