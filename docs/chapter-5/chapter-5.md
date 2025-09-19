@@ -3,6 +3,7 @@
 ## 5.1. Software Configuration Management  
 
 ### 5.1.1. Software Development Environment Configuration  
+En seguida, se procederá a describir cada uno de los productos de software que han sido utilizados en el proyecto. Este apartado servirá de suma utilidad para posibilitar que los actuales y futuros desarrolladores puedan contribuir durante el ciclo de vida del proyecto.
 
 ### 5.1.2. Source Code Management  
 
