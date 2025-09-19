@@ -109,8 +109,8 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 | **Sprint 1 Review Summary** | Dado que es el primer sprint que se está llevando a cabo, no se está considerando los *Review Summary* ya que no hemos recibido ninguno en el sprint anterior. |
 | **Sprint 1 Retrospective Summary** | Al ser el primer Sprint, se planea el desarrollo de nuestra landing page mediante el uso de herramientas web nativas como **HTML5, CSS3 y JavaScript**. Adicional a ello, se dialogó con todo el equipo sobre el contenido de los textos que tendrá el landing page, así como el diseño que se ha venido implementando anteriormente en **Figma**. Finalizado el desarrollo, se procederá a desplegar la landing page mediante los servicios de **GitHub Pages** para que cualquier usuario pueda acceder y visualizar la página a través del link generado. |
 |**Sprint Goal & User Stories**|  
-| **Sprint 1 Velocity:** 18  |
-| **Sum of story points:** 18 | 
+| **Sprint 1 Velocity:**| 18  |
+| **Sum of story points:**| 18 | 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators 1  
 
