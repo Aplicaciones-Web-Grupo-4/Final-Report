@@ -116,6 +116,6 @@
 ![Product Backlog](../../assets/chapter-3/backlog7.png)
 <br><br>
 **Enlace de trello**
-[Enlace al Product Backlog en Trello]((https://trello.com/b/B1XFZNHh/sprint-1-nexthappen))
+
 
 
