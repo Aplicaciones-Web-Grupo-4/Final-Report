@@ -286,8 +286,377 @@ Estos wireframes establecen la base de una plataforma dinámica, social y fácil
 ## 4.7. Software Object-Oriented Design  
 
 ### 4.7.1. Class Diagrams  
+![Diagrama_de_Clases](/assets/chapter-4/Diagrama_de_Clases.png)
 
 ### 4.7.2. Class Dictionary  
+#### Clase: `User`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador único | UUID |
+| `email` | Correo electrónico | String |
+| `passwordHash` | Hash de contraseña | String |
+| `role` | Rol del usuario | Role (enum) |
+| `createdAt` | Fecha de creación | DateTime |
+| `updatedAt` | Fecha de actualización | DateTime |
+
+**Métodos**
+- `verifyPassword(raw: String): Boolean` — verifica credenciales.
+
+---
+
+#### Clase: `Profile`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador de perfil | UUID |
+| `fullName` | Nombre completo | String |
+| `avatarUrl` | URL del avatar | String |
+| `phone` | Teléfono | String |
+| `city` | Ciudad | String |
+
+---
+
+#### Clase: `Fair`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador único | UUID |
+| `title` | Título de la feria | String |
+| `description` | Descripción | String |
+| `status` | Estado de la feria | FairStatus (enum) |
+| `startDate` | Fecha/hora de inicio | DateTime |
+| `endDate` | Fecha/hora de fin | DateTime |
+| `basePrice` | Precio base de entrada | Money |
+| `minAge` | Edad mínima | Integer |
+
+**Métodos**
+- `isActive(date: DateTime): Boolean` — indica si está vigente.
+
+---
+
+#### Clase: `Order`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador de orden | UUID |
+| `status` | Estado de la orden | OrderStatus (enum) |
+| `totalAmount` | Importe total | Money |
+| `createdAt` | Creación | DateTime |
+| `updatedAt` | Actualización | DateTime |
+
+**Métodos**
+- `addItem(type: TicketType, qty: Integer): Void` — agrega ítems validando stock.
+- `markPaid(): Void` — marca la orden como pagada.
+- `cancel(): Void` — cancela la orden según reglas de estado.
+
+---
+
+#### Clase: `TicketType`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `name` | Nombre del tipo (General, VIP) | String |
+| `price` | Precio | Money |
+| `stock` | Stock disponible | Integer |
+
+---
+
+#### Clase: `Ticket`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `qrCode` | Código QR del ticket | String |
+| `status` | Estado del ticket | TicketStatus (enum) |
+| `issuedAt` | Fecha de emisión | DateTime |
+
+**Métodos**
+- `use(): Void` — marca como usado (una sola vez).
+
+---
+
+#### Clase: `Payment`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador de pago | UUID |
+| `provider` | Pasarela de pago | PaymentProvider (enum) |
+| `status` | Estado del pago | PaymentStatus (enum) |
+| `externalId` | ID externo de la pasarela | String |
+| `amount` | Importe cobrado | Money |
+| `createdAt` | Fecha de creación | DateTime |
+| `confirmedAt` | Fecha de confirmación | DateTime |
+| `method` | Medio de pago | PaymentMethod (enum) |
+
+
+---
+
+#### Clase: `Coupon`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `code` | Código de cupón | String |
+| `percentOff` | Descuento (%) | Decimal |
+| `validFrom` | Vigente desde | DateTime |
+| `validUntil` | Vigente hasta | DateTime |
+
+---
+
+#### Clase: `Subscription`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `emailEnabled` | Habilita correos | Boolean |
+| `pushEnabled` | Habilita push | Boolean |
+
+
+---
+
+#### Clase: `Notification`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `type` | Tipo | NotificationType (enum) |
+| `title` | Título | String |
+| `body` | Cuerpo del mensaje | String |
+| `scheduledAt` | Programada para | DateTime |
+| `sentAt` | Enviada en | DateTime |
+| `status` | Estado | NotificationStatus (enum) |
+
+---
+
+#### Clase: `MediaAsset`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `fileName` | Nombre de archivo | String |
+| `mimeType` | Tipo MIME | String |
+| `sizeBytes` | Tamaño (bytes) | Long |
+| `storageKey` | Clave en storage | String |
+| `publicUrl` | URL pública | String |
+| `uploadedAt` | Subida en | DateTime |
+| `isTemporary` | Indicador temporal | Boolean |
+
+---
+
+#### Clase: `ProfileInterest`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `createdAt` | Fecha de asociación | DateTime |
+
+---
+
+#### Clase: `Review`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `rating` | Calificación (1–5) | Integer |
+| `comment` | Comentario | String |
+| `createdAt` | Fecha de reseña | DateTime |
+
+---
+
+#### Clase: `Favorite`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `createdAt` | Fecha de guardado | DateTime |
+
+---
+
+#### Clase: `Stand`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `name` | Nombre del stand | String |
+| `description` | Descripción | String |
+| `ownerName` | Responsable | String |
+
+---
+
+#### Clase: `Category`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `name` | Nombre | String |
+| `slug` | Slug URL | String |
+
+---
+
+#### Clase: `FairCategory`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `createdAt` | Fecha de asociación | DateTime |
+
+---
+
+#### Clase: `Recommendation`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `reason` | Motivo (intereses, zona, popularidad) | String |
+| `score` | Puntuación/relevancia | Double |
+
+---
+
+#### Clase: `OrderItem`
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `id` | Identificador | UUID |
+| `quantity` | Cantidad | Integer |
+| `unitPrice` | Precio unitario | Money |
+| `subtotal` | Subtotal calculado | Money |
+
+---
+
+#### Clase: `Location` *(ValueObject)*
+
+| Nombre de Atributo | Descripción | Tipo de Dato |
+|---|---|---|
+| `address` | Dirección | String |
+| `district` | Distrito | String |
+| `latitude` | Latitud | Decimal |
+| `longitude` | Longitud | Decimal |
+
+---
+
+#### Enum: `FairStatus`
+| Valor | Descripción |
+|---|---|
+| `DRAFT` | Borrador |
+| `PUBLISHED` | Publicada |
+| `CANCELLED` | Cancelada |
+| `FINISHED` | Finalizada |
+
+---
+
+#### Clase: `OAuthAccount`
+
+| Nombre de Atributo | Descripción                                      | Tipo de Dato |
+|---------------------|--------------------------------------------------|--------------|
+| `id`               | Identificador único de la cuenta OAuth           | UUID         |
+| `provider`         | Proveedor de autenticación (Google, Facebook)    | String       |
+| `providerUserId`   | ID del usuario en el proveedor externo           | String       |
+| `accessToken`      | Token de acceso proporcionado por el proveedor   | String       |
+| `linkedAt`         | Fecha y hora de vinculación                      | DateTime     |
+
+---
+
+#### Clase: `Session`
+
+| Nombre de Atributo | Descripción                           | Tipo de Dato |
+|---------------------|---------------------------------------|--------------|
+| `id`               | Identificador único de la sesión      | UUID         |
+| `jwt`              | Token de sesión JWT                   | String       |
+| `expiresAt`        | Fecha y hora de expiración            | DateTime     |
+| `deviceInfo`       | Información del dispositivo           | String       |
+| `ip`               | Dirección IP de inicio de sesión      | String       |
+
+---
+
+#### Enum: `PaymentProvider`
+
+| Valor    | Descripción                          |
+|----------|--------------------------------------|
+| `STRIPE` | Procesador Stripe                    |
+| `NIUBIZ` | Procesador Niubiz (local Perú)       |
+| `PAYPAL` | Procesador PayPal                    |
+
+---
+
+#### Enum: `PaymentStatus`
+
+| Valor            | Descripción                                      |
+|------------------|--------------------------------------------------|
+| `REQUIRES_ACTION` | Requiere acción adicional (ej. autenticación)   |
+| `AUTHORIZED`      | Pago autorizado, pendiente de captura           |
+| `CAPTURED`        | Pago confirmado y capturado                     |
+| `FAILED`          | Pago fallido                                    |
+| `REFUNDED`        | Pago reembolsado                                |
+
+---
+
+#### Enum: `PaymentMethod`
+
+| Valor   | Descripción                  |
+|---------|------------------------------|
+| `CARD`  | Pago con tarjeta             |
+| `CASH`  | Pago en efectivo             |
+| `YAPE`  | Pago con billetera Yape      |
+| `PLIN`  | Pago con billetera Plin      |
+
+---
+
+#### Clase: `Template`
+
+| Nombre de Atributo | Descripción                            | Tipo de Dato |
+|---------------------|----------------------------------------|--------------|
+| `id`               | Identificador único de la plantilla    | UUID         |
+| `code`             | Código interno de la plantilla         | String       |
+| `subject`          | Asunto del mensaje                     | String       |
+| `body`             | Contenido del mensaje                  | String       |
+
+---
+
+#### Clase: `NotificationLog`
+
+| Nombre de Atributo | Descripción                               | Tipo de Dato |
+|---------------------|-------------------------------------------|--------------|
+| `id`               | Identificador único del log               | UUID         |
+| `timestamp`        | Fecha y hora del evento                   | DateTime     |
+| `providerMessageId`| ID del mensaje en el proveedor externo     | String       |
+| `result`           | Resultado de la entrega                   | String       |
+
+---
+
+#### Clase: `ModerationRequest`
+
+| Nombre de Atributo | Descripción                                   | Tipo de Dato |
+|---------------------|-----------------------------------------------|--------------|
+| `id`               | Identificador único de la solicitud           | UUID         |
+| `status`           | Estado de la solicitud de moderación          | ModerationStatus (enum) |
+| `reason`           | Razón de la solicitud                         | String       |
+| `requestedAt`      | Fecha de creación de la solicitud             | DateTime     |
+| `decidedAt`        | Fecha de resolución de la solicitud           | DateTime     |
+
+---
+
+#### Enum: `ModerationStatus`
+
+| Valor      | Descripción                           |
+|------------|---------------------------------------|
+| `PENDING`  | Pendiente de revisión                 |
+| `APPROVED` | Aprobado                              |
+| `REJECTED` | Rechazado                             |
+
+---
+
+#### Clase: `OrganizerMetrics`
+
+| Nombre de Atributo | Descripción                                    | Tipo de Dato |
+|---------------------|------------------------------------------------|--------------|
+| `id`               | Identificador único de métricas                | UUID         |
+| `views`            | Número de visualizaciones del evento           | Integer      |
+| `favorites`        | Número de usuarios que marcaron como favorito  | Integer      |
+| `ticketsSold`      | Entradas vendidas                              | Integer      |
+| `ratingAvg`        | Promedio de calificaciones                     | Double       |
+| `ratingCount`      | Número total de calificaciones recibidas       | Integer      |
 
 ## 4.8. Database Design  
 
