@@ -61,7 +61,7 @@ Neovent es una startup limeña que nace con el propósito de transformar la mane
       <img src="../../assets/chapter-1/integrante5.jpg" alt="Integrante 5" width="500">
     </td>
     <td style="width:65%; vertical-align:top; padding:8px;">
-      <strong>Nombre Apellido (U---)</strong> – <em>Carrera</em><br><br>
+      <strong>Jose Adrian Paredes Davila (U202216163)</strong> – <em>Ingenieria de Software</em><br><br>
       <p style="margin:0;">
         ---
       </p>
