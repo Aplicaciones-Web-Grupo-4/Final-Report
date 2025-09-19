@@ -82,7 +82,7 @@
 | 2  |US02 |  Landing Page | **Como** visitante **quiero** ver la página principal **para** conocer la propuesta de NextHappen. | 3 |
 | 3  |US03 |  Iniciar sesión | **Como**usuario **quiero** iniciar sesión **para** acceder a mis preferencias y ferias guardadas. | 3 |
 | 4  |US04 |  Favoritos | **Como** usuario **quiero** seleccionar intereses y distritos favoritos **para** recibir notificaciones favoritas. | 5 |
-| 5  |US05 |  Eventos Recomendados| **Como** usuario **quiero**  ver un listadode ferias recomendadas **para** encontrar ferias de mi gusto. | 5 |
+| 5  |US05 |  Eventos Recomendados| **Como** usuario **quiero**  ver un listado de ferias recomendadas **para** encontrar ferias de mi gusto. | 5 |
 | 6  |US06 | Buscar ferias | **Como** usuario registrado **quiero** buscar ferias por ubicación, fechas o categoría **para** encontrar opciones relevantes. | 5 |
 | 7  |US07 |  Ver detalle de ferias | **Como** usuario registrado **quiero** ver información detallada de una feria(mapa,horarios) **para** organizar mi visita. | 8 |
 | 8  |US08 |  Guardar feria | **Como** usuario **quiero** guardar ferias en una lista **para** acceder con frecuencia de mi preferencia. | 3 |
