@@ -173,7 +173,7 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
   </tr>
   <tr>
     <td>NeoEventC/Project-Reportt</td>
-    <td>main</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
