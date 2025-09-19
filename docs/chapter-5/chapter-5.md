@@ -51,6 +51,43 @@ La gestión de todas las actividades de la startup **Neovent** se lleva a cabo d
 ---
 
 ### 5.1.3. Source Code Style Guide & Conventions  
+En el desarrollo de **NextHappen**, se han adoptado guías de estilo reconocidas que permiten mantener un código legible, consistente y fácil de mantener.  
+A continuación, se describen las convenciones aplicadas en este proyecto:
+
+---
+
+## HTML & CSS
+
+Se sigue la **Google HTML/CSS Style Guide**:  
+[Guía oficial](https://google.github.io/styleguide/htmlcssguide.html)
+
+**Convenciones aplicadas:**
+- Declarar siempre el tipo de documento con `<!DOCTYPE html>`.  
+- Usar nombres de elementos en **minúsculas** (`<h1>`, `<p>`, `<footer>`).  
+- Cerrar correctamente los elementos HTML (`<h1></h1>`).  
+- Colocar los **atributos entre comillas** (`<img src="logo.png" alt="Logo">`).  
+- Declarar siempre `alt`, `width` y `height` en las imágenes.  
+- Mantener un espaciado consistente en el código.  
+- Evitar líneas excesivamente largas.  
+- Incluir siempre `<title>` dentro de `<head>`.  
+- Usar **meta tags** para SEO y responsividad.  
+- Organizar las clases de CSS siguiendo la convención **BEM (Block, Element, Modifier)** para mejorar la escalabilidad.  
+
+---
+
+## JavaScript
+
+Se sigue la **Google JavaScript Style Guide**:  
+[Guía oficial](https://google.github.io/styleguide/jsguide.html)
+
+**Convenciones aplicadas:**
+- Nombrar variables y funciones en **camelCase** (`function openMenu() {}`).  
+- Usar **espacios después de comas y dos puntos**.  
+- Strings con **comillas simples** (`'texto'`).  
+- Siempre finalizar sentencias con `;`.  
+- Evitar `var`; usar **`let`** o **`const`**.  
+- Mantener funciones cortas y con una única responsabilidad.  
+- Comentar solo lo necesario, priorizando código autoexplicativo.
 
 ### 5.1.4. Software Deployment Configuration  
 
