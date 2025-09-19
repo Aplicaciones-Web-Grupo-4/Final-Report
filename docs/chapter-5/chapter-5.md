@@ -113,6 +113,50 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 | **Sum of story points:**| 18 | 
 
 #### 5.2.1.2. Aspect Leaders and Collaborators 1  
+<table border="1">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Aspect Name 1 Leader (L) / Collaborator (C)</th>
+    <th>Aspect Name 2 Leader (L) / Collaborator (C)</th>
+    <th>Aspect Name 3 Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>Chirito Torres, Jose Raul</td>
+    <td>JoseR044</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 #### 5.2.1.3. Sprint Backlog 1  
 ![Sprint1](../../assets/chapter-5/sprint1.png)
