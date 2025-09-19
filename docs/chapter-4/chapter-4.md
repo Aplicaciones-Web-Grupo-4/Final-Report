@@ -661,3 +661,5 @@ Estos wireframes establecen la base de una plataforma dinámica, social y fácil
 ## 4.8. Database Design  
 
 ### 4.8.1. Database Diagram  
+![Diagrama_DB1](/assets/chapter-4/Diagrama_DB1.png)
+![Diagrama_DB2](/assets/chapter-4/Diagrama_DB2.png)
