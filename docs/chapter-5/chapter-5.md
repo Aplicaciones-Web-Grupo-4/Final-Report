@@ -143,8 +143,8 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <td></td>
   </tr>
   <tr>
-    <td>-</td>
-    <td></td>
+    <td>Martinez Gaona, Pablo Afranio</td>
+    <td>Delzekl</td>
     <td></td>
     <td></td>
     <td></td>
