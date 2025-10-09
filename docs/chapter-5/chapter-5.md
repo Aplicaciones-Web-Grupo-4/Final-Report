@@ -250,3 +250,12 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 ![network-graph-sprint1.jpg](../../assets/chapter-5/network-graph-sprint1.jpg)
 ![visitors-sprint1.jpg](../../assets/chapter-5/visitors-sprint1.jpg)
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+#### 5.2.2.2. Aspect Leaders and Collaborators
+#### 5.2.2.3. Sprint Backlog 2
+#### 5.2.2.4. Development Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
