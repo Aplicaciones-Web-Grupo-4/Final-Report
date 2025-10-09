@@ -205,18 +205,18 @@ El sistema de navegación de NextHappen está diseñado para ser intuitivo, incl
 
 ### 4.3.1. Landing Page Wireframe  
 
-![wireframe_landing.png](/assets/chapter-4/wireframe_landing.png)<br>
-![wireframe_landing1.png](/assets/chapter-4/wireframe_landing1.png)<br>
-![wireframe_landing2.png](/assets/chapter-4/wireframe_landing2.png)<br>
-![wireframe_landing3.png](/assets/chapter-4/wireframe_landing3.png)<br>
+![wireframe_landing.png](../../assets/chapter-4/wireframe_landing.png)<br>
+![wireframe_landing1.png](../../assets/chapter-4/wireframe_landing1.png)<br>
+![wireframe_landing2.png](../../assets/chapter-4/wireframe_landing2.png)<br>
+![wireframe_landing3.png](../../assets/chapter-4/wireframe_landing3.png)<br>
 
 ### 4.3.2. Landing Page Mock-up 
 
-![mockup_landing.png](/assets/chapter-4/mockup_landing.png)
-![mockup_landing1.png](/assets/chapter-4/mockup_landing1.png)
-![mockup_landing2.png](/assets/chapter-4/mockup_landing2.png)
-![mockup_landing3.png](/assets/chapter-4/mockup_landing3.png)
-![mockup_landing4.png](/assets/chapter-4/mockup_landing4.png)
+![mockup_landing.png](../../assets/chapter-4/mockup_landing.png)
+![mockup_landing1.png](../../assets/chapter-4/mockup_landing1.png)
+![mockup_landing2.png](../../assets/chapter-4/mockup_landing2.png)
+![mockup_landing3.png](../../assets/chapter-4/mockup_landing3.png)
+![mockup_landing4.png](../../assets/chapter-4/mockup_landing4.png)
 
 
 ## 4.4. Web Applications UX/UI Design  
@@ -239,54 +239,54 @@ Los wireframes de la plataforma web NextHappen muestran una estructura pensada p
 
 Estos wireframes establecen la base de una plataforma dinámica, social y fácil de usar, que promueve el descubrimiento de eventos en Lima y fortalece la conexión entre usuarios, organizadores y emprendedores.
 
-![wireframe_web](/assets/chapter-4/wireframe_web.png)
+![wireframe_web](../../assets/chapter-4/wireframe_web.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams  
 
 ### 4.4.3. Web Applications Mock-ups  
 
-![mockup_web.png](/assets/chapter-4/mockup_web.png)
+![mockup_web.png](../../assets/chapter-4/mockup_web.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams 
 
-![web_user_flow](/assets/chapter-4/web_user_flow.png)
+![web_user_flow](../../assets/chapter-4/web_user_flow.png)
 
 ## 4.5. Web Applications Prototyping  
 
-![web_user_flow](/assets/chapter-4/web_user_flow.png)
+![web_user_flow](../../assets/chapter-4/web_user_flow.png)
 
 ## 4.6. Domain-Driven Software Architecture  
 
 ### 4.6.1. Software Architecture Context Diagram  
-![Context Diagram](/assets/chapter-4/Context_Diagram.png)
+![Context Diagram](../../assets/chapter-4/Context_Diagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams  
-![Container Diagram](/assets/chapter-4/Container_Diagram.png)
+![Container Diagram](../../assets/chapter-4/Container_Diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams  
 
 #### Diagrama de componentes - Content Bounded Context
-![Content_BC](/assets/chapter-4/Content_BC.png)
+![Content_BC](../../assets/chapter-4/Content_BC.png)
 
 #### Diagrama de componentes - Discovery Bounded Context
-![Discovery_BC](/assets/chapter-4/Discovery_BC.png)
+![Discovery_BC](../../assets/chapter-4/Discovery_BC.png)
 
 #### Diagrama de componentes - Identity Bounded Context
-![Identity_BC](/assets/chapter-4/Identity_BC.png)
+![Identity_BC](../../assets/chapter-4/Identity_BC.png)
 
 #### Diagrama de componentes - Media Bounded Context
-![Media_BC](/assets/chapter-4/Media_BC.png)
+![Media_BC](../../assets/chapter-4/Media_BC.png)
 
 #### Diagrama de componentes - Notifications Bounded Context
-![Notifications_BC](/assets/chapter-4/Notifications_BC.png)
+![Notifications_BC](../../assets/chapter-4/Notifications_BC.png)
 
 #### Diagrama de componentes - Ticketing Bounded Context
-![Ticketing_BC](/assets/chapter-4/Ticketing_BC.png)
+![Ticketing_BC](../../assets/chapter-4/Ticketing_BC.png)
 
 ## 4.7. Software Object-Oriented Design  
 
 ### 4.7.1. Class Diagrams  
-![Diagrama_de_Clases](/assets/chapter-4/Diagrama_de_Clases.png)
+![Diagrama_de_Clases](../../assets/chapter-4/Diagrama_de_Clases.png)
 
 ### 4.7.2. Class Dictionary  
 #### Clase: `User`
@@ -661,5 +661,5 @@ Estos wireframes establecen la base de una plataforma dinámica, social y fácil
 ## 4.8. Database Design  
 
 ### 4.8.1. Database Diagram  
-![Diagrama_DB1](/assets/chapter-4/Diagrama_DB1.png)
-![Diagrama_DB2](/assets/chapter-4/Diagrama_DB2.png)
+![Diagrama_DB1](../../assets/chapter-4/Diagrama_DB1.png)
+![Diagrama_DB2](../../assets/chapter-4/Diagrama_DB2.png)
