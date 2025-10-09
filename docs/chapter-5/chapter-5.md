@@ -91,6 +91,14 @@ Se sigue la **Google JavaScript Style Guide**:
 
 ### 5.1.4. Software Deployment Configuration  
 
+  <p>Para desplegar la Landing Page desde GitHub Pages hay que seguir estos pasos:</p>
+
+  <ol>
+    <li>Ubicar el repositorio y dirigirse a <strong>Settings</strong>.</li>
+    <li>Seleccionar la sección <strong>Pages</strong>.</li>
+    <li>Configurar la rama que será usada para deploy.</li>
+  </ol>
+
 ## 5.2. Landing Page, Services & Applications Implementation  
 
 ### 5.2.1. Sprint 1  
