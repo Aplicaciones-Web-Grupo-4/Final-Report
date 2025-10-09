@@ -253,6 +253,50 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
 #### 5.2.2.2. Aspect Leaders and Collaborators
+<table border="1">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Aspect Name 1 Leader (L) / Collaborator (C)</th>
+    <th>Aspect Name 2 Leader (L) / Collaborator (C)</th>
+    <th>Aspect Name 3 Leader (L) / Collaborator (C)</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Ruiz Madrid, Billy Jake</td>
+    <td>BJRM03</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Chirito Torres, Jose Raul</td>
+    <td>JoseR044</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Martinez Gaona, Pablo Afranio</td>
+    <td>Delzekl</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 #### 5.2.2.3. Sprint Backlog 2
 #### 5.2.2.4. Development Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
