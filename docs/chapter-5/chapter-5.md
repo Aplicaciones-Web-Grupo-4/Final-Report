@@ -239,5 +239,9 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
   </table>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
+<p>
+  <a href="https://aplicaciones-web-grupo-4.github.io/Landing-Page/">Landing Page NEXTHAPPEN</a> -
+  <a href="https://aplicaciones-web-grupo-4.github.io/Landing-Page/">https://aplicaciones-web-grupo-4.github.io/Landing-Page/</a>
+</p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
