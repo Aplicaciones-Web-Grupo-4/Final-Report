@@ -174,27 +174,86 @@ Análisis de los datos obtenidos durante las entrevistas:
 ![User_Persona2](../../assets/chapter-2/User_Persona2.png)
 ---
 
-### 2.3.2. User Task Matrix
+<h3>2.3.2. User Task Matrix</h3>
+<p>
+El <em>User Task Matrix</em> concentra las tareas que realizan los dos segmentos priorizados, independientemente de la existencia del software.
+Se evalúan con dos criterios por cada User Persona: <strong>Frecuencia</strong> (Rarely / Occasionally / Often) e <strong>Importancia</strong> (Low / Medium / High).<br>
+<strong>Segmentos considerados</strong>:
+- <strong>Usuario – Asistente a ferias (Mariana Rafael)</strong>
+- <strong>Organizador de ferias (Carlos Garnique)</strong>
+</p>
 
-> Segmento 1 – Usuario (Mariana Rafael)  
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse:collapse; width:100%; font-family:Arial, sans-serif; text-align:center;">
+  <thead>
+    <tr style="background-color:#eef3f7;">
+      <th rowspan="2" style="width:30%; text-align:left;">Tarea</th>
+      <th colspan="2" style="width:35%;">Usuario – Mariana Rafael</th>
+      <th colspan="2" style="width:35%;">Organizador – Carlos Garnique</th>
+    </tr>
+    <tr style="background-color:#eef3f7;">
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left;">Descubrir ferias y filtrar por intereses (categoría, fecha, distrito)</td>
+      <td>Often</td><td>High</td>
+      <td>—</td><td>—</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Ver mapa, ubicación exacta y cómo llegar</td>
+      <td>Often</td><td>High</td>
+      <td>Occasionally</td><td>Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Revisar/actualizar itinerario, horarios y stands</td>
+      <td>Often</td><td>High</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Suscribirse / Enviar notificaciones en tiempo real (cambios, promos)</td>
+      <td>Often</td><td>High</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Comprar / Gestionar entradas (digital)</td>
+      <td>Occasionally</td><td>High</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Guardar en favoritos (usuario) / Promocionar la feria (organizador)</td>
+      <td>Occasionally</td><td>Medium</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Leer / Recibir / Dejar reseñas y feedback</td>
+      <td>Occasionally</td><td>Medium</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Compartir evento en redes</td>
+      <td>Occasionally</td><td>Medium</td>
+      <td>Occasionally</td><td>Medium</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Consultar métricas (ventas, asistentes, engagement)</td>
+      <td>—</td><td>—</td>
+      <td>Often</td><td>High</td>
+    </tr>
+    <tr>
+      <td style="text-align:left;">Gestionar stands y participantes (altas/bajas, categorías, perfiles)</td>
+      <td>—</td><td>—</td>
+      <td>Often</td><td>High</td>
+    </tr>
+  </tbody>
+</table>
 
-| **Tarea** | **Frecuencia** | **Importancia** |  
-|-----------|----------------|-----------------|  
-| Buscar información sobre ferias | Often | High |  
-| Ubicar ferias en un mapa | Often | High |  
-| Comprar entradas online | Occasionally | High |  
-| Recibir notificaciones en tiempo real | Often | High |  
-| Consultar reseñas de otros asistentes | Occasionally | Medium |  
-
-> Segmento 2 – Organizador (Carlos Garnique)  
-
-| **Tarea** | **Frecuencia** | **Importancia** |  
-|-----------|----------------|-----------------|  
-| Promocionar ferias en la plataforma | Often | High |  
-| Actualizar información en tiempo real | Often | High |  
-| Consultar métricas (ventas, asistentes) | Occasionally | High |  
-| Gestionar ferias desde un panel centralizado | Occasionally | High |  
-| Recibir reseñas y feedback de asistentes | Occasionally | Medium |  
+<p style="font-size:12px; color:#555; margin-top:6px;">
+Leyenda: “—” indica que la tarea no aplica para el segmento.
+</p>
 
 ---
 
