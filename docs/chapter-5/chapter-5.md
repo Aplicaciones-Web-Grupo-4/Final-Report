@@ -192,7 +192,7 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <th>Commited</th>
   </tr>
   <tr>
-    <td>NeoEvent/Final-Report</td>
+    <td>NeoEvent/Landing-Page</td>
     <td>main</td>
     <td>29d993ea484b9b5e496b438bda6f5e92076161d7</td>
     <td>Initial commit</td>
@@ -200,41 +200,73 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <td>07/09/25</td>
   </tr>
   <tr>
-    <td>NeoEvent/-</td>
+    <td>NeoEvent/Landing-Page</td>
+    <td>main</td>
+    <td>24e8d878410ecc55498aa5cd358fe0db91b19df4</td>
+    <td>Add files via upload</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>07/09/25</td>
   </tr>
   <tr>
-    <td>NeoEvent/-</td>
+    <td>NeoEvent/Landing-Page</td>
+    <td>main</td>
+    <td>463e00f35d1945dbb6125bb8b0854f447341b140</td>
+    <td>update images</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>07/09/25</td>
   </tr>
-  <tr>
-    <td>NeoEvent/-</td>
+    <tr>
+    <td>NeoEvent/Landing-Page</td>
+    <td>main</td>
+    <td>c5c13399dd77e057e16e832dbbf291988a0bf4a9</td>
+    <td>add functions carousel buttons</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>07/09/25</td>
   </tr>
-  <tr>
-    <td>NeoEvent/-</td>
+    <tr>
+    <td>NeoEvent/Landing-Page</td>
+    <td>main</td>
+    <td>1689ad5f8d7bccca0dded24cfdfe22566ecf39e0</td>
+    <td>add first version responsive</td>
     <td></td>
+    <td>07/09/25</td>
+  </tr>
+    <tr>
+    <td>NeoEvent/Landing-Page</td>
+    <td>main</td>
+    <td>ff3417cf718c22127186b531c8b9edadfc5d7a97</td>
+    <td>add footer</td>
     <td></td>
+    <td>08/09/25</td>
+  </tr>
+    <tr>
+    <td>NeoEvent/Landing-Page</td>
+    <td>main</td>
+    <td>b514ee9e2c83852016457a1d80d414e2cbd23719</td>
+    <td>first responsive version</td>
     <td></td>
+    <td>08/09/25</td>
+  </tr>
+    <tr>
+    <td>NeoEvent/Landing-Page</td>
+    <td>main</td>
+    <td>d8479899930908b725d29366419800fe9d328ee3</td>
+    <td>version 1.0, with translations and responsive</td>
     <td></td>
-    <td></td>
+    <td>19/09/25</td>
   </tr>
 </table>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review  
+<p>Para esta entrega NeoEvent implemento el Landing Page, mostrando la información relevante para que los usuarios puedan conocer respecto a nosotros, tales como los integrantes, nuestros valores, funciones, etc. </p>
 
+![Landing_1.png](../../assets/chapter-5/Landing_1.png)
+![Landing_2.png](../../assets/chapter-5/Landing_2.png)
+![Landing_3.png](../../assets/chapter-5/Landing_3.png)
+![Landing_4.png](../../assets/chapter-5/Landing_4.png)
+![Landing_5.png](../../assets/chapter-5/Landing_5.png)
+![Landing_6.png](../../assets/chapter-5/Landing_6.png)
+  
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
   <p>En el primer Sprint el equipo diseñó, programó y puso en funcionamiento la Landing Page para presentar la aplicación web "NEXTHAPPEN".</p>
 
@@ -312,6 +344,23 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 </table>
 
 #### 5.2.2.3. Sprint Backlog 2
+
+| *User Story* |  |  |  |  |  |  |
+|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| *ID* | *Title* | *ID* | *Work-item / Task* | *Description* | *Estimation (Hours)* | *Assigned To* | *Status (To-do / In-Process / To-Review / Done)* |
+| *US09* | *Favoritos* | 01 | Agregar botón de “Favoritos” | Implementar un botón visible en cada feria o evento. | 2 | Pablo | Done |
+|  |  | 02 | Guardar evento en lista personal | Permitir que el evento marcado se guarde en la lista del usuario. | 2 | Pablo | Done |
+| *US14* | *Publicación de feria* | 03 | Crear formulario de registro | Diseñar un formulario con los campos necesarios para registrar la feria. | 3 | Billy | Done |
+|  |  | 04 | Guardar y publicar feria | Configurar el guardado y la publicación de la feria en la base de datos. | 2 | Billy | Done |
+| *US15* | *Actualización de datos* | 05 | Habilitar edición de horarios y ubicación | Permitir al organizador actualizar la información de su feria. | 3 | Jose Chirito | Done |
+|  |  | 06 | Notificar cambios a visitantes | Implementar notificaciones automáticas cuando se actualicen los datos. | 2 | Jose Chirito | Done |
+| *US19* | *Panel de información* | 07 | Crear vista de panel administrativo | Diseñar un panel con métricas visuales de los eventos. | 3 | Jose Paredes | Done |
+|  |  | 08 | Mostrar estadísticas generales | Configurar la obtención y visualización de estadísticas (asistencias, ventas, etc.). | 2 | Jose Paredes | Done |
+| *US21* | *Creación de eventos con detalles completos* | 09 | Añadir campos de imágenes, dirección y fechas | Incorporar estos campos al formulario de creación de eventos. | 3 | Marco | Done |
+|  |  | 10 | Mostrar datos completos en la vista de evento | Asegurar que los detalles se visualicen correctamente después de guardar. | 2 | Marco | Done |
+| *US22* | *Roles de equipo* | 11 | Crear sección para añadir miembros | Permitir que el organizador agregue integrantes del equipo. | 2 | Jose Chirito | Done |
+|  |  | 12 | Asignar roles y accesos limitados | Configurar permisos según el rol asignado (organizador, asistente, apoyo). | 2 | Jose Chirito | Done |
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 
 <table>
