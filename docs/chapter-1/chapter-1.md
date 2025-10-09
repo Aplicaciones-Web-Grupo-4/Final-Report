@@ -6,68 +6,16 @@
 Neovent es una startup limeña que nace con el propósito de transformar la manera en la que los ciudadanos descubren y disfrutan las ferias gastronómicas de la ciudad. Bajo el producto NextHappen, buscamos convertirnos en el punto de encuentro digital donde los limeños puedan encontrar de forma sencilla y confiable los mejores eventos gastronómicos cerca de ellos, acceder a la compra de entradas y recibir recomendaciones personalizadas. Con un enfoque fresco y humano, Neovent se plantea como un puente entre el ecosistema emprendedor y el público, facilitando que nadie se pierda de una experiencia cultural, artística o culinaria que enriquezca su vida.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-<table style="width:100%; border-collapse:collapse;">
+## 👥 Integrantes del Equipo
 
-  <tr>
-    <td style="width:35%; vertical-align:top; padding:8px;">
-      <img src="../../assets/chapter-1/integrante1.jpg" alt="Integrante 1" width="500">
-    </td>
-    <td style="width:65%; vertical-align:top; padding:8px;">
-      <strong>Nombre Apellido (U---)</strong> – <em>Carrera</em><br><br>
-      <p style="margin:0;">
-        ---
-      </p>
-    </td>
-  </tr>
+| Foto | Información |
+|:----:|:-------------|
+| ![Pablo Afranio Martinez Gaona](../../assets/chapter-1/Pablo_Perfil.jpeg) | **Pablo Afranio Martinez Gaona (U202120011)** – *Ingeniería de Software*  <br><br> Tengo 23 años y estoy estudiando en la Universidad Peruana de Ciencias Aplicadas. Me considero alguien adaptable a la situación, así como alguien que trabaja muy bien en equipo. Manejo lenguajes de programación como C++ y Python, así como manejo de SQL. Busco aprender más acerca de la ciencia de datos así como de la inteligencia artificial. |
+| ![Jose Raul Chirito Torres](../../assets/chapter-1/Jose.png) | **Jose Raul Chirito Torres (U20201A293)** – *Ingeniería de Software*  <br><br> Tengo 23 años y estudio la carrera de Ingeniería de Software. Considero que aprendo rápido, participo en los grupos y avanzo a tiempo los trabajos grupales. Tengo conocimiento de varios lenguajes de programación y me adecuo a lo nuevo. |
+| ![Billy Jake Ruiz Madrid](../../assets/chapter-1/Billy.jpg) | **Billy Jake Ruiz Madrid (U202116401)** – *Ingeniería de Software*  <br><br> Tengo 21 años, soy una persona tranquila, colaborativa y adaptable. Me gusta trabajar en equipo, aportando ideas y soluciones que contribuyan al desarrollo de los proyectos. Prefiero colaborar antes que liderar y suelo integrarme bien con distintos estilos de trabajo, lo que me permite adaptarme fácilmente al grupo. Cuento con conocimientos en lenguajes de programación como C++ y Python. Siempre busco formas de hacer las cosas bien, de manera eficiente y sin complicaciones. |
+| ![Jose Adrian Paredes Davila](../../assets/chapter-1/JoseP.jpg) | **Jose Adrian Paredes Davila (U202216163)** – *Ingeniería de Software*  <br><br> Poseo conocimientos básicos en programación con C++, Python y HTML. Me caracterizo por valorar el trabajo en equipo, manteniendo siempre una actitud colaborativa y comprometida con el logro de los objetivos, aportando de manera responsable para un buen rendimiento grupal. |
+| ![Marco Antonio Nakasone Gomes](../../assets/chapter-1/marco.jpg) | **Marco Antonio Nakasone Gomes** – *Ingeniería de Software*  <br><br> Tengo 21 años y estoy cursando el 7mo ciclo de la carrera de Ingeniería de Software. Considero que soy bueno trabajando de manera grupal, y cumplo con todas las tareas a tiempo. Me gusta aportar con ideas buenas y óptimas para poder mejorar el trabajo. |
 
-  <tr>
-    <td style="width:35%; vertical-align:top; padding:8px;">
-      <img src="../../assets/chapter-1/Pablo_Perfil.jpeg" alt="Pablo Perfil" width="500">
-    </td>
-    <td style="width:65%; vertical-align:top; padding:8px;">
-      <strong>Pablo Afranio Martinez Gaona (U202120011)</strong> – <em>Ingenieria de Software</em><br><br>
-      <p style="margin:0;">
-      Tengo 23 años y estoy estudiando en la Universidad Peruana de Ciencias Aplicadas. Me considero alguien adaptable a la situación, asi como alguien que trabaja muy bien en equipo. Manejo lenguajes de programación como c++ y python, así como manejo de SQL. Busco aprender más acerca de la ciencia de datos asi como de la inteligencia artificial.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width:35%; vertical-align:top; padding:8px;">
-      <img src="../../assets/chapter-1/Jose.png" alt="Integrante 3" width="500">
-    </td>
-    <td style="width:65%; vertical-align:top; padding:8px;">
-      <strong>Jose Raul Chirito Torres (U20201a293)</strong> – <em>Ingenieria de Software</em><br><br>
-      <p style="margin:0;">
-        Tengo 23 años y estudio la carrera de Ingenieráa de Software.Considero que aprendo rápido ,participo en los grupos y avanzo a tiempo los trabajos grupales. Tengo conocimiento de varios lenguajes de programación y me adecuo a lo nuevo.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width:35%; vertical-align:top; padding:8px;">
-      <img src="../../assets/chapter-1/Billy.jpg" alt="Integrante 4" width="500">
-    </td>
-    <td style="width:65%; vertical-align:top; padding:8px;">
-      <strong>Billy Jake Ruiz Madrid (U202116401)</strong> – <em>Ingenieria de Software</em><br><br>
-      <p style="margin:0;">
-      Tengo 21 años, soy una persona tranquila, colaborativa y adaptable. Me gusta trabajar en equipo, aportando ideas y soluciones que contribuyan al desarrollo de los proyectos. Prefiero colaborar antes que liderar y suelo integrarme bien con distintos estilos de trabajo, lo que me permite adaptarme fácilmente al grupo. Cuento con conocimientos en lenguajes de programación como C++ y Python. Siempre busco formas de hacer las cosas bien, de manera eficiente y sin complicaciones.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="width:35%; vertical-align:top; padding:8px;">
-      <img src="../../assets/chapter-1/JoseP.jpg" alt="Integrante 5" width="500">
-    </td>
-    <td style="width:65%; vertical-align:top; padding:8px;">
-      <strong>Jose Adrian Paredes Davila (U202216163)</strong> – <em>Ingenieria de Software</em><br><br>
-      <p style="margin:0;">
-        Mi nombre es Jose Adrian Paredes Davila. Poseo conocimientos básicos en programación con C++, Python y HTML. Me caracterizo por valorar el trabajo en equipo, manteniendo siempre una actitud colaborativa y comprometida con el logro de los objetivos, aportando de manera responsable para un buen rendimiento grupal.
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## 1.2. Solution Profile
 
