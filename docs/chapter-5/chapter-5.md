@@ -245,3 +245,8 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 </p>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
+
+![overview-spring1.jpg](../../assets/chapter-5/overview-spring1.jpg)
+![network-graph-sprint1.jpg](../../assets/chapter-5/network-graph-sprint1.jpg)
+![visitors-sprint1.jpg](../../assets/chapter-5/visitors-sprint1.jpg)
+
