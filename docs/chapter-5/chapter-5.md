@@ -129,8 +129,8 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <td></td>
   </tr>
   <tr>
-    <td>-</td>
-    <td></td>
+    <td>Ruiz Madrid, Billy Jake</td>
+    <td>BJRM03</td>
     <td></td>
     <td></td>
     <td></td>
