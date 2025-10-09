@@ -132,37 +132,37 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
   <tr>
     <td>Nakasone Gomes, Marco Antonio</td>
     <td>marquinho04</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Ruiz Madrid, Billy Jake</td>
     <td>BJRM03</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Chirito Torres, Jose Raul</td>
     <td>JoseR044</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Martinez Gaona, Pablo Afranio</td>
     <td>Delzekl</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Paredes Davila, Jose Adrian</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>joseadro09</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
   </tr>
 </table>
 
@@ -326,37 +326,37 @@ En esta sección, se presentará el *Sprint Planning 2, donde se describirá de 
   <tr>
     <td>Nakasone Gomes, Marco Antonio</td>
     <td>marquinho04</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Ruiz Madrid, Billy Jake</td>
     <td>BJRM03</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Chirito Torres, Jose Raul</td>
     <td>JoseR044</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Martinez Gaona, Pablo Afranio</td>
     <td>Delzekl</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Paredes Davila, Jose Adrian</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>joseadro09</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
   </tr>
 </table>
 
