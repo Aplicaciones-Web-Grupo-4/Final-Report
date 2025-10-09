@@ -257,5 +257,20 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 #### 5.2.2.4. Development Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+  <p>En el segundo Sprint el equipo diseñó, programó y puso en funcionamiento el Front-end para presentar la aplicación web "NEXTHAPPEN".</p>
+
+  <table>
+    <thead>
+      <tr><th>End Point</th><th>Funciones</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>https://front-end-5r5h.vercel.app/user/home</td>
+        <td>Mostrar el Front-end Desplegado</td>
+      </tr>
+    </tbody>
+  </table>
+  
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint
