@@ -167,7 +167,19 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 </table>
 
 #### 5.2.1.3. Sprint Backlog 1  
-![Sprint1](../../assets/chapter-5/sprint1.png)
+| *User Story* |  |  |  |  |  |  |
+|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| *ID* | *Title* | *ID* | *Work-item / Task* | *Description* | *Estimation (Hours)* | *Assigned To* | *Status (To-do / In-Process / To-Review / Done)* |
+| *US01* | *Acceso a la aplicación* | 01 | Crear botón de acceso | Se diseña e implementa un botón visible que dirija a la aplicación principal. | 1 | Marco | Done |
+|  |  | 02 | Ubicar el botón en zona visible | Se asegura que el botón esté en una posición fácil de encontrar en la página principal. | 1 | Marco | Done |
+| *US02* | *Cambio de idioma* | 03 | Agregar opción de idioma | Se agregan los botones para cambiar entre español e inglés. | 2 | Marco | Done |
+|  |  | 04 | Ajustar textos traducidos | Se verifica que todo el contenido cambie correctamente según el idioma seleccionado. | 2 | Marco | In Process |
+| *US03* | *Navegación amigable* | 05 | Adaptar diseño a diferentes pantallas | Se optimiza la visualización de la página en dispositivos móviles, tablets y computadoras. | 2 | Marco | Done |
+|  |  | 06 | Revisar usabilidad general | Se prueba que el contenido sea fácil de leer y los elementos estén correctamente alineados. | 1 | Marco | In Process |
+| *US04* | *Contenido atractivo* | 07 | Agregar imágenes y carrusel | Se incorporan imágenes y un carrusel interactivo con ferias destacadas. | 2 | Marco | Done |
+|  |  | 08 | Ajustar tiempos de transición | Se define la velocidad y fluidez de los carruseles para una mejor experiencia. | 1 | Marco | To Do |
+| *US05* | *Conexión con redes sociales* | 09 | Insertar íconos de redes sociales | Se colocan íconos de redes sociales en el pie o menú principal. | 1 | Marco | Done |
+|  |  | 10 | Verificar enlaces funcionales | Se revisa que cada ícono redirija correctamente a la red social oficial. | 1 | Marco | To Do |
 
 #### 5.2.1.4. Development Evidence for Sprint Review  
 <table>
@@ -181,11 +193,11 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
   </tr>
   <tr>
     <td>NeoEvent/Final-Report</td>
+    <td>main</td>
+    <td>29d993ea484b9b5e496b438bda6f5e92076161d7</td>
+    <td>Initial commit</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>07/09/25</td>
   </tr>
   <tr>
     <td>NeoEvent/-</td>
