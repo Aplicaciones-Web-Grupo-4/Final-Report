@@ -296,6 +296,20 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
+| Sprint # | Sprint  |
+|----------|-----------|
+| **Sprint Planning Background**  |
+| **Date** |  |
+| **Time** |  |
+| **Location** | |
+| **Prepared by** |  |
+| **Attendees (to planning meeting)** | Todos los miembros del equipo NeoEvent |
+| **Sprint 1 Review Summary** |  |
+| **Sprint 1 Retrospective Summary** |  |
+|**Sprint Goal & User Stories**  
+| **Sprint 1 Velocity:**| 18  |
+| **Sum of story points:**| 18 | 
+
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
 <table border="1">
