@@ -379,7 +379,7 @@ En esta sección, se presentará el *Sprint Planning 2, donde se describirá de 
 |  |  | 12 | Asignar roles y accesos limitados | Configurar permisos según el rol asignado (organizador, asistente, apoyo). | 2 | Jose Chirito | Done |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
-
+En esta sección se incluyen los commits realizados para el front-end del Web Application. No obstante, como se realizaron varios commits, se mostraran los más relevantes.
 <table>
   <tr>
     <th>Repository</th>
@@ -390,44 +390,60 @@ En esta sección, se presentará el *Sprint Planning 2, donde se describirá de 
     <th>Commited</th>
   </tr>
   <tr>
-    <td>NeoEvent/Final-Report</td>
+    <td>NeoEvent/front-end</td>
+    <td>Entrepenour-and-Register-Stands</td>
+    <td>4f0fae1f2f63d508423d0a6ad528bcbb808013c0</td>
+    <td>Entrepreneur y Register Stand, teniendo el regsiter stand server para datos</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>06/10/25</td>
   </tr>
   <tr>
-    <td>NeoEvent/-</td>
+    <td>NeoEvent/front-end</td>
+    <td>organizer-header-menu</td>
+    <td>c9e800b3997b0116c20ba810f9abcf25044c47f5</td>
+    <td>add create event page with form and Google Maps integration</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>07/10/25</td>
   </tr>
   <tr>
-    <td>NeoEvent/-</td>
+    <td>NeoEvent/front-end</td>
+    <td>organizer-header-menu</td>
+    <td>733a73b5d48bcc088b66a69e3d6e278c476f3aca</td>
+    <td>add events page with data table for fairs and edit functionality</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>07/10/25</td>
   </tr>
   <tr>
-    <td>NeoEvent/-</td>
+    <td>NeoEvent/front-end</td>
+    <td>organizer-header-menu</td>
+    <td>2bc2103492bb128b247cf2be40f8fddb5defd455</td>
+    <td>feat: add db.json for event data and start.sh for json-server setup</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>07/10/25</td>
   </tr>
   <tr>
-    <td>NeoEvent/-</td>
+    <td>NeoEvent/front-end</td>
+    <td>feature/home</td>
+    <td>261fba918d7aec4825cc1cf4935da63e105af2f4</td>
+    <td>Integro src y server completos de NextHappen-clean a feature/home</td>
     <td></td>
+    <td>08/10/25</td>
+  </tr>
+    <tr>
+    <td>NeoEvent/front-end</td>
+    <td>master</td>
+    <td>6abdabf6d3aceec5c14715c32b3edd2a5de175f6</td>
+    <td>feat: implement user and organizer routing, enhance language support, and update UI components</td>
     <td></td>
+    <td>08/10/25</td>
+  </tr>
+    <tr>
+    <td>NeoEvent/front-end</td>
+    <td>master</td>
+    <td>969ffc2561cac202cfff77130a5acb3bb6c72afa</td>
+    <td>feat: integrate axios for API calls and update environment variables for production</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>08/10/25</td>
   </tr>
 </table>
 
