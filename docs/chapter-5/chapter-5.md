@@ -224,6 +224,19 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 #### 5.2.1.5. Execution Evidence for Sprint Review  
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
+  <p>En el primer Sprint el equipo diseñó, programó y puso en funcionamiento la Landing Page para presentar la aplicación web "NEXTHAPPEN".</p>
+
+  <table>
+    <thead>
+      <tr><th>End Point</th><th>Funciones</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>https://aplicaciones-web-grupo-4.github.io/Landing-Page/</td>
+        <td>Mostrar la Landing Page Desplegada</td>
+      </tr>
+    </tbody>
+  </table>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 
