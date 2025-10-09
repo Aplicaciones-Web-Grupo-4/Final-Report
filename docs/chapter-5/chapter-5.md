@@ -295,20 +295,23 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 ![visitors-sprint1.jpg](../../assets/chapter-5/visitors-sprint1.jpg)
 
 ### 5.2.2. Sprint 2
-#### 5.2.2.1. Sprint Planning 2
-| Sprint # | Sprint  |
+#### 5.2.1.2. Sprint Planning 2  
+
+En esta sección, se presentará el *Sprint Planning 2, donde se describirá de manera detallada cada una de las evidencias planificadas e implementaciones desarrolladas durante esta etapa, enfocada en la **gestión, visualización y administración de ferias y eventos*. Asimismo, se mostrarán los avances obtenidos en comparación con el sprint anterior y las mejoras aplicadas en la colaboración del equipo dentro del repositorio del proyecto.
+
+| Sprint # | Sprint 2 |
 |----------|-----------|
-| **Sprint Planning Background**  |
-| **Date** |  |
-| **Time** |  |
-| **Location** | |
-| **Prepared by** |  |
-| **Attendees (to planning meeting)** | Todos los miembros del equipo NeoEvent |
-| **Sprint 1 Review Summary** |  |
-| **Sprint 1 Retrospective Summary** |  |
-|**Sprint Goal & User Stories**  
-| **Sprint 1 Velocity:**| 18  |
-| **Sum of story points:**| 18 | 
+| *Sprint Planning Background*  |
+| *Date* | 2025/09/29 |
+| *Time* | 10:00 AM |
+| *Location* | Discord |
+| *Prepared by* | Marco Antonio Nakasone Gomes |
+| *Attendees (to planning meeting)* | Todos los miembros del equipo NeoEvent |
+| *Sprint 2 Review Summary* | Durante este sprint se desarrollaron nuevas funcionalidades orientadas a mejorar la experiencia de los usuarios dentro de la plataforma. Se implementaron módulos clave como la publicación de ferias, gestión de eventos con imágenes y fechas, favoritos, panel de estadísticas, actualización de datos en tiempo real y asignación de roles. Además, se mejoró la comunicación entre el front-end y el back-end para garantizar un flujo estable y coherente. |
+| *Sprint 2 Retrospective Summary* | En esta segunda iteración, el equipo trabajó de manera más coordinada y con una división clara de tareas. Se evidenció una mejora significativa en la colaboración mediante el uso de GitHub, creando ramas independientes para cada historia de usuario y consolidando los avances mediante pull requests. Además, se reforzó la comunicación en los daily meetings por Discord, lo que permitió resolver incidencias rápidamente. Se identificó como mejora futura optimizar la integración continua y realizar pruebas automáticas básicas. |
+| *Sprint Goal & User Stories* | El objetivo principal del Sprint 2 fue *fortalecer la gestión y administración de ferias y eventos, añadiendo nuevas funcionalidades para organizadores y visitantes que permitan una experiencia más completa y dinámica. <br><br> **User Stories incluidas:* <br> - *US09:* Favoritos <br> - *US14:* Publicación de feria <br> - *US15:* Actualización de datos <br> - *US19:* Panel de información <br> - *US21:* Creación de eventos con detalles completos <br> - *US22:* Roles de equipo |
+| *Sprint 2 Velocity:* | 30 |
+| *Sum of story points:* | 30 |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
