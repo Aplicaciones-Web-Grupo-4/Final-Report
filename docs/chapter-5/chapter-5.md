@@ -130,8 +130,8 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <th>Aspect Name 3 Leader (L) / Collaborator (C)</th>
   </tr>
   <tr>
-    <td>-</td>
-    <td></td>
+    <td>Nakasone Gomes, Marco Antonio</td>
+    <td>marquinho04</td>
     <td></td>
     <td></td>
     <td></td>
@@ -158,7 +158,7 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <td></td>
   </tr>
   <tr>
-    <td>-</td>
+    <td>Paredes Davila, Jose Adrian</td>
     <td></td>
     <td></td>
     <td></td>
@@ -307,8 +307,8 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <th>Aspect Name 3 Leader (L) / Collaborator (C)</th>
   </tr>
   <tr>
-    <td>-</td>
-    <td></td>
+    <td>Nakasone Gomes, Marco Antonio</td>
+    <td>marquinho04</td>
     <td></td>
     <td></td>
     <td></td>
@@ -335,7 +335,7 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
     <td></td>
   </tr>
   <tr>
-    <td>-</td>
+    <td>Paredes Davila, Jose Adrian</td>
     <td></td>
     <td></td>
     <td></td>
@@ -415,6 +415,23 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 </table>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+Se presenta capturas de partes importantes realizadas en el Sprint 2.
+
+* **Crear Cuenta**:
+![Deploy_Front_3.png](../../assets/chapter-5/Deploy_Front_3.png)
+
+* **Dashboard**:
+![Deploy_Front_4.png](../../assets/chapter-5/Deploy_Front_4.png)
+
+* **Stands**:
+![Deploy_Front_5.png](../../assets/chapter-5/Deploy_Front_5.png)
+
+* **Events**:
+![Deploy_Front_7.png](../../assets/chapter-5/Deploy_Front_7.png)
+
+* **Create Events**:
+![Deploy_Front_6.png](../../assets/chapter-5/Deploy_Front_6.png)
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
   <p>En el segundo Sprint el equipo diseñó, programó y puso en funcionamiento el Front-end para presentar la aplicación web "NEXTHAPPEN".</p>
