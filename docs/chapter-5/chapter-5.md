@@ -477,3 +477,15 @@ Se presenta capturas de partes importantes realizadas en el Sprint 2.
 ![overview-spring2.jpg](../../assets/chapter-5/overview-spring1.jpg)
 ![network-graph-sprint2.jpg](../../assets/chapter-5/network-graph-sprint1.jpg)
 ![visitors-sprint2.jpg](../../assets/chapter-5/visitors-sprint1.jpg)
+
+## Concluciones
+NextHappen se consolida como una plataforma digital destinada a centralizar la información y gestión de ferias y eventos, ofreciendo un entorno accesible tanto para organizadores como para visitantes. Su diseño busca reducir la dispersión de información y promover una experiencia unificada para el descubrimiento de actividades culturales y comerciales en Lima Metropolitana.
+
+La implementación del frontend con Vue.js y PrimeVue ha permitido desarrollar una interfaz modular, escalable y adaptable, que actualmente integra módulos de Dashboard y Stands, junto con un sistema de localización bilingüe (ES/EN) y una arquitectura preparada para la expansión hacia la gestión de eventos.
+
+El sistema mejora la eficiencia organizativa al centralizar el registro de emprendedores y stands, optimizando la visibilidad de los participantes y facilitando el mantenimiento de datos mediante operaciones CRUD integradas con una base local simulada (json-server).
+
+El enfoque colaborativo, la estandarización de estilos mediante PrimeFlex y el uso de control de versiones en GitHub garantizan coherencia visual, trazabilidad del código y despliegue continuo, sentando las bases para la integración futura del módulo de eventos y la publicación completa de la aplicación.
+
+## Anexos
+ Video <a href="https://upcedupe-my.sharepoint.com/personal/u202210790_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210790_upc_edu_pe%2FDocuments%2FApps%2Ftp1-web%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee398ff1f-cc65-4579-9f04-930d60a2b150">About the Product</a> -
