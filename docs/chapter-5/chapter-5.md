@@ -523,7 +523,7 @@ Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), s
 
 **Preguntas**
 
-1.  Acabas de probar el panel de organizador. ¿Cuál es tu primera impresión sobre la facilidad de uso para gestionar un evento?
+1.  ¿Cuál es tu primera impresión sobre la facilidad de uso para gestionar un evento?
 2.  ¿Qué tan claro fue el formulario para "Crear Eventos"? ¿Sientes que los campos solicitados (ubicación, fechas, imágenes) son los adecuados?
 3.  ¿El proceso de crear la feria primero y luego registrar los "Stands" te pareció un flujo lógico?
 4.  Viendo el "Dashboard", ¿las métricas que se muestran (Total Events, Total Stands) te parecen útiles para tu negocio? ¿Qué otra métrica te gustaría ver ahí?
