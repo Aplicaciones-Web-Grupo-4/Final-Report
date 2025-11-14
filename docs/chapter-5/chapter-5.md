@@ -716,6 +716,9 @@ El backend se desplegó en **Render**, utilizando una base de datos **MySQL** de
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+![overview-spring3.jpg](../../assets/chapter-5/overview-spring3.jpg)
+![network-graph-sprint3.jpg](../../assets/chapter-5/network-graph-sprint3.jpg)
+![visitors-sprint3.jpg](../../assets/chapter-5/visitors-sprint3.jpg)
 
 ## 5.3 Validation Interviews
 
