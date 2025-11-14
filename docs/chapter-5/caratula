@@ -1,0 +1,175 @@
+![image](https://github.com/Aplicaciones-Web-Grupo-4/Final-Report/blob/master/asstets/logoupc.png?raw=true)
+
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+
+## Carrera: Ingeniería de Software
+## Aplicaciones Web - Virtual 
+## PROFESOR: Oscar Ivan Villafuente Bazan
+## NRC: 7432
+## INFORME TF
+## START UP: 
+## PRODUCTO: NexteHappen
+
+### INTEGRANTES:
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #333; color: #fff;">Apellidos y Nombres</th>
+      <th style="background-color: #333; color: #fff;">Código de Alumno</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nakasone Gomes, Marco Antonio</td>
+      <td>U202210790</td>
+    </tr>
+    <tr>
+      <td>Martínez Gaona, Pablo Afranio</td>
+      <td>U202120011</td>
+    </tr>
+    <tr>
+      <td>Ruiz Madrid, Billy Jake</td>
+      <td>U202116401</td>
+    </tr>
+    <tr>
+      <td>Chirito Torres , Jose Raul</td>
+      <td>U20201A293</td>
+    </tr>
+    <tr>
+      <td>---</td>
+      <td>---</td>
+    </tr>
+    <tr>
+        <td>---</td>
+        <td>---</td>
+    </tr>
+  </tbody>
+</table>
+
+--- 
+
+# Registro de versiones del informe
+| Versión | Fecha      | Autor                                 | Descripción de modificación                                                                                                                 |
+|---------|------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+
+# Project Report Collaboration Insights
+
+#### Repositorio del informe del proyecto
+El informe del proyecto se encuentra alojado en el siguiente repositorio de la organización de GitHub del equipo:
+
+🔗 Enlace del repositorio: https://github.com/Aplicaciones-Web-Grupo-4/Final-Report
+
+A continuación, se detallan las actividades realizadas en cada entrega, la participación de los miembros del equipo, y las evidencias correspondientes.
+
+#### Desarrollo del informe
+
+##### Evidencia de colaboración
+
+
+
+# Contenido  
+
+## Tabla de Contenidos  
+
+### [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
+### [Project Report Collaboration Insights](#project-report-collaboration-insights)  
+### [Contenido](#contenido)  
+### [Student Outcome](#student-outcome)  
+
+### [Capítulo I: Introducción](#capítulo-i-introducción)  
+- [1.1. Startup Profile](#11-startup-profile)  
+  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)  
+  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)  
+- [1.2. Solution Profile](#12-solution-profile)  
+  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)  
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)  
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)  
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)  
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)  
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)  
+- [1.3. Segmentos objetivo](#13-segmentos-objetivo)  
+
+### [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)  
+- [2.1. Competidores](#21-competidores)  
+  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)  
+  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)  
+- [2.2. Entrevistas](#22-entrevistas)  
+  - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)  
+  - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)  
+  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)  
+- [2.3. Needfinding](#23-needfinding)  
+  - [2.3.1. User Personas](#231-user-personas)  
+  - [2.3.2. User Task Matrix](#232-user-task-matrix)  
+  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)  
+  - [2.3.4. Empathy Mapping](#234-empathy-mapping)  
+  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)  
+- [2.4. Ubiquitous Language](#24-ubiquitous-language)  
+
+### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)  
+- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)  
+- [3.2. User Stories](#32-user-stories)  
+- [3.3. Impact Mapping](#33-impact-mapping)  
+- [3.4. Product Backlog](#34-product-backlog)  
+
+### [Capítulo IV: Product Design](#capítulo-iv-product-design)  
+- [4.1. Style Guidelines](#41-style-guidelines)  
+  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)  
+  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)  
+- [4.2. Information Architecture](#42-information-architecture)  
+  - [4.2.1. Organization Systems](#421-organization-systems)  
+  - [4.2.2. Labeling Systems](#422-labeling-systems)  
+  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)  
+  - [4.2.4. Searching Systems](#424-searching-systems)  
+  - [4.2.5. Navigation Systems](#425-navigation-systems)  
+- [4.3. Landing Page UI Design](#43-landing-page-ui-design)  
+  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)  
+  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)  
+- [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)  
+  - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)  
+  - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)  
+  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)  
+  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)  
+- [4.5. Web Applications Prototyping](#45-web-applications-prototyping)  
+- [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)  
+  - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)  
+  - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)  
+  - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)  
+- [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)  
+  - [4.7.1. Class Diagrams](#471-class-diagrams)  
+  - [4.7.2. Class Dictionary](#472-class-dictionary)  
+- [4.8. Database Design](#48-database-design)  
+  - [4.8.1. Database Diagram](#481-database-diagram)  
+
+### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)  
+- [5.1. Software Configuration Management](#51-software-configuration-management)  
+  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)  
+  - [5.1.2. Source Code Management](#512-source-code-management)  
+  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)  
+  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)  
+- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
+  - [5.2.1. Sprint 1](#521-sprint-1)  
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)  
+    - [5.2.1.2. Aspect Leaders and Collaborators 1](#5212-aspect-leaders-and-collaborators)  
+    - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)  
+    - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)  
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)  
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+
+### [Conclusiones](#conclusiones)  
+- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)  
+
+### [Bibliografía](#bibliografía)  
+### [Anexos](#anexos)  
+
+# Student Outcome  
+El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5**  
+
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|--------------------------|--------------------------|------------------|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **TB1 (Sprint 1 – Landing Page):** <br> - **Yo, Pablo Martínez**, propuse la estructura base del HTML y apoyé en la maquetación general del sitio. <br> - **Yo, José Chirito**, organicé las tareas iniciales del grupo en Discord y ayudé a definir los roles de cada integrante. <br> - **Yo, Billy Ruiz**, participé en la elaboración del diseño visual y en la hoja de estilos, aportando ideas para la presentación final. <br> - **Yo, José Paredes**, me encargué de la documentación del Sprint Planning y de asegurar la coherencia de los textos y secciones. <br> - **Yo, Marco Nakasone**, integré las partes finales del proyecto y gestioné la subida del sitio a GitHub Pages. <br><br> **TP1 (Sprint 2 – Gestión de Ferias y Eventos):** <br> - **Yo, Pablo Martínez**, desarrollé la funcionalidad de “Favoritos” y colaboré en la conexión con la base de datos. <br> - **Yo, José Chirito**, lideré la implementación de la actualización de datos y la gestión de roles dentro de las ferias. <br> - **Yo, Billy Ruiz**, trabajé en la funcionalidad para la publicación de ferias y validé los formularios. <br> - **Yo, José Paredes**, desarrollé el panel de información para mostrar estadísticas de los eventos. <br> - **Yo, Marco Nakasone**, coordiné la integración de todos los módulos del sprint y diseñé la vista de creación de eventos con imágenes, dirección y rango de fechas. | **Conclusión TB1:** En el primer sprint aprendimos a organizarnos como equipo, compartiendo liderazgo y adaptándonos a las tareas de forma equitativa. Cada uno asumió responsabilidades según sus fortalezas y logramos entregar una landing page funcional gracias a la comunicación constante y el apoyo mutuo. <br><br> **Conclusión TP1:** En el segundo sprint fortalecimos nuestra coordinación y liderazgo compartido. El trabajo en equipo fue más fluido y logramos cumplir los objetivos del sprint, demostrando compromiso y una mejor distribución de roles para finalizar con éxito las nuevas funcionalidades de la plataforma. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **TB1 (Sprint 1 – Landing Page):** <br> - **Yo, Pablo Martínez**, participé en la definición de las metas del sprint y en la colaboración dentro del diseño del landing page. <br> - **Yo, José Chirito**, fomenté la comunicación en Discord y coordiné la asignación de tareas. <br> - **Yo, Billy Ruiz**, aporté ideas sobre la estructura visual y ayudé a resolver detalles del diseño en grupo. <br> - **Yo, José Paredes**, ayudé en la revisión de los textos, la estructura del repositorio y la planificación del despliegue. <br> - **Yo, Marco Nakasone**, me encargué de unir los avances del equipo y verificar que todo el contenido estuviera correctamente integrado y funcional. <br><br> **TP1 (Sprint 2 – Gestión de Ferias y Eventos):** <br> - **Yo, Pablo Martínez**, participé activamente en la planificación de tareas y revisión del código de mis compañeros. <br> - **Yo, José Chirito**, ayudé a establecer los objetivos del sprint y a mantener un ambiente de colaboración e inclusión durante las reuniones. <br> - **Yo, Billy Ruiz**, contribuí a cumplir las metas acordadas, trabajando en los formularios de registro y publicando avances en GitHub. <br> - **Yo, José Paredes**, apoyé en la gestión de las ramas del repositorio y en la documentación de los avances. <br> - **Yo, Marco Nakasone**, planifiqué junto al equipo las tareas del sprint y supervisé la correcta integración de las historias de usuario en el sistema. | **Conclusión TB1:** Durante el primer sprint aprendimos a organizarnos mejor, crear un entorno inclusivo y respetar los tiempos de trabajo de cada integrante. El uso de herramientas colaborativas nos permitió cumplir los objetivos y trabajar de forma ordenada. <br><br> **Conclusión TP1:** En el segundo sprint consolidamos un entorno más colaborativo y participativo. Las metas fueron alcanzadas gracias a la planificación en conjunto y a la comunicación constante. Cada miembro del grupo mostró compromiso y responsabilidad, logrando un resultado final completo y funcional. |

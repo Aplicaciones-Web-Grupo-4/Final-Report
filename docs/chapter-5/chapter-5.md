@@ -485,7 +485,7 @@ Se presenta capturas de partes importantes realizadas en el Sprint 2.
 
 <p>
   <a href="https://front-end-5r5h.vercel.app/user/home">Front-end NEXTHAPPEN</a> -
-  <a href="https://front-end-5r5h.vercel.app/user/home">https://front-end-5r5h.vercel.app/user/home</a>
+  <a href="https://front-end-5r5h.vercel.app/user/home">https://front-end-wine-three.vercel.app/signin</a>
 </p>
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
@@ -493,6 +493,229 @@ Se presenta capturas de partes importantes realizadas en el Sprint 2.
 ![overview-spring2.jpg](../../assets/chapter-5/overview-spring1.jpg)
 ![network-graph-sprint2.jpg](../../assets/chapter-5/network-graph-sprint1.jpg)
 ![visitors-sprint2.jpg](../../assets/chapter-5/visitors-sprint1.jpg)
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Spring Planning 3
+En esta sección, se presentará el Sprint Planning 3, donde se describirá de manera detallada cada una de las evidencias planificadas e implementaciones desarrolladas durante esta etapa, enfocada principalmente en el desarrollo de endpoints del back-end, integración con el front-end y despliegue del avance del sistema. Asimismo, se mostrarán los progresos alcanzados respecto al sprint anterior y las mejoras aplicadas en la coordinación del equipo y la consolidación del entorno productivo del proyecto.
+
+| Sprint # | Sprint 3 |
+|----------|-----------|
+| *Sprint Planning Background*  |
+| *Date* | 2025/10/06 |
+| *Time* | 10:00 AM |
+| *Location* | Discord |
+| *Prepared by* | Marco Antonio Nakasone Gomes |
+| *Attendees (to planning meeting)* | Todos los miembros del equipo NeoEvent |
+| *Sprint 3 Review Summary* | Durante este sprint se desarrolló la mayor parte de los endpoints del back-end correspondientes a la creación de eventos, gestión de stands, asignación de espacios, sistema de favoritos, manejo de usuarios, y panel de estadísticas. Además, se integraron estos endpoints con el front-end y se realizó el deployment del avance para pruebas colaborativas. Se sentaron las bases de la arquitectura definitiva del sistema. |
+| *Sprint 3 Retrospective Summary* | El equipo logró una mejora significativa en la consolidación del back-end y la comunicación entre los servicios del proyecto. Se adoptó una estructura más clara de ramas y se fortaleció la organización del repositorio. Se logró una mejor sincronización entre las tareas del front y back, reduciendo bloqueos. Como oportunidad de mejora, se identificó la necesidad de implementar pruebas unitarias para los endpoints críticos y optimizar la documentación técnica. |
+| *Sprint Goal & User Stories* | El objetivo principal del Sprint 3 fue **construir los módulos esenciales del back-end y desplegar un avance totalmente funcional del proyecto**, asegurando la conexión estable entre la API y el cliente. <br><br> **User Stories incluidas:** <br> - *US14:* Publicación de feria (extensión back-end) <br> - *US21:* Creación de eventos con detalles completos <br> - *US22:* Roles y permisos del equipo <br> - *US23:* Gestión de stands <br> - *US24:* Asignación de stands a eventos <br> - *US25:* Endpoints para métricas y estadísticas <br> - *US30:* Integración general del back-end y despliegue |
+| *Sprint 3 Velocity:* | 32 |
+| *Sum of story points:* | 32 |
+
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Mejora de Front (L/C) | Endpoints Organizadores (L/C) | Endpoints Usuarios (L/C) |
+|------------------------------------|------------------|-------------------------|--------------------------------|---------------------------|
+| Nakasone Gomes, Marco Antonio      | marquinho04      | L                       | C                              | C                         |
+| Ruiz Madrid, Billy Jake            | BJRM03           | C                       | C                              | C                         |
+| Chirito Torres, Jose Raul          | JoseR044         | C                       | C                              | C                         |
+| Martinez Gaona, Pablo Afranio      | Delzekl          | C                       | L                              | C                         |
+| Paredes Davila, Jose Adrian        | joseadro09       | C                       | C                              | L                         |
+
+
+#### 5.2.3.3. Sprint Backlog 3
+# User Stories – Work Items Detallados
+
+| **User Story** | **Title** | **Task ID** | **Work-item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|----------------|-----------|-------------|------------------------|------------------|-------------------------|------------------|------------|
+| **US10** | Compra de entradas | 01 | Crear endpoint de compra de tickets | Implementar endpoint POST para registrar compra, validar disponibilidad y generar comprobante. | 4 | Marco | Done |
+|          |                     | 02 | Integrar compra de tickets en el front | Conectar la compra al back y mostrar el comprobante en la UI. | 3 | Marco | Done |
+|          |                     | 03 | Crear vista “Mis entradas” | Mostrar todas las entradas compradas por el usuario autenticado. | 2 | Marco | Done |
+| **US14** | Publicación de feria / evento | 04 | Endpoint para publicar evento | Implementar POST para registrar un nuevo evento completo. | 4 | Billy | Done |
+|          |                                | 05 | Visualización del evento publicado | Conectar endpoint y mostrar detalles, imágenes y fechas en el front. | 3 | Billy | Done |
+| **US15** | Actualización de datos del evento | 06 | Endpoint para editar evento | Implementar PUT para editar horarios, ubicación e imágenes. | 3 | Jose Chirito | Done |
+|          |                                   | 07 | Integración front de edición | Permitir actualizar los datos desde la UI y reflejar cambios. | 2 | Jose Chirito | Done |
+| **US24** | Asignación de stands a eventos | 08 | Endpoint para asignar stands | Desarrollar POST para asignar stands a un evento específico. | 3 | Pablo | Done |
+|          |                               | 09 | Endpoint para ver stands asignados | Implementar GET para listar stands por evento. | 2 | Pablo | Done |
+|          |                               | 10 | Mostrar stands asignados en el front | Visualización en panel del organizador. | 2 | Pablo | Done |
+| **US19** | Métricas del evento | 11 | Endpoint de métricas | Implementar GET para devolver vistas, favoritos, tickets vendidos y alcance. | 4 | Jose Paredes | Done |
+|          |                      | 12 | Mostrar métricas en panel del organizador | Integrar estadísticas reales en el dashboard del front. | 3 | Jose Paredes | Done |
+| **US09** | Favoritos (guardar/ver) | 13 | Endpoint para guardar evento favorito | Implementar POST para añadir favorito del usuario. | 2 | Marco | Done |
+|          |                        | 14 | Endpoint para listar favoritos | Implementar GET para obtener favoritos del usuario. | 2 | Marco | Done |
+|          |                        | 15 | Vista de favoritos en front | Mostrar lista personalizada de eventos guardados. | 2 | Marco | Done |
+| **US08 / TS03** | Notificaciones en tiempo real | 16 | Endpoint para enviar notificaciones | Implementar POST para emitir notificaciones a suscritos. | 3 | Jose Chirito | Done |
+|                 |                                | 17 | Integración front de notificaciones | Mostrar notificaciones en tiempo real para usuarios y organizadores. | 3 | Marco | Done |
+| **US21** | Visualización completa del evento | 18 | Endpoint “Ver evento por ID” | Desarrollar GET /events/{id} con detalles completos. | 3 | Billy | Done |
+|          |                                  | 19 | Vista en front del evento | Visualizar datos, imágenes, fechas y ubicación. | 2 | Billy | Done |
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
+Para este sprint se desarrolló una segunda version del frontend con el framework Vue. A continuación dejo la evidencia:
+
+![deploy](../../assets/chapter-5/Deploy_Evidence.png)
+
+Repositorio: https://github.com/Aplicaciones-Web-Grupo-4/front-end
+
+URL desplegada: https://front-end-wine-three.vercel.app/signin
+
+Para este sprint se desarrolló la primera versión del backend con ASP .NET. A continuación, dejo la evidencia:
+
+![back_deploy](../../assets/chapter-5/Back_Deploy_Evidence.png)
+
+Repositorio: https://github.com/Aplicaciones-Web-Grupo-4/nexthappen-platform
+
+URL desplegada: https://nexthappen-platform.onrender.com/
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+Durante el desarrollo del backend de la aplicación, se generaron los siguientes servicios RESTful para las funcionalidades del sistema. Estos servicios permiten la interacción con el frontend y la gestión de datos en la base de datos.
+
+| **Service Name** | **HTTP Method** | **Endpoint** | **Description** |
+|------------------|------------------|--------------|------------------|
+| **AssignStands** | GET | `/api/events/{eventId}/stands` | Obtiene la lista de stands asignados a un evento específico. |
+|                  | POST | `/api/events/{eventId}/stands` | Asigna uno o varios stands a un evento concreto. |
+| **Event Service** | POST | `/api/events` | Crea un nuevo evento en el sistema. |
+|                    | GET | `/api/events` | Obtiene todos los eventos creados por los organizadores. |
+|                    | GET | `/api/events/{id}` | Devuelve la información detallada de un evento específico. |
+|                    | PUT | `/api/events/{id}` | Actualiza los datos de un evento (fechas, ubicación, imágenes, etc.). |
+| **EventDiscovery** | GET | `/api/events/public` | Lista todos los eventos públicos disponibles para los usuarios. |
+| **ManageEvent** | GET | `/api/manage/events` | Obtiene la lista de eventos creados por el organizador autenticado. |
+|                 | PUT | `/api/manage/events/{id}` | Actualiza la información de un evento desde la vista de gestión. |
+|                 | DELETE | `/api/manage/events/{id}` | Elimina un evento del sistema. |
+| **SavedEvents Service** | POST | `/api/users/{userId}/saved-events/{eventId}` | Guarda un evento como favorito para un usuario. |
+|                          | DELETE | `/api/users/{userId}/saved-events/{eventId}` | Elimina un evento de la lista de favoritos del usuario. |
+|                          | GET | `/api/users/{userId}/saved-events` | Obtiene todos los eventos guardados por el usuario. |
+| **StandEdit Service** | PUT | `/api/stands/{id}` | Actualiza la información de un stand (dimensiones, precio, nombre, etc.). |
+|                       | DELETE | `/api/stands/{id}` | Elimina un stand del sistema. |
+| **Tickets Service** | POST | `/api/events/{eventId}/tickets/purchase` | Realiza la compra de tickets para un evento específico. |
+|                     | GET | `/api/users/{userId}/tickets` | Obtiene todos los tickets comprados por un usuario. |
+|                     | GET | `/api/tickets/{ticketId}` | Devuelve la información detallada de un ticket. |
+|                     | DELETE | `/api/tickets/{ticketId}` | Cancela (elimina) un ticket específico. |
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+## **Frontend Deployment – Vercel**
+
+El frontend se desplegó utilizando la plataforma **Vercel**.
+
+---
+
+### **Pasos de despliegue**
+
+1. **Build del proyecto:**  
+   Se verificó que el proyecto funcionara correctamente en local usando:  
+   npm run dev
+
+2. **Variables de entorno:**  
+   Se configuró el archivo `.env.production` con la URL del backend:  
+   VITE_API_URL=https://nexthappen-platform.onrender.com/api
+
+3. **Creación del archivo `vercel.json`:**  
+   Para asegurar que Vue Router manejara todas las rutas:  
+   {  
+     "rewrites": [  
+       { "source": "/(.*)", "destination": "/" }  
+     ]  
+   }
+
+4. **Creación de cuenta en Vercel:**  
+   Se inició sesión en vercel.com.
+
+5. **Importar proyecto desde GitHub:**  
+   Click en "Add New Project" → "Import Existing Project", seleccionando la rama `develop` del repositorio.
+
+6. **Configurar build en Vercel:**  
+   - Framework Preset: Vite  
+   - Build Command: npm run build  
+   - Output directory: dist  
+   - Environment Variables:  
+     VITE_API_URL=https://nexthappen-platform.onrender.com/api
+
+7. **Despliegue automático:**  
+   Cada vez que se realiza un commit y push, Vercel ejecuta:  
+   - instalación de dependencias  
+   - build  
+   - publicación del sitio
+
+8. **Pruebas del despliegue:**  
+   Se verificó:  
+   - navegación entre rutas  
+   - integración con backend  
+   - visualización de eventos  
+   - compra de tickets  
+   - métricas y favoritos  
+   - notificaciones  
+   - “Mis entradas” funcionando  
+
+---
+
+## **Backend Deployment – Render & Railway**
+
+El backend se desplegó en **Render**, utilizando una base de datos **MySQL** desplegada en **Railway**.
+
+---
+
+### **Pasos de despliegue**
+
+1. **Build del proyecto:**  
+   Se generó el archivo ejecutable del backend usando:  
+   dotnet publish -c Release
+
+2. **Verificar rama develop:**  
+   Se confirmó que todos los cambios estuvieran actualizados en la rama `develop` antes del despliegue.
+
+3. **Creación de cuenta en Render:**  
+   Se ingresó a render.com para utilizar Web Services.
+
+4. **Importar proyecto desde GitHub:**  
+   Se hizo click en “New +” → “Web Service”, seleccionando el repositorio del backend y la rama `develop`.
+
+5. **Configurar servicio en Render:**  
+   - Runtime: .NET 8  
+   - Build Command: dotnet build  
+   - Start Command: dotnet nexthappen-backend.dll
+
+6. **Configurar variables de entorno:**  
+   Se agregaron las variables necesarias para producción:  
+   ASPNETCORE_ENVIRONMENT=Production  
+   ConnectionStrings__DefaultConnection=Server=containers-us-west-XX.railway.app;Port=XXXX;Database=railway;User=XXXX;Password=XXXX;  
+   AllowedHosts=*
+
+7. **Base de datos desplegada en Railway:**  
+   Se creó una instancia de MySQL en railway.app, donde Railway generó automáticamente:  
+   - host  
+   - puerto  
+   - usuario  
+   - contraseña  
+   - nombre de la base de datos
+
+8. **Integración Render ↔ Railway:**  
+   La cadena de conexión de Railway se añadió directamente en Render dentro de Environment Variables.
+
+9. **Despliegue automático:**  
+   En cada commit/push a `develop`, Render ejecutó:  
+   - instalación  
+   - build  
+   - despliegue  
+   - reinicio del servicio
+
+10. **Pruebas del backend:**  
+    Se verificó:  
+    - acceso correcto al Swagger  
+    - creación y edición de eventos  
+    - asignación de stands  
+    - descubrimiento de eventos públicos  
+    - compra de entradas  
+    - favoritos  
+    - métricas del evento  
+    - notificaciones
+
+11. **Confirmación final del despliegue:**  
+    El backend quedó operativo en la URL de Render, completamente integrado con la base de datos Railway y con el frontend desplegado en Vercel.
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
 
 ## 5.3 Validation Interviews
 
