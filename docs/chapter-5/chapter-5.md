@@ -496,7 +496,7 @@ Se presenta capturas de partes importantes realizadas en el Sprint 2.
 
 ## 5.3 Validation Interviews
 
-Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 (Web App en Vercel), se diseñó un guion de pruebas de usabilidad basado en tareas. Se convocó a los segmentos objetivo (Usuarios y Organizadores) para que interactúen directamente con la aplicación desplegada.
+Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), se diseñó un guion de pruebas de usabilidad basado en tareas. Se convocó a los segmentos objetivo (Usuarios y Organizadores) para que interactúen directamente con la aplicación desplegada.
 
 ### 5.3.1. Diseño de Entrevistas
 
@@ -505,28 +505,32 @@ Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 (Web
 * **Objetivo:** Validar el flujo de registro y la facilidad para encontrar eventos en la aplicación de usuario.
 * **Enlace de prueba:** ``
 
-**Tareas y Preguntas:**
+**Preguntas:**
 
-1.  Te hemos enviado un enlace. Por favor, intenta crear una cuenta de usuario. (Validando el flujo de "Crear Cuenta").
-2.  ¿Qué tan fácil o difícil fue el proceso de registro? ¿Qué información agregarías o quitarías?
-3.  Estás en la pantalla principal (`/user/home`). ¿Qué es lo primero que te llama la atención? ¿Qué esperas poder hacer aquí?
-4.  (Tarea) Por favor, intenta encontrar una feria de gastronomía en el distrito de Miraflores. (Validando US01/US06).
-5.  (Tarea) Ahora, busca un evento específico y guárdalo en tus "Favoritos" (Validando US09). ¿Te resultó intuitivo?
-6.  ¿Sientes que esta aplicación real soluciona el problema de la información dispersa que nos comentaste en la primera entrevista?.
+1.  ¿Cómo describirías la experiencia de registrarte y buscar un evento?
+2.  ¿Qué parte del proceso de "Crear Cuenta" te pareció más sencilla? ¿Hubo alguna parte que te pareció confusa o innecesaria?
+3.  Al ver la pantalla principal (`/user/home`), ¿la información te pareció clara? ¿Pudiste encontrar fácilmente los eventos?
+4.  ¿Qué tan útil consideras la función de "Favoritos" para guardar eventos?
+5.  Actualmente, ¿cómo te enteras de las ferias o eventos a los que asistes?
+6.  Comparando con esos métodos (redes sociales, amigos, etc.), ¿crees que una aplicación como NextHappen te facilitaría encontrar nuevos planes? ¿Por qué?
+7.  ¿Cuál fue la función que más te gustó de lo que probaste? ¿Y la que menos te gustó?
+8.  ¿Hubo algún momento durante la prueba en el que te sentiste perdido o no supiste qué hacer?
 
 **Guion para Organizadores**
 
 * **Objetivo:** Validar la facilidad de uso del panel de organizador, específicamente la creación de eventos y gestión de stands.
 * **Enlace de prueba:** ``
 
-**Tareas y Preguntas:**
+**Preguntas**
 
-1.  Te hemos dado acceso al panel de organizador. Al ver el "Dashboard" (Panel de Información), ¿sientes que te da la información que necesitas (US19)?.
-2.  (Tarea) Por favor, publica una nueva feria. Ve a la sección "Create Events" y completa el formulario (Validando US14 y US21).
-3.  ¿Qué te pareció el formulario? ¿Te resultó fácil añadir la ubicación, fechas e imágenes?
-4.  (Tarea) Ahora, para la feria que acabas de crear, por favor registra un nuevo "Stand" (Validando la pantalla "Stands").
-5.  ¿Consideras que este panel es más eficiente para promocionar tus ferias que solo usar redes sociales?.
-6.  ¿Qué métrica o función importante agregarías a este "Dashboard" para que te sea más útil?
+1.  Acabas de probar el panel de organizador. ¿Cuál es tu primera impresión sobre la facilidad de uso para gestionar un evento?
+2.  ¿Qué tan claro fue el formulario para "Crear Eventos"? ¿Sientes que los campos solicitados (ubicación, fechas, imágenes) son los adecuados?
+3.  ¿El proceso de crear la feria primero y luego registrar los "Stands" te pareció un flujo lógico?
+4.  Viendo el "Dashboard", ¿las métricas que se muestran (Total Events, Total Stands) te parecen útiles para tu negocio? ¿Qué otra métrica te gustaría ver ahí?
+5.  Actualmente, ¿qué herramientas o métodos usas para promocionar tus ferias y gestionar a tus expositores?
+6.  Comparando con tus métodos actuales, ¿crees que esta plataforma te ahorraría tiempo o te daría un mayor control?
+7.  ¿Cuál fue la parte del proceso que te pareció más frustrante o que podría mejorarse?
+8.  ¿Qué función te pareció la más valiosa de este panel?
 
 ## Concluciones
 NextHappen se consolida como una plataforma digital destinada a centralizar la información y gestión de ferias y eventos, ofreciendo un entorno accesible tanto para organizadores como para visitantes. Su diseño busca reducir la dispersión de información y promover una experiencia unificada para el descubrimiento de actividades culturales y comerciales en Lima Metropolitana.
