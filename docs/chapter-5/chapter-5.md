@@ -551,6 +551,74 @@ En esta sección, se presentará el Sprint Planning 3, donde se describirá de m
 |          |                                  | 19 | Vista en front del evento | Visualizar datos, imágenes, fechas y ubicación. | 2 | Billy | Done |
 
 #### 5.2.3.4. Development Evidence for Sprint Review
+En esta sección se incluyen los commits realizados para el front-end del Web Application. No obstante, como se realizaron varios commits, se mostraran los más relevantes.
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit</th>
+    <th>Commit</th>
+    <th>Commited</th>
+  </tr>
+  <tr>
+    <td>nexthappen-platform</td>
+    <td>feature-user</td>
+    <td>d1b857c83cc74d3c8772209c6f84aeb2b72331c1</td>
+    <td>Add EventDiscovery, SavedEvents, Tickets BC + updates to Shared and Program.cs</td>
+    <td></td>
+    <td>13/11/25</td>
+  </tr>
+  <tr>
+    <td>nexthappen-platform</td>
+    <td>develop</td>
+    <td>bb6cca14edc6abe03feb00a533cfbeaeef8f382c</td>
+    <td>fix: assign stand on app db context</td>
+    <td></td>
+    <td>13/11/25</td>
+  </tr>
+  <tr>
+    <td>nexthappen-platform</td>
+    <td>develop</td>
+    <td>679fe55a6ced810682a49daf70a66b7744d07733</td>
+    <td>deploy</td>
+    <td></td>
+    <td>14/11/25</td>
+  </tr>
+  <tr>
+    <td>nexthappen-platform</td>
+    <td>develop</td>
+    <td>9b3f7c0aeeca38143f6f0f2289e194d9dd83bd72</td>
+    <td>fix: enable swagger on production + root endpoint</td>
+    <td></td>
+    <td>14/11/25</td>
+  </tr>
+  <tr>
+    <td>front-end</td>
+    <td>master</td>
+    <td>30d0089f43f6e1e6c1e48f3826ba39135339e1fc</td>
+    <td>feat: Enhance ticket display with detailed pricing and quantity information</td>
+    <td></td>
+    <td>07/11/25</td>
+  </tr>
+    <tr>
+    <td>front-end</td>
+    <td>master</td>
+    <td>22128c0289bf22a01c3bf5938adcdd07dffe677e</td>
+    <td>feat: Update environment configuration for API URLs</td>
+    <td></td>
+    <td>14/11/25</td>
+  </tr>
+    <tr>
+    <td>front-end</td>
+    <td>master</td>
+    <td>93116d2f9023996a6a3f53cbb4bfdb7f9b05c3e9</td>
+    <td>feat: Update API URL to production and refactor event handling for JSON Server</td>
+    <td></td>
+    <td>14/11/25</td>
+  </tr>
+</table>
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 Para este sprint se desarrolló una segunda version del frontend con el framework Vue. A continuación dejo la evidencia:
 
