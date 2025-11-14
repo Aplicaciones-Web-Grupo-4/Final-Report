@@ -551,7 +551,7 @@ En esta sección, se presentará el Sprint Planning 3, donde se describirá de m
 |          |                                  | 19 | Vista en front del evento | Visualizar datos, imágenes, fechas y ubicación. | 2 | Billy | Done |
 
 #### 5.2.3.4. Development Evidence for Sprint Review
-En esta sección se incluyen los commits realizados para el front-end del Web Application. No obstante, como se realizaron varios commits, se mostraran los más relevantes.
+En esta sección se incluyen los commits realizados tanto para el front-end como el backend del Web Application. No obstante, como se realizaron varios commits, se mostraran los más relevantes.
 <table>
   <tr>
     <th>Repository</th>
