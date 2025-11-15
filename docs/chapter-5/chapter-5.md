@@ -797,7 +797,6 @@ Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), s
 **Guion para Asistentes**
 
 * **Objetivo:** Validar el flujo de registro y la facilidad para encontrar eventos en la aplicación de usuario.
-* **Enlace de prueba:** ``
 
 **Preguntas:**
 
@@ -813,7 +812,6 @@ Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), s
 **Guion para Organizadores**
 
 * **Objetivo:** Validar la facilidad de uso del panel de organizador, específicamente la creación de eventos y gestión de stands.
-* **Enlace de prueba:** ``
 
 **Preguntas**
 
