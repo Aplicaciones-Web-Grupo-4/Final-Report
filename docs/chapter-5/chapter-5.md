@@ -826,6 +826,25 @@ Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), s
 7.  ¿Cuál fue la parte del proceso que te pareció más frustrante o que podría mejorarse?
 8.  ¿Qué función te pareció la más valiosa de este panel?
 
+### 5.3.1. Registro de Entrevistas
+
+---
+**Entrevistado N°2 – Organizador (Validación)**
+
+* **Datos principales:**
+    * **Nombre:** Josemaria
+    * **Segmento:** Organizador de eventos (música y fiestas).
+    * **Distrito:** San Miguel
+* **Link:** `[https://youtu.be/zYLhIVw03CA]`
+* **Duración:** `[08:37]`
+* **Resumen:**
+    A Josemaria, un organizador de eventos de música y fiestas, se le mostró el flujo completo de la aplicación de organizador desplegada (Dashboard, Create Events, Stands). Su impresión general fue muy positiva, describiendo la plataforma como **"bastante fácil, llamativa e intuitiva"**.
+
+    Al validar el flujo de creación de eventos, identificó dos áreas clave de mejora:
+
+    1.  **Flujo de Stands:** Indicó que, aunque el proceso es claro, le gustaría que la opción de **agregar "Stands" se pudiera hacer desde el mismo momento en que se crea el evento** (en el formulario "Create Events"), en lugar de tener que crearlo y luego ir a otra sección para registrar los stands.
+    2.  **Métricas del Dashboard:** Respecto al Panel de Información, mencionó que las métricas eran útiles, pero sugirió añadir una nueva: **la ubicación o procedencia de las personas que van a acudir al evento** (ej. "de qué distrito vienen"), ya que esa información es vital para sus decisiones de marketing.
+
 ## Concluciones
 NextHappen se consolida como una plataforma digital destinada a centralizar la información y gestión de ferias y eventos, ofreciendo un entorno accesible tanto para organizadores como para visitantes. Su diseño busca reducir la dispersión de información y promover una experiencia unificada para el descubrimiento de actividades culturales y comerciales en Lima Metropolitana.
 
