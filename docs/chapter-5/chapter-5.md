@@ -825,9 +825,25 @@ Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), s
 8.  ¿Qué función te pareció la más valiosa de este panel?
 
 ### 5.3.1. Registro de Entrevistas
-
 ---
-**Entrevistado N°2 – Organizador (Validación)**
+**Entrevistado N°1 – Usuario**
+
+* **Datos principales:**
+    * **Nombre:** Franco
+    * **Segmento:** Usuario (Estudiante de Administración y Marketing - UPC).
+    * **Distrito:** Lince
+* **Link:** `[https://youtu.be/HVSrpfHY7b8]`
+* **Duración:** `[08:16]`
+* **Resumen:**
+    Franco, un estudiante universitario, probó el flujo de usuario de la aplicación (Registro y Home). Su conclusión fue que la plataforma es **"sencilla y rápida de usar"**, **"funcional"** y que **"todo le pareció claro"**.
+
+    Mencionó que, si bien antes usaba redes sociales para encontrar eventos, la plataforma de NextHappen le parece **"bastante útil y fácil"** de usar, especialmente cuando se llene de más eventos en el futuro.
+
+    Sus principales sugerencias se centraron en dos áreas de mejora:
+    1.  **Diseño:** Indicó que le daría más énfasis al diseño gráfico para hacerlo **"más llamativo"** y atractivo visualmente.
+    2.  **Funcionalidad:** Señaló que le gustaría tener **"filtros"** para poder encontrar eventos de manera más rápida y específica.
+---
+**Entrevistado N°2 – Organizador**
 
 * **Datos principales:**
     * **Nombre:** Josemaria
