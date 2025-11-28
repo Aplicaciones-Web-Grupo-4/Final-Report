@@ -27,7 +27,7 @@
    <center><b>NRC:</b> 7432 </center>
    <br>
 
-   <center><b>Nombre de profesor:</b>  </center>
+   <center><b>Nombre de profesor:</b>Oscar Ivan Villafuerte Bazan  </center>
    <br>
    <center><b>Informe de Trabjo Final </center>
    <br>
