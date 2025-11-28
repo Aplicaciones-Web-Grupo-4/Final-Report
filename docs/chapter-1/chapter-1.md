@@ -1,3 +1,76 @@
+<div align="center">
+   <div>
+
+   <br>
+   <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
+
+   <br>
+   <center>Universidad Peruana de Ciencias Aplicadas</center>
+
+   <br>
+   <center><b>Facultad: Ingeniería de software</b></center>
+   <br>
+   <br>
+   <center><b>Carrera: Ingeniería de software</b></center>
+   <br>
+   <br>
+   <center><b>Periodo: 202520</b></center>
+   <br>
+   <center><b>Codigo del curso: 1ASI0730</b></center>
+
+   <br>
+   <br>
+   <center><b>Nombre del curso:Aplicaciones Web</b></center>
+   <br>
+   <center><b>NRC:</b> 7432 </center>
+   <br>
+
+   <center><b>Nombre de profesor:</b>  </center>
+   <br>
+   <center><b>Informe de Trabjo Final </center>
+   <br>
+   <br>
+   <center><b>Nombre del startup:</b>  </center>
+   <br>
+
+   <center><b>Nombre del producto:</b> </center>
+
+   </div>
+
+   <br>
+
+   <div align="center">
+   #<b>Relacion de Integrantes</b>
+   <table style="margin-left: auto; margin-right: auto;">
+   <tr>
+   <th>Apellidos y Nombres</th>
+   <th>Código</th>
+   </tr>
+   <tr>
+   <td>Chirito Torres, Jose Raul</td>
+   <td>U20201A293</td>
+   </tr>
+   <tr>
+   <td></td>
+   <td></td>
+   </tr>
+   <tr>
+   <td> </td>
+   <td></td>
+   </tr>
+   <tr>
+   <td></td>
+   <td></td>
+   </tr>
+
+   </table>
+   </div>
+   <center><b>Diciembre - 2025</center>
+
+
+</div>
+
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
