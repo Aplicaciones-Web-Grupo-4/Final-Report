@@ -4,12 +4,14 @@
    <br>
    <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
 
+
    <br>
    <center>Universidad Peruana de Ciencias Aplicadas</center>
 
    <br>
    <center><b>Facultad: Ingeniería de software</b></center>
    <br>
+   
    <br>
    <center><b>Carrera: Ingeniería de software</b></center>
    <br>
