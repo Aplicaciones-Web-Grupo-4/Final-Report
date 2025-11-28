@@ -173,7 +173,54 @@
 El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - Student Outcome 5**  
 
 **Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. 
+# Registro de Versiones del Informe
 
+<div>
+
+| Versión | Fecha      | Autores                            | Descripción de modificación                                                                           |
+| ------- | ---------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
+|    |  |  |                                                 |
+
+
+</div>
+
+# Project Report Collaboration Insights
+
+URL del repositorio para el proyecto: https://github.com/AgroApp-UPC/Project-Report
+
+**TB1**
+
+Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
+| ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| José Chirito        |                                                                                                                                  |
+|      |                                                                                                                                                           |
+|  |                                                                                                                                                                           |
+|           |                                                                                             |
+|          |  |
+
+**TP**
+
+Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
+| ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| José Chirito        |                                                                                                                                |
+|  |                                                                                                                                                                                  |
+|          |                                                                                             |
+|         |  |
+
+**TB2**
+
+Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
+| ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| José Chirito        |                                                                                                                         |
+|  |                                                                                                                                                                                 |
+|           |                                                                                             |
+|         |  |
 
 # Capítulo I: Introducción
 
