@@ -32,10 +32,10 @@
    <center><b>Informe de Trabjo Final </center>
    <br>
    <br>
-   <center><b>Nombre del startup:</b>  </center>
+   <center><b>Nombre del startup:</b> Neoevent </center>
    <br>
 
-   <center><b>Nombre del producto:</b> </center>
+   <center><b>Nombre del producto:</b>NextHappen </center>
 
    </div>
 
