@@ -788,6 +788,44 @@ El backend se desplegó en **Render**, utilizando una base de datos **MySQL** de
 ![network-graph-sprint3.jpg](../../assets/chapter-5/network-graph-sprint3.jpg)
 ![visitors-sprint3.jpg](../../assets/chapter-5/visitors-sprint3.jpg)
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Spring Planning 4
+En esta sección, se presentará el Sprint Planning 4 ...
+
+| Sprint # | Sprint 4 |
+|----------|-----------|
+| *Sprint Planning Background*  |
+| *Date* |  |
+| *Time* |  |
+| *Location* | Discord |
+| *Prepared by* |  |
+| *Attendees (to planning meeting)* | Todos los miembros del equipo NeoEvent |
+| *Sprint 4 Review Summary* |  |
+| *Sprint 4 Retrospective Summary* |  |
+| *Sprint Goal & User Stories* |  |
+| *Sprint 3 Velocity:* |  |
+| *Sum of story points:* |  |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username |  (L/C) |  (L/C) |  (L/C) |
+|------------------------------------|------------------|-------------------------|--------------------------------|---------------------------|
+| Nakasone Gomes, Marco Antonio      | marquinho04      | L                       | C                              | C                         |
+| Ruiz Madrid, Billy Jake            | BJRM03           | C                       | C                              | C                         |
+| Chirito Torres, Jose Raul          | JoseR044         | C                       | C                              | C                         |
+| Martinez Gaona, Pablo Afranio      | Delzekl          | C                       | L                              | C                         |
+| Paredes Davila, Jose Adrian        | joseadro09       | C                       | C                              | L                         |
+
+#### 5.2.4.3. Sprint Backlog 4
+# User Stories – Work Items Detallados
+
+| **User Story** | **Title** | **Task ID** | **Work-item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|----------------|-----------|-------------|------------------------|------------------|-------------------------|------------------|------------|
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+En esta sección se incluyen los commits realizados tanto para el ...
+
+
 ## 5.3 Validation Interviews
 
 Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), se diseñó un guion de pruebas de usabilidad basado en tareas. Se convocó a los segmentos objetivo (Usuarios y Organizadores) para que interactúen directamente con la aplicación desplegada.
