@@ -203,7 +203,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| José Chirito        |                                                                                                                                  |
+| José Chirito        |  Realizar el To-be scenario, las user stories , el Impact Mapping , Product Backlog y capturasa de las user stories en trello.                                                                                                                                |
 |      |                                                                                                                                                           |
 |  |                                                                                                                                                                           |
 |           |                                                                                             |
