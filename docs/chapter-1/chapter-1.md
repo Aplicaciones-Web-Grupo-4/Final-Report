@@ -215,18 +215,18 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| José Chirito        |                                                                                                                                |
+| José Chirito        |   Realizar los bounded contexts de  home y saved para el Fronted.                                                                                                              |
 |  |                                                                                                                                                                                  |
 |          |                                                                                             |
 |         |  |
 
 **TB2**
 
-Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| José Chirito        |                                                                                                                         |
+| José Chirito        | Realizar bounded contexts para el backend del proyecto, como el usuario y sus derivados(Home, tickets y eventos).                                                                                                                        |
 |  |                                                                                                                                                                                 |
 |           |                                                                                             |
 |         |  |
