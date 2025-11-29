@@ -859,7 +859,7 @@ Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), s
     1.  **Flujo de Stands:** Indicó que, aunque el proceso es claro, le gustaría que la opción de **agregar "Stands" se pudiera hacer desde el mismo momento en que se crea el evento** (en el formulario "Create Events"), en lugar de tener que crearlo y luego ir a otra sección para registrar los stands.
     2.  **Métricas del Dashboard:** Respecto al Panel de Información, mencionó que las métricas eran útiles, pero sugirió añadir una nueva: **la ubicación o procedencia de las personas que van a acudir al evento** (ej. "de qué distrito vienen"), ya que esa información es vital para sus decisiones de marketing.
 
-## Concluciones
+## Conclusiones
 NextHappen se consolida como una plataforma digital destinada a centralizar la información y gestión de ferias y eventos, ofreciendo un entorno accesible tanto para organizadores como para visitantes. Su diseño busca reducir la dispersión de información y promover una experiencia unificada para el descubrimiento de actividades culturales y comerciales en Lima Metropolitana.
 
 La implementación del frontend con Vue.js y PrimeVue ha permitido desarrollar una interfaz modular, escalable y adaptable, que actualmente integra módulos de Dashboard y Stands, junto con un sistema de localización bilingüe (ES/EN) y una arquitectura preparada para la expansión hacia la gestión de eventos.
