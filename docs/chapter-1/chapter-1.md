@@ -174,6 +174,18 @@
 ### [Bibliografía](#bibliografía)  
 ### [Anexos](#anexos)  
 
+# Registro de Versiones del Informe
+
+<div>
+
+| Versión | Fecha      | Autores                            | Descripción de modificación                                                                           |
+| ------- | ---------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
+|     |  |  |                                                      |
+|      |  |  |                                                        |
+
+
+</div>
+
 # Student Outcome
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
