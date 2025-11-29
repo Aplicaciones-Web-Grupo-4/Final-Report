@@ -788,6 +788,7 @@ El backend se desplegó en **Render**, utilizando una base de datos **MySQL** de
 ![network-graph-sprint3.jpg](../../assets/chapter-5/network-graph-sprint3.jpg)
 ![visitors-sprint3.jpg](../../assets/chapter-5/visitors-sprint3.jpg)
 
+
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Spring Planning 4
 En esta sección, se presentará el Sprint Planning 4 ...
@@ -822,8 +823,11 @@ En esta sección, se presentará el Sprint Planning 4 ...
 | **User Story** | **Title** | **Task ID** | **Work-item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 |----------------|-----------|-------------|------------------------|------------------|-------------------------|------------------|------------|
 
+
+
 #### 5.2.4.4. Development Evidence for Sprint Review
 En esta sección se incluyen los commits realizados tanto para el ...
+
 
 
 ## 5.3 Validation Interviews
