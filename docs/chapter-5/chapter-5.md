@@ -862,7 +862,8 @@ Durante el Sprint 4, la  implementación fue realizada por todo el equipo, quien
 
 | Integrante | Acciones realizadas durante el Sprint 4 |
 |------------|----------------------------------------|
-| Todo el equipo | - Conexion de los Bounded Contexts<br>- Reestructuracion de Carpetas<br>- Subida al repositorio y despliegue |
+| Chirito Torres Jose Raul | - Conexion de los Bounded Contexts<br>- Reestructuracion de Carpetas<br>- Subida al repositorio y despliegue |
+| Nakasone Gomez Marco Antonio | - Conexion de los Bounded Contexts<br>- Reestructuracion de Carpetas<br>- Subida al repositorio y despliegue |
 
 **Evidencia de colaboración en GitHub (Sprint 4)**
 
