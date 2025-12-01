@@ -819,8 +819,8 @@ En esta sección, se presentará el Sprint Planning 4 ...
 
 | **User Story** | **Title** | **Task ID** | **Work-item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 |----------------|-----------|-------------|------------------------|------------------|-------------------------|------------------|------------|
-
-
+|  |  |  |  | |  |  |  |
+|  |  |  |  | |  |  |  |
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 En esta sección se incluyen los commits realizados tanto para el front-end como el backend del Web Application. No obstante, como se realizaron varios commits, se mostraran los más relevantes.
