@@ -848,7 +848,7 @@ Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Fr
 * **Despliegue del Backend** :
 
   
-**URL**:
+**URL**: https://nexthappen-platform.onrender.com/swagger/index.html
 
  * **Despliegue del Frontend** :
 
