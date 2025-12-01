@@ -827,7 +827,8 @@ En esta sección se incluyen los commits realizados tanto para el front-end como
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
-Durante el Sprint 4, se logró un progreso significativo en la fusion e integracion del backend con el frontend usando los múltiples endpoints RESTful que permiten la gestión de entidades clave como campos, cultivos y tareas.
+Durante el Sprint 4, se logró un progreso significativo en la fusion e integracion del backend con el frontend usando los múltiples endpoints RESTful que permiten la gestión de entidades clave como guardad eventos,visitar eventos, crear eventos y asignar stands.
+
 * **Inicio de sesion en el Frontend**:
 ![deploy](../../assets/chapter-5/Deploy_Evidence.png)  
 
