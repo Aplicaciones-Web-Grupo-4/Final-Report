@@ -832,10 +832,29 @@ Durante el Sprint 4, se logró un progreso significativo en la fusion e integrac
 * **Inicio de sesion en el Frontend**:
 ![deploy](../../assets/chapter-5/Deploy_Evidence.png)  
 
+* **Backend reestructurado y ejecutandose**:
+  
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se incluye la relación de endpoints documentados con OpenAPI, desarrollados como parte del alcance del Sprint 4. Se resumen los logros alcanzados en relación con la implementación y documentación de los servicios REST del Backend.
+**Backend en Rider**
+
+**Frontend en WebStorm**
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Frontend del proyecto NextHappen utilizando la plataforma Render, permitiendo el acceso público a los endpoints implementados y documentados.
+
+* **Despliegue del Backend** :
+**URL**:
+
+ * **Despliegue del Frontend** :
+ **URL**:https://front-end-wine-three.vercel.app/signin
 
 ## 5.3 Validation Interviews
 
 Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), se diseñó un guion de pruebas de usabilidad basado en tareas. Se convocó a los segmentos objetivo (Usuarios y Organizadores) para que interactúen directamente con la aplicación desplegada.
+
 
 ### 5.3.1. Diseño de Entrevistas
 
