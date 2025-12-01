@@ -855,6 +855,22 @@ Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Fr
    
  **URL**: https://front-end-wine-three.vercel.app/signin
 
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, la  implementación fue realizada por todo el equipo, quienes asumimos todas las decisiones de funcionalidad del Backend, union y despliegue.
+
+| Integrante | Acciones realizadas durante el Sprint 4 |
+|------------|----------------------------------------|
+| Todo el equipo | - Conexion de los Bounded Contexts<br>- Reestructuracion de Carpetas<br>- Subida al repositorio y despliegue |
+
+**Evidencia de colaboración en GitHub (Sprint 4)**
+
+**Figura : Commits de Backend**
+
+**Figura : Commits de Frontend**
+
+
 ## 5.3 Validation Interviews
 
 Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), se diseñó un guion de pruebas de usabilidad basado en tareas. Se convocó a los segmentos objetivo (Usuarios y Organizadores) para que interactúen directamente con la aplicación desplegada.
