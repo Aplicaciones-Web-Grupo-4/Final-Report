@@ -808,13 +808,11 @@ En esta sección, se presentará el Sprint Planning 4 ...
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name) | GitHub Username |  (L/C) |  (L/C) |  (L/C) |
+| Team Member (Last Name, First Name) | GitHub Username | Mejora del Backend (L/C) | Desplegar fronted y backend (L/C) | Endpoints mejorados (L/C) |
 |------------------------------------|------------------|-------------------------|--------------------------------|---------------------------|
 | Nakasone Gomes, Marco Antonio      | marquinho04      | L                       | C                              | C                         |
-| Ruiz Madrid, Billy Jake            | BJRM03           | C                       | C                              | C                         |
 | Chirito Torres, Jose Raul          | JoseR044         | C                       | C                              | C                         |
-| Martinez Gaona, Pablo Afranio      | Delzekl          | C                       | L                              | C                         |
-| Paredes Davila, Jose Adrian        | joseadro09       | C                       | C                              | L                         |
+
 
 #### 5.2.4.3. Sprint Backlog 4
 # User Stories – Work Items Detallados
