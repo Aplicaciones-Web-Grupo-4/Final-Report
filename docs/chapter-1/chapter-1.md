@@ -235,6 +235,13 @@ Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió l
 |  Pablo Martinez    |   Realizar el trabajo complementario así como revisión del trabajo                                                                                          |
 |         |  |
 
+**TF**
+
+Para el desarrollo del informe perteneciente a la entrega del TF, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
+| ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| José Chirito        | Mejoras de metodos previos del fronted , backend y avance del sprint 4 .                                                                                                                        |
 
 # Capítulo I: Introducción
 
