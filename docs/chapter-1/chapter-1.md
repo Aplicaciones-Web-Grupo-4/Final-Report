@@ -9,7 +9,7 @@
    <center>Universidad Peruana de Ciencias Aplicadas</center>
 
    <br>
-   <center><b>Facultad: Ingeniería de software</b></center>
+   <center><b>Facultad: Ingeniería</b></center>
    <br>
    
    <br>
@@ -53,8 +53,8 @@
    <td>U20201A293</td>
    </tr>
    <tr>
-   <td></td>
-   <td></td>
+   <td>Ruiz Madrid, Billy Jake</td>
+   <td>U202116401</td>
    </tr>
    <tr>
    <td> </td>
@@ -204,7 +204,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | José Chirito        |  Realizar el To-be scenario, las user stories , el Impact Mapping , Product Backlog y capturasa de las user stories en trello.                                                                                                                                |
-|      |                                                                                                                                                           |
+| Billy Ruiz     |  Realizar el analisis de competidores, las entrevistas, los user persona, User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping y Ubiquitous Language.                   |
 |  |                                                                                                                                                                           |
 |           |                                                                                             |
 |          |  |
@@ -216,7 +216,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | José Chirito        |   Realizar los bounded contexts de  home y saved para el Fronted.                                                                                                              |
-|  |                                                                                                                                                                                  |
+| Billy Ruiz |   Realizar el bounded context de event.                                                                                                                                     |
 |          |                                                                                             |
 |         |  |
 
@@ -227,7 +227,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió l
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | José Chirito        | Realizar bounded contexts para el backend del proyecto, como el usuario y sus derivados(Home, tickets y eventos).                                                                                                                        |
-|  |                                                                                                                                                                                 |
+| Billy Ruiz |  Hacer fix a las entregas pasadas y tambien a realizar el trabajo complementario.                          |
 |           |                                                                                             |
 |         |  |
 
