@@ -803,9 +803,7 @@ En esta sección, se presentará el Sprint Planning 4 ...
 | *Attendees (to planning meeting)* | Todos los miembros del equipo NeoEvent |
 | *Sprint 4 Review Summary* | Se avanzó la integracion de la API desplegada y el fronted.Tambien se completó la conexión de multples vistas con endpoints reales,
 se realizaron asignaciones para la documentación del trabajo completo.|
-| *Sprint 4 Retrospective Summary* | Positivo: Mayor madurez del backend y mejor comprensión del flujo completo entre frontend–API.
-A mejorar: Coordinar mejor los horarios de trabajo para evitar retrasos y avances de algunos integrantes.
-Acción: Implementar autenticación en el backend y Alinear endpoints finales con el frontend |
+| *Sprint 4 Retrospective Summary* | Positivo: Mayor madurez del backend y mejor comprensión del flujo completo entre frontend–API. A mejorar: Coordinar mejor los horarios de trabajo para evitar retrasos y avances de algunos integrantes. Acción: Implementar autenticación en el backend y Alinear endpoints finales con el frontend |
 | *Sprint Goal & User Stories* |  |
 | *Sprint n Velocity:* | 22 Story points |
 | *Sum of story points:* | 22 |
