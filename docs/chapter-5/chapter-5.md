@@ -796,16 +796,19 @@ En esta sección, se presentará el Sprint Planning 4 ...
 | Sprint # | Sprint 4 |
 |----------|-----------|
 | *Sprint Planning Background*  |
-| *Date* |  |
-| *Time* |  |
+| *Date* | 2025-11-25 |
+| *Time* | 9:30 AM  |
 | *Location* | Discord |
-| *Prepared by* |  |
+| *Prepared by* | Chirito Torres, Jose Raul  |
 | *Attendees (to planning meeting)* | Todos los miembros del equipo NeoEvent |
-| *Sprint 4 Review Summary* |  |
-| *Sprint 4 Retrospective Summary* |  |
+| *Sprint 4 Review Summary* | Se avanzó la integracion de la API desplegada y el fronted.Tambien se completó la conexión de multples vistas con endpoints reales,
+se realizaron asignaciones para la documentación del trabajo completo.|
+| *Sprint 4 Retrospective Summary* | Positivo: Mayor madurez del backend y mejor comprensión del flujo completo entre frontend–API.
+A mejorar: Coordinar mejor los horarios de trabajo para evitar retrasos y avances de algunos integrantes.
+Acción: Implementar autenticación en el backend y Alinear endpoints finales con el frontend |
 | *Sprint Goal & User Stories* |  |
-| *Sprint 3 Velocity:* |  |
-| *Sum of story points:* |  |
+| *Sprint n Velocity:* | 22 Story points |
+| *Sum of story points:* | 22 |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
