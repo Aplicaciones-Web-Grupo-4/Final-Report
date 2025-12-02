@@ -975,15 +975,19 @@ Repositorio en GitHub - NexEvent(NextHappen)- Documento:
 
 
 Repositorio en GitHub - NexEvent(NextHappen)- Landing Page: 
+
 https://github.com/Aplicaciones-Web-Grupo-4/Landing-Page
 
 Repositorio en GitHub - NexEvent(NextHappen)- Frontend: 
+
 https://github.com/Aplicaciones-Web-Grupo-4/front-end
 
 Repositorio en GitHub - NexEvent(NextHappen)- Backend:
+
 https://github.com/Aplicaciones-Web-Grupo-4/nexthappen-platform/tree/develop/nexthappen-backend
 
 Enlace Canva:
+
 https://www.canva.com/design/DAGz2cQCyes/CnihQ1X2sTbSBQMhopjcZg/edit?ui=e30
 
 Enlace Video Exposicion:
