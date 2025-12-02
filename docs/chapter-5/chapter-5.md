@@ -866,6 +866,8 @@ Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Fr
 ![ladingpage](../../assets/chapter-5/Landing_2.png)
 ![ladingpage](../../assets/chapter-5/Landing_3.png)
 ![ladingpage](../../assets/chapter-5/Landing_4.png)
+![ladingpage](../../assets/chapter-5/Landing_5.png)
+![ladingpage](../../assets/chapter-5/Landing_6.png)
    
  **URL**: https://aplicaciones-web-grupo-4.github.io/Landing-Page/
 
