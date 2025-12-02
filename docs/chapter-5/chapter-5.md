@@ -852,12 +852,12 @@ En esta sección se incluye la relación de endpoints documentados con OpenAPI, 
 Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Frontend del proyecto NextHappen utilizando la plataforma Render, permitiendo el acceso público a los endpoints implementados y documentados.
 
 * **Despliegue del Backend** :
-
+![backend](../../assets/chapter-5/backend_evidence.png)
   
 **URL**: https://nexthappen-platform.onrender.com/swagger/index.html
 
  * **Despliegue del Frontend** :
-
+![deploy](../../assets/chapter-5/Deploy_Evidence.png)  
    
  **URL**: https://front-end-wine-three.vercel.app/signin
 
