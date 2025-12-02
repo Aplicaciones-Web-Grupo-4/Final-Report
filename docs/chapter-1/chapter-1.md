@@ -212,6 +212,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | José Chirito        |  Realizar el To-be scenario, las user stories , el Impact Mapping , Product Backlog y capturasa de las user stories en trello.                                                                                                                                |
 | Billy Ruiz     |  Realizar el analisis de competidores, las entrevistas, los user persona, User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping y Ubiquitous Language.                   |
 | Pablo Martinez |  Realizar el Solution Profile, Lean UX Process, Domain-Driven Software Architecture, Software Object-Oriented Design, Class Dictionary y Database Design                                                                                                                                                                         |
+| Jose Paredes |  Realizar la documentación del Sprint Planning, asegurar la coherencia de textos y secciones, estructurar el repositorio y planificar el despliegue.                                                                                                                                                                         |
 |           |                                                                                             |
 |          |  |
 
@@ -224,6 +225,7 @@ Para el desarrollo del informe perteneciente a la entrega del TP, se dividió la
 | José Chirito        |   Realizar los bounded contexts de  home y saved para el Fronted.                                                                                                              |
 | Billy Ruiz |   Realizar el bounded context de event.                                                                                                                                     |
 | Pablo Martinez | Realizar el bounded context de Dashboard y Stands para el frontend                                                                                            |
+| Jose Paredes | Realizar la gestión de las ramas del repositorio y la documentación de los avances técnicos del Sprint                                                                                            |
 |         |  |
 
 **TB2**
@@ -235,6 +237,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió l
 | José Chirito        | Realizar bounded contexts para el backend del proyecto, como el usuario y sus derivados(Home, tickets y eventos).                                                                                                                        |
 | Billy Ruiz |  Hacer fix a las entregas pasadas y tambien a realizar el trabajo complementario.                          |
 |  Pablo Martinez    |   Realizar el trabajo complementario así como revisión del trabajo                                                                                          |
+|  Jose Paredes    |  Realizar el proceso integral de entrevistas (cuestionario, ejecución y análisis) y desarrollar el panel de información (Dashboard) para estadísticas.                                       |
 |         |  |
 
 **TF**
@@ -244,6 +247,7 @@ Para el desarrollo del informe perteneciente a la entrega del TF, se dividió la
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | José Chirito        | Mejoras de metodos previos del fronted , backend y avance del sprint 4 .                                                                                                                        |
+| José Paredes        | Completar los aportes del Student Outcome, el registro de informe y el Project Report Collaboration Insights.                                                            |
 
 # Capítulo I: Introducción
 
