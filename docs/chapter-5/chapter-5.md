@@ -878,7 +878,7 @@ Durante el Sprint 4, la  implementación fue realizada por todo el equipo, quien
 
 **Evidencia de colaboración en GitHub (Sprint 4)**
 
-**Figura : Commits **
+**Figura : Commits**
 ![commits](../../assets/chapter-5/commits_sprint4.png)  
 
 
