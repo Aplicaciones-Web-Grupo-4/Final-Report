@@ -812,6 +812,7 @@ En esta sección, se presentará el Sprint Planning 4 ...
 |------------------------------------|------------------|-------------------------|--------------------------------|---------------------------|
 | Nakasone Gomes, Marco Antonio      | marquinho04      | L                       | C                              | C                         |
 | Chirito Torres, Jose Raul          | JoseR044         | C                       | C                              | C                         |
+| Martinez Gaona, Pablo Afranio      | de123kl          | C                       | C                              | C                         |
 
 
 #### 5.2.4.3. Sprint Backlog 4
@@ -834,8 +835,11 @@ En esta sección se incluyen los commits realizados tanto para el front-end como
 
 | Commit ID | User    | Commit Message | Commited on (Date) |
 |-----------|---------|----------------|--------------------|
-|  |  |  |  |
-|  |  |  |  |
+|   dc3d9a331a1796737bbaf47d5d26070206987aed       | marquinho04 | .  | 30/11/25 |
+| 2ebe2d17a20880831157bca211b7298eff606522 | marquinho04 | final | 01/12/25 |
+| 5888a4188c5158f5f4a5ec3677f6436c83142d6a | marquinho04 | fix   | 02/12/25 |
+| 79b04bec1e8fbead75a97657ddee8ae4b45348ae | marquinho04 | Fix migrations baseline + photos json support | 02/12/25 |
+| e4d25755ae0c31b6e4b8c65c7abfc4ddc12c7018 | marquinho04 | Fix photos mapping | 02/12/25 |
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
