@@ -824,6 +824,19 @@ En esta sección, se presentará el Sprint Planning 4 ...
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 En esta sección se incluyen los commits realizados tanto para el front-end como el backend del Web Application. No obstante, como se realizaron varios commits, se mostraran los más relevantes.
+- Commits en el Frontend
+
+| Commit ID | User     | Commit Message | Commited on (Date) |
+|-------------|---------------|----------------|--------------------|
+|  | | |  |
+
+- Commits en el Backend
+
+| Commit ID | User    | Commit Message | Commited on (Date) |
+|-----------|---------|----------------|--------------------|
+|  |  |  |  |
+|  |  |  |  |
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
@@ -844,9 +857,19 @@ Durante el Sprint 4, se logró un progreso significativo en la fusion e integrac
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 En esta sección se incluye la relación de endpoints documentados con OpenAPI, desarrollados como parte del alcance del Sprint 4. Se resumen los logros alcanzados en relación con la implementación y documentación de los servicios REST del Backend.
+
 **Backend en Rider**
 
 **Frontend en WebStorm**
+
+
+**API**
+
+Todos los endpoints están organizados siguiendo la convención RESTful bajo la ruta /api/v1/ y están documentados según
+contexto.
+<br>
+
+
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Frontend del proyecto NextHappen utilizando la plataforma Render, permitiendo el acceso público a los endpoints implementados y documentados.
