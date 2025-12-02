@@ -833,7 +833,7 @@ Durante el Sprint 4, se logró un progreso significativo en la fusion e integrac
 ![deploy](../../assets/chapter-5/Deploy_Evidence.png)  
 
 * **Backend reestructurado y ejecutandose**:
-  
+![backend](../../assets/chapter-5/backend_evidence.png)   
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
