@@ -815,7 +815,7 @@ En esta sección, se presentará el Sprint Planning 4 ...
 
 
 #### 5.2.4.3. Sprint Backlog 4
-# User Stories – Work Items Detallados
+## User Stories – Work Items Detallados
 
 | **User Story** | **Title** | **Task ID** | **Work-item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 |----------------|-----------|-------------|------------------------|------------------|-------------------------|------------------|------------|
