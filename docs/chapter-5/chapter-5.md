@@ -957,7 +957,7 @@ Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), s
     2.  **Métricas del Dashboard:** Respecto al Panel de Información, mencionó que las métricas eran útiles, pero sugirió añadir una nueva: **la ubicación o procedencia de las personas que van a acudir al evento** (ej. "de qué distrito vienen"), ya que esa información es vital para sus decisiones de marketing.
 
 
-### 5.4. Registro de Entrevistas
+### 5.4. Video About-the-Product.
  Video <a href="https://upcedupe-my.sharepoint.com/personal/u202210790_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210790_upc_edu_pe%2FDocuments%2FApps%2Ftp1-web%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee398ff1f-cc65-4579-9f04-930d60a2b150">About the Product</a> -
 
 ## Conclusiones
@@ -969,6 +969,8 @@ El sistema mejora la eficiencia organizativa al centralizar el registro de empre
 
 El enfoque colaborativo, la estandarización de estilos mediante PrimeFlex y el uso de control de versiones en GitHub garantizan coherencia visual, trazabilidad del código y despliegue continuo, sentando las bases para la integración futura del módulo de eventos y la publicación completa de la aplicación.
 
+### 5.4. Video About-the-Product.
+-
 
 ## Anexos
 Repositorio en GitHub - NexEvent(NextHappen)- Documento: 
