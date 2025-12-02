@@ -960,7 +960,7 @@ Con el objetivo de validar las funcionalidades implementadas en el Sprint 2 ), s
 ### 5.4. Video About-the-Product.
  Video <a href="https://upcedupe-my.sharepoint.com/personal/u202210790_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210790_upc_edu_pe%2FDocuments%2FApps%2Ftp1-web%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee398ff1f-cc65-4579-9f04-930d60a2b150">About the Product</a> 
  
-### 5.4. Video About-the-Product.
+### 5.4. Video About-the-Team.
 -
 
 ## Conclusiones
