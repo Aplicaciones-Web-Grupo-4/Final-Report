@@ -862,7 +862,10 @@ Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Fr
  **URL**: https://front-end-wine-three.vercel.app/signin
 
   * **Despliegue de la Landing Page** :
-
+![ladingpage](../../assets/chapter-5/Landing_1.png)
+![ladingpage](../../assets/chapter-5/Landing_2.png)
+![ladingpage](../../assets/chapter-5/Landing_3.png)
+![ladingpage](../../assets/chapter-5/Landing_4.png)
    
  **URL**: https://aplicaciones-web-grupo-4.github.io/Landing-Page/
 
