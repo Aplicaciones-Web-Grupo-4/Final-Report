@@ -973,18 +973,18 @@ El sistema mejora la eficiencia organizativa al centralizar el registro de empre
 El enfoque colaborativo, la estandarización de estilos mediante PrimeFlex y el uso de control de versiones en GitHub garantizan coherencia visual, trazabilidad del código y despliegue continuo, sentando las bases para la integración futura del módulo de eventos y la publicación completa de la aplicación.
 
 ## Anexos
-Repositorio en GitHub - NexEvent(NextHappen)- Documento: 
+Repositorio en GitHub - Neovent(NextHappen)- Documento: 
 
 
-Repositorio en GitHub - NexEvent(NextHappen)- Landing Page: 
+Repositorio en GitHub - Neovent(NextHappen)- Landing Page: 
 
 https://github.com/Aplicaciones-Web-Grupo-4/Landing-Page
 
-Repositorio en GitHub - NexEvent(NextHappen)- Frontend: 
+Repositorio en GitHub - Neovent(NextHappen)- Frontend: 
 
 https://github.com/Aplicaciones-Web-Grupo-4/front-end
 
-Repositorio en GitHub - NexEvent(NextHappen)- Backend:
+Repositorio en GitHub - Neovent(NextHappen)- Backend:
 
 https://github.com/Aplicaciones-Web-Grupo-4/nexthappen-platform/tree/develop/nexthappen-backend
 
