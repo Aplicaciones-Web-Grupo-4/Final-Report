@@ -831,7 +831,7 @@ En esta sección, se presentará el Sprint Planning 4 ...
 |          |                               | 09 | Endpoint para ver stands asignados | Implementar GET para listar stands por evento. | 2 | Pablo | Done |
 |          |                               | 10 | Mostrar stands asignados en el front | Visualización en panel del organizador. | 2 | Pablo | Done |
 | **US19** | Métricas del evento | 11 | Endpoint de métricas | Implementar GET para devolver vistas, favoritos, tickets vendidos y alcance. | 4 | Jose Chirito | Done |
-|          |                      | 12 | Mostrar métricas en panel del organizador | Integrar estadísticas reales en el dashboard del front. | 3 | Jose PChirito | Done |
+|          |                      | 12 | Mostrar métricas en panel del organizador | Integrar estadísticas reales en el dashboard del front. | 3 | Jose Chirito | Done |
 | **US09** | Favoritos (guardar/ver) | 13 | Endpoint para guardar evento favorito | Implementar POST para añadir favorito del usuario. | 2 | Marco | Done |
 |          |                        | 14 | Endpoint para listar favoritos | Implementar GET para obtener favoritos del usuario. | 2 | Marco | Done |
 |          |                        | 15 | Vista de favoritos en front | Mostrar lista personalizada de eventos guardados. | 2 | Marco | Done |
