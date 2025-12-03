@@ -42,7 +42,7 @@
    <br>
 
    <div align="center">
-   #<b>Relacion de Integrantes</b>
+   <b>Relacion de Integrantes</b>
    <table style="margin-left: auto; margin-right: auto;">
    <tr>
    <th>Apellidos y Nombres</th>
