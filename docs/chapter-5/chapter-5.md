@@ -942,16 +942,15 @@ contexto.
 Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Frontend del proyecto NextHappen utilizando la plataforma Render, permitiendo el acceso público a los endpoints implementados y documentados.
 
 * **Despliegue del Backend** :
-
+![back_deploy](../../assets/chapter-5/Back_Deploy_Evidence.png)
   
 **URL**: https://nexthappen-platform.onrender.com/swagger/index.html
 
- * **Despliegue del Frontend** :
+ * **Despliegue del Frontend** 
 
-   
  **URL**: https://front-end-wine-three.vercel.app/signin
 
-  * **Despliegue de la Landing Page** :
+  * **Despliegue de la Landing Page** 
 
    
  **URL**: https://aplicaciones-web-grupo-4.github.io/Landing-Page/
