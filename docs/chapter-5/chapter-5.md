@@ -1002,6 +1002,7 @@ El enfoque colaborativo, la estandarización de estilos mediante PrimeFlex y el 
 ## Anexos
 Repositorio en GitHub - Neovent(NextHappen)- Documento: 
 
+https://github.com/Aplicaciones-Web-Grupo-4/Final-Report
 
 Repositorio en GitHub - Neovent(NextHappen)- Landing Page: 
 
