@@ -914,8 +914,28 @@ En esta sección se incluye la relación de endpoints documentados con OpenAPI, 
 
 Todos los endpoints están organizados siguiendo la convención RESTful bajo la ruta /api/v1/ y están documentados según
 contexto.
-<br>
 
+| **Service Name** | **HTTP Method** | **Endpoint** | **Description** |
+|------------------|------------------|--------------|------------------|
+| **AssignStands** | GET | `/api/events/{eventId}/stands` | Obtiene la lista de stands asignados a un evento específico. |
+|                  | POST | `/api/events/{eventId}/stands` | Asigna uno o varios stands a un evento concreto. |
+| **Event Service** | POST | `/api/events` | Crea un nuevo evento en el sistema. |
+|                    | GET | `/api/events` | Obtiene todos los eventos creados por los organizadores. |
+|                    | GET | `/api/events/{id}` | Devuelve la información detallada de un evento específico. |
+|                    | PUT | `/api/events/{id}` | Actualiza los datos de un evento (fechas, ubicación, imágenes, etc.). |
+| **EventDiscovery** | GET | `/api/events/public` | Lista todos los eventos públicos disponibles para los usuarios. |
+| **ManageEvent** | GET | `/api/manage/events` | Obtiene la lista de eventos creados por el organizador autenticado. |
+|                 | PUT | `/api/manage/events/{id}` | Actualiza la información de un evento desde la vista de gestión. |
+|                 | DELETE | `/api/manage/events/{id}` | Elimina un evento del sistema. |
+| **SavedEvents Service** | POST | `/api/users/{userId}/saved-events/{eventId}` | Guarda un evento como favorito para un usuario. |
+|                          | DELETE | `/api/users/{userId}/saved-events/{eventId}` | Elimina un evento de la lista de favoritos del usuario. |
+|                          | GET | `/api/users/{userId}/saved-events` | Obtiene todos los eventos guardados por el usuario. |
+| **StandEdit Service** | PUT | `/api/stands/{id}` | Actualiza la información de un stand (dimensiones, precio, nombre, etc.). |
+|                       | DELETE | `/api/stands/{id}` | Elimina un stand del sistema. |
+| **Tickets Service** | POST | `/api/events/{eventId}/tickets/purchase` | Realiza la compra de tickets para un evento específico. |
+|                     | GET | `/api/users/{userId}/tickets` | Obtiene todos los tickets comprados por un usuario. |
+|                     | GET | `/api/tickets/{ticketId}` | Devuelve la información detallada de un ticket. |
+|                     | DELETE | `/api/tickets/{ticketId}` | Cancela (elimina) un ticket específico. |
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
