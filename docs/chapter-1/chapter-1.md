@@ -226,14 +226,14 @@
 | 2.04    | 11/10/2025 |Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Deploy de Frontend    |
 | 3.01    | 13/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Desarrollo del Backend    |
 | 3.02    | 14/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Agregar Sprint 3 |
-| 3.1     | 16/10/2025 |Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Deploy de Backend    |
-| 4.1     | 23/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Reestructuración de Backend    |
-| 4.1.1   | 26/10/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Fusion primitiva con el Frontend    |
-| 4.2     | 29/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Agregacion de la API externa    |
-| 4.3     | 28/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Despliegue del Backend    |
-| 4.4    | 29/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Agregar Sprint 4 |
-| 4.5     | 29/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Fusion y Despliegue del Frontend    |
-| 4.6     | 02/12/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Despliegue de Landing Page fusionada con Frontend y Backend    |
+| 3.1     | 16/10/2025 |Marco Nakasone,Jose Chirito | Deploy de Backend    |
+| 4.1     | 23/11/2025 | Marco Nakasone,Jose Chirito | Reestructuración de Backend    |
+| 4.1.1   | 26/10/2025 | Marco Nakasone,Jose Chirito| Fusion primitiva con el Frontend    |
+| 4.2     | 29/11/2025 | Marco Nakasone,Jose Chirito| Agregacion de la API externa    |
+| 4.3     | 28/11/2025 | Marco Nakasone,Jose Chirito | Despliegue del Backend    |
+| 4.4    | 29/11/2025 | Marco Nakasone,Jose Chirito | Agregar Sprint 4 |
+| 4.5     | 29/11/2025 | Marco Nakasone,Jose Chirito | Fusion y Despliegue del Frontend    |
+| 4.6     | 02/12/2025 | Marco Nakasone,Jose Chirito | Despliegue de Landing Page fusionada con Frontend y Backend    |
 
 
 </div>
