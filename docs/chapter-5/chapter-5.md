@@ -827,9 +827,9 @@ En esta sección, se presentará el Sprint Planning 4 ...
 |          |                                | 05 | Visualización del evento publicado | Conectar endpoint y mostrar detalles, imágenes y fechas en el front. | 3 | Jose Chirito | Done |
 | **US15** | Actualización de datos del evento | 06 | Endpoint para editar evento | Implementar PUT para editar horarios, ubicación e imágenes. | 3 | Jose Chirito | Done |
 |          |                                   | 07 | Integración front de edición | Permitir actualizar los datos desde la UI y reflejar cambios. | 2 | Jose Chirito | Done |
-| **US24** | Asignación de stands a eventos | 08 | Endpoint para asignar stands | Desarrollar POST para asignar stands a un evento específico. | 3 | Pablo | Done |
-|          |                               | 09 | Endpoint para ver stands asignados | Implementar GET para listar stands por evento. | 2 | Pablo | Done |
-|          |                               | 10 | Mostrar stands asignados en el front | Visualización en panel del organizador. | 2 | Pablo | Done |
+| **US24** | Asignación de stands a eventos | 08 | Endpoint para asignar stands | Desarrollar POST para asignar stands a un evento específico. | 3 | Marco | Done |
+|          |                               | 09 | Endpoint para ver stands asignados | Implementar GET para listar stands por evento. | 2 | Marco| Done |
+|          |                               | 10 | Mostrar stands asignados en el front | Visualización en panel del organizador. | 2 | Marco | Done |
 | **US19** | Métricas del evento | 11 | Endpoint de métricas | Implementar GET para devolver vistas, favoritos, tickets vendidos y alcance. | 4 | Jose Chirito | Done |
 |          |                      | 12 | Mostrar métricas en panel del organizador | Integrar estadísticas reales en el dashboard del front. | 3 | Jose Chirito | Done |
 | **US09** | Favoritos (guardar/ver) | 13 | Endpoint para guardar evento favorito | Implementar POST para añadir favorito del usuario. | 2 | Marco | Done |
