@@ -848,18 +848,37 @@ En esta sección se incluyen los commits realizados tanto para el front-end como
 
 | Commit ID | User     | Commit Message | Commited on (Date) |
 |-------------|---------------|----------------|--------------------|
-|  | | |  |
+|1805472dae703d28283c7c4644da9307246389da| JoseR044|Add proyect from NextHappen-clean.zip to feature/home | 08/10/25 |
+|1932150f56fd68baf4497d8e6a3294adb14777e1| JoseR044|Move the NextHappen-clean.zip files to the feature/home root and resolve conflicts | 09/10/25  |
+|261fba918d7aec4825cc1cf4935da63e105af2f4| JoseR044|Integrate the complete src and server of NextHappen-clean into a feature/home | 09/10/25  |
+|3f9d24fa36a2d32f15fa5038d09b0bb4e0058005| JoseR044|Rename router.json to routes.json on server | 10/10/25  |
+|f3837ac59a3211c87528707a51bbb8a39ea24ddd| marquinho04|feat: Update API URLs, enhance event and stand management, and add localization for delete actions| 12/11/25  |
+|c1cb2b1650b447ff1f9db0f91448d2d0575592bf| marquinho04|feat: Add production API URL to development environment configuration| 12/11/25  |
+|22128c0289bf22a01c3bf5938adcdd07dffe677e| marquinho04|feat: Update environment configuration for API URLs| 15/11/25  |
+|3ab7e47542be1d629bfbc5f720bf090f656ce569| marquinho04|fix: Adjust padding in Navbar and Organizer Header components for better layout| 19/11/25  |
+|93116d2f9023996a6a3f53cbb4bfdb7f9b05c3e9| marquinho04|feat: Update API URL to production and refactor event handling for JSON Server| 28/11/25  |
+
+
 
 - Commits en el Backend
 
 | Commit ID | User    | Commit Message | Commited on (Date) |
 |-----------|---------|----------------|--------------------|
-|   dc3d9a331a1796737bbaf47d5d26070206987aed       | marquinho04 | .  | 30/11/25 |
+| 5f8676ca2a55cb885c2b75b0a924bb4e432751db    | marquinho04 | Dockerfile  | 28/11/25 |
+|  679fe55a6ced810682a49daf70a66b7744d07733    | marquinho04 | deploy  | 28/11/25 |
+|  9b3f7c0aeeca38143f6f0f2289e194d9dd83bd72   | marquinho04 | fix: enable swagger on production + root endpoint | 29/11/25 |
+|   dc3d9a331a1796737bbaf47d5d26070206987aed   | marquinho04 | .  | 30/11/25 |
 | 2ebe2d17a20880831157bca211b7298eff606522 | marquinho04 | final | 01/12/25 |
 | 5888a4188c5158f5f4a5ec3677f6436c83142d6a | marquinho04 | fix   | 02/12/25 |
 | 79b04bec1e8fbead75a97657ddee8ae4b45348ae | marquinho04 | Fix migrations baseline + photos json support | 02/12/25 |
 | e4d25755ae0c31b6e4b8c65c7abfc4ddc12c7018 | marquinho04 | Fix photos mapping | 02/12/25 |
-
+| 3867829eeeb91ff0ff798e5943ed5544371e5711 | marquinho04 | migration | 02/12/25 |
+| fa571cf0f7955c6da2cc5245a966d397d024f6b4 | marquinho04 | fixes in all the back end | 02/12/25 |
+| e14deb0971690bd7df1edb2e8bb9743227f43b16 | marquinho04 | fixes | 02/12/25 |
+| d1b857c83cc74d3c8772209c6f84aeb2b72331c1 | JoseR044 | Add EventDiscovery | 28/11/25 |
+| d1b857c83cc74d3c8772209c6f84aeb2b72331c1 | JoseR044 | SavedEvents | 28/11/25 |
+| d1b857c83cc74d3c8772209c6f84aeb2b72331c1 | JoseR044 | Tickets BC  | 29/11/25 |
+| d1b857c83cc74d3c8772209c6f84aeb2b72331c1 | JoseR044 | updates to Shared and Program.cs  | 30/11/25 |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
