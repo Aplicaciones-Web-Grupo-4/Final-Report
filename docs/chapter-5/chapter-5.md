@@ -946,7 +946,8 @@ Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Fr
   
 **URL**: https://nexthappen-platform.onrender.com/swagger/index.html
 
- * **Despliegue del Frontend** 
+ * **Despliegue del Frontend**
+  ![fronted_deploy](../../assets/chapter-5/fronted_render.png) 
 
  **URL**: https://front-end-wine-three.vercel.app/signin
 
