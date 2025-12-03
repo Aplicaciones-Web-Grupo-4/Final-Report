@@ -799,7 +799,7 @@ En esta sección, se presentará el Sprint Planning 4 ...
 | *Time* | 9:30 AM  |
 | *Location* | Discord |
 | *Prepared by* | Chirito Torres, Jose Raul  |
-| *Attendees (to planning meeting)* | Todos los miembros del equipo NeoEvent |
+| *Attendees (to planning meeting)* | Marco Nakasone y José Chirito |
 | *Sprint 4 Review Summary* | Se avanzó la integracion de la API desplegada y el fronted.Tambien se completó la conexión de multples vistas con endpoints reales,se realizaron asignaciones para la documentación del trabajo completo.  |
 | *Sprint 4 Retrospective Summary* | Positivo: Mayor madurez del backend y mejor comprensión del flujo completo entre frontend–API. A mejorar: Coordinar mejor los horarios de trabajo para evitar retrasos y avances de algunos integrantes. Acción: Implementar autenticación en el backend y Alinear endpoints finales con el frontend|
 | *Sprint Goal & User Stories* | Consolidar la integración del fronted con la API, estabilizar la comunicación entre vistas del fronted y backend,y dejar lista la base para implementar autenticación.  |
