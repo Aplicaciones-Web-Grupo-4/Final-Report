@@ -239,8 +239,9 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Billy Ruiz     |  Realizar el analisis de competidores, las entrevistas, los user persona, User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping y Ubiquitous Language.                   |
 | Pablo Martinez |  Realizar el Solution Profile, Lean UX Process, Domain-Driven Software Architecture, Software Object-Oriented Design, Class Dictionary y Database Design                                                                                                                                                                         |
 | Jose Paredes |  Realizar la documentación del Sprint Planning, asegurar la coherencia de textos y secciones, estructurar el repositorio y planificar el despliegue.                                                                                                                                                                         |
-|           |                                                                                             |
-|          |  |
+|  Marco Nakasone         |  Realizr figma , Wireflames y Product design(Style guides,Web Style Guidelines,Information Architecture,Organization Systems
+,Labeling Systems,SEO Tags and Meta Tags,Navigation Systems,Landing Page UI Design y Landing Page Mock-up)                                                                                        |
+
 
 **TP**
 
@@ -252,7 +253,7 @@ Para el desarrollo del informe perteneciente a la entrega del TP, se dividió la
 | Billy Ruiz |   Realizar el bounded context de event.                                                                                                                                     |
 | Pablo Martinez | Realizar el bounded context de Dashboard y Stands para el frontend                                                                                            |
 | Jose Paredes | Realizar la gestión de las ramas del repositorio y la documentación de los avances técnicos del Sprint                                                                                            |
-|         |  |
+|  Marco Nakasone       | Realizar bounded context de Entrepenour-and-Register-Stands y organizer-header-menu   |
 
 **TB2**
 
@@ -264,7 +265,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió l
 | Billy Ruiz |  Hacer fix a las entregas pasadas y tambien a realizar el trabajo complementario.                          |
 |  Pablo Martinez    |   Realizar el trabajo complementario así como revisión del trabajo                                                                                          |
 |  Jose Paredes    |  Realizar el proceso integral de entrevistas (cuestionario, ejecución y análisis) y desarrollar el panel de información (Dashboard) para estadísticas.                                       |
-|         |  |
+|   Marco Nakasone       | Realizar bounded context para el backend de creacion de eventos, asignación de stands, gestión de eventos y visualizacion de métricas. |
 
 **TF**
 
@@ -273,7 +274,7 @@ Para el desarrollo del informe perteneciente a la entrega del TF, se dividió la
 | Integrantes         | Tareas Asignadas                                                                                                                                                                                                                |
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | José Chirito        | Mejoras de metodos previos del fronted , backend y avance del sprint 4 .                                                                                                                        |
-| José Paredes        | Completar los aportes del Student Outcome, el registro de informe y el Project Report Collaboration Insights.                                                            |
+| Marco Nakasone        | Mejoras en el fronted,backend  y conectar correctamente con el fronted  para asegurar la compatibilidad de endpoints y flujos funcionales.                                                    |
 
 # Capítulo I: Introducción
 
