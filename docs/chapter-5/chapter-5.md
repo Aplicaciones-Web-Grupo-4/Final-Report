@@ -812,7 +812,7 @@ En esta sección, se presentará el Sprint Planning 4 ...
 |------------------------------------|------------------|-------------------------|--------------------------------|---------------------------|
 | Nakasone Gomes, Marco Antonio      | marquinho04      | L                       | C                              | C                         |
 | Chirito Torres, Jose Raul          | JoseR044         | C                       | C                              | C                         |
-| Martinez Gaona, Pablo Afranio      | de123kl          | C                       | C                              | C                         |
+
 
 
 #### 5.2.4.3. Sprint Backlog 4
@@ -820,8 +820,27 @@ En esta sección, se presentará el Sprint Planning 4 ...
 
 | **User Story** | **Title** | **Task ID** | **Work-item / Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 |----------------|-----------|-------------|------------------------|------------------|-------------------------|------------------|------------|
-|  |  |  |  | |  |  |  |
-|  |  |  |  | |  |  |  |
+| **US10** | Compra de entradas | 01 | Crear endpoint de compra de tickets | Implementar endpoint POST para registrar compra, validar disponibilidad y generar comprobante. | 4 | Marco | Done |
+|          |                     | 02 | Integrar compra de tickets en el front | Conectar la compra al back y mostrar el comprobante en la UI. | 3 | Marco | Done |
+|          |                     | 03 | Crear vista “Mis entradas” | Mostrar todas las entradas compradas por el usuario autenticado. | 2 | Marco | Done |
+| **US14** | Publicación de feria / evento | 04 | Endpoint para publicar evento | Implementar POST para registrar un nuevo evento completo. | 4 | Jose Chirito| Done |
+|          |                                | 05 | Visualización del evento publicado | Conectar endpoint y mostrar detalles, imágenes y fechas en el front. | 3 | Jose Chirito | Done |
+| **US15** | Actualización de datos del evento | 06 | Endpoint para editar evento | Implementar PUT para editar horarios, ubicación e imágenes. | 3 | Jose Chirito | Done |
+|          |                                   | 07 | Integración front de edición | Permitir actualizar los datos desde la UI y reflejar cambios. | 2 | Jose Chirito | Done |
+| **US24** | Asignación de stands a eventos | 08 | Endpoint para asignar stands | Desarrollar POST para asignar stands a un evento específico. | 3 | Pablo | Done |
+|          |                               | 09 | Endpoint para ver stands asignados | Implementar GET para listar stands por evento. | 2 | Pablo | Done |
+|          |                               | 10 | Mostrar stands asignados en el front | Visualización en panel del organizador. | 2 | Pablo | Done |
+| **US19** | Métricas del evento | 11 | Endpoint de métricas | Implementar GET para devolver vistas, favoritos, tickets vendidos y alcance. | 4 | Jose Chirito | Done |
+|          |                      | 12 | Mostrar métricas en panel del organizador | Integrar estadísticas reales en el dashboard del front. | 3 | Jose PChirito | Done |
+| **US09** | Favoritos (guardar/ver) | 13 | Endpoint para guardar evento favorito | Implementar POST para añadir favorito del usuario. | 2 | Marco | Done |
+|          |                        | 14 | Endpoint para listar favoritos | Implementar GET para obtener favoritos del usuario. | 2 | Marco | Done |
+|          |                        | 15 | Vista de favoritos en front | Mostrar lista personalizada de eventos guardados. | 2 | Marco | Done |
+| **US08 / TS03** | Notificaciones en tiempo real | 16 | Endpoint para enviar notificaciones | Implementar POST para emitir notificaciones a suscritos. | 3 | Jose Chirito | Done |
+|                 |                                | 17 | Integración front de notificaciones | Mostrar notificaciones en tiempo real para usuarios y organizadores. | 3 | Marco | Done |
+| **US21** | Visualización completa del evento | 18 | Endpoint “Ver evento por ID” | Desarrollar GET /events/{id} con detalles completos. | 3 | Marco | Done |
+|          |                                  | 19 | Vista en front del evento | Visualizar datos, imágenes, fechas y ubicación. | 2 | Marco | Done |
+| *US22* | *Roles de equipo* | 11 | Crear sección para añadir miembros | Permitir que el organizador agregue integrantes del equipo. | 2 | Jose Chirito | Done |
+|  |  | 12 | Asignar roles y accesos limitados | Configurar permisos según el rol asignado (organizador, asistente, apoyo). | 2 | Jose Chirito | Done |
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 En esta sección se incluyen los commits realizados tanto para el front-end como el backend del Web Application. No obstante, como se realizaron varios commits, se mostraran los más relevantes.
