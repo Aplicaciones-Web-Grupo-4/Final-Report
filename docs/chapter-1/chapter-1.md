@@ -259,8 +259,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Billy Ruiz     |  Realizar el analisis de competidores, las entrevistas, los user persona, User Task Matrix, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping y Ubiquitous Language.                   |
 | Pablo Martinez |  Realizar el Solution Profile, Lean UX Process, Domain-Driven Software Architecture, Software Object-Oriented Design, Class Dictionary y Database Design                                                                                                                                                                         |
 | Jose Paredes |  Realizar la documentación del Sprint Planning, asegurar la coherencia de textos y secciones, estructurar el repositorio y planificar el despliegue.                                                                                                                                                                         |
-|  Marco Nakasone         |  Realizr figma , Wireflames y Product design(Style guides,Web Style Guidelines,Information Architecture,Organization Systems
-,Labeling Systems,SEO Tags and Meta Tags,Navigation Systems,Landing Page UI Design y Landing Page Mock-up)                                                                                        |
+|  Marco Nakasone         |  Realizr figma , Wireflames y Product design(Style guides,Web Style Guidelines,Information Architecture,Organization Systems,Labeling Systems,SEO Tags and Meta Tags,Navigation Systems,Landing Page UI Design y Landing Page Mock-up)                                                                                        |
 
 
 **TP**
