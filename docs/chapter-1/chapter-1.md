@@ -210,30 +210,30 @@
 
 | Versión | Fecha      | Autores                            | Descripción de modificación                                                                           |
 | ------- | ---------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 1.0     | 03/09/2025 | Marco Nakasone,Jose Chirito | Creación del documento base en formato markdown                                                       |
-| 1.1     | 04/09/2025 | Marco Nakasone,Jose Chirito | Elaboración del Startup Profile y Antecedentes                                                        |
-| 1.2     | 06/09/2025 | Marco Nakasone,Jose Chirito | Elaboracion de capitulo 2 y 3 del proyecto                                                      |
-| 1.3     | 09/09/2025 | Marco Nakasone,Jose Chirito | Diseño de entrevistas y registro de segmentos objetivo                                                |
-| 1.4     | 11/09/2025 | Marco Nakasone,Jose Chirito | Elaboración del Needfinding y primeras entrevistas                                                    |
-| 1.5     | 14/09/2025 | Marco Nakasone,Jose Chirito | Creación de diagramas de componentes y primeras correcciones                                          |
-| 1.6     | 16/09/2025 | Marco Nakasone,Jose Chirito | Desarrollo de Style Guidelines e Information Architecture (Labeling, SEO, Navigation, Searching)      |
-| 1.7     | 17/09/2025 | Marco Nakasone,Jose Chirito | Desarrollo de Landing Page (UI Design, Wireframes y Mock-ups)                                         |
-| 1.8     | 18/09/2025 | Marco Nakasone,Jose Chirito | Elaboración de Web Applications UX/UI Design y Wireframes                                             |
-| 1.9     | 19/09/2025 | Marco Nakasone,Jose Chirito | Desarrollo de Wireflow Diagrams, User Flow Diagrams y evidencia de Sprint 1                           |
-| 2.01    | 20/09/2025 | Marco Nakasone,Jose Chirito | Inclusión de conclusiones de Student Outcome, colaboración del equipo y despliegue de la Landing Page |
-| 2.02    | 06/10/2025 | Marco Nakasone,Jose Chirito| Implementación de Frontend -  Revisión de documentos.                         |
-| 2.03    | 07/10/2025 | Marco Nakasone,Jose Chirito | Agregar Sprint 2 |
-| 2.04    | 11/10/2025 |Marco Nakasone,Jose Chirito | Deploy de Frontend    |
-| 3.01    | 13/11/2025 | Marco Nakasone,Jose Chirito | Desarrollo del Backend    |
-| 3.02    | 14/11/2025 | Marco Nakasone,Jose Chirito | Agregar Sprint 3 |
-| 3.1     | 16/10/2025 |Marco Nakasone,Jose Chirito | Deploy de Backend    |
-| 4.1     | 23/11/2025 | Marco Nakasone,Jose Chirito | Reestructuración de Backend    |
-| 4.1.1   | 26/10/2025 | Marco Nakasone,Jose Chirito | Fusion primitiva con el Frontend    |
-| 4.2     | 29/11/2025 | Marco Nakasone,Jose Chirito | Agregacion de la API externa    |
-| 4.3     | 28/11/2025 | Marco Nakasone,Jose Chirito | Despliegue del Backend    |
-| 4.4    | 29/11/2025 | Marco Nakasone,Jose Chirito | Agregar Sprint 4 |
-| 4.5     | 29/11/2025 | Marco Nakasone,Jose Chirito | Fusion y Despliegue del Frontend    |
-| 4.6     | 02/12/2025 | Marco Nakasone,Jose Chirito | Despliegue de Landing Page fusionada con Frontend y Backend    |
+| 1.0     | 03/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Creación del documento base en formato markdown                                                       |
+| 1.1     | 04/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Elaboración del Startup Profile y Antecedentes                                                        |
+| 1.2     | 06/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Elaboracion de capitulo 2 y 3 del proyecto                                                      |
+| 1.3     | 09/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Diseño de entrevistas y registro de segmentos objetivo                                                |
+| 1.4     | 11/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Elaboración del Needfinding y primeras entrevistas                                                    |
+| 1.5     | 14/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Creación de diagramas de componentes y primeras correcciones                                          |
+| 1.6     | 16/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Desarrollo de Style Guidelines e Information Architecture (Labeling, SEO, Navigation, Searching)      |
+| 1.7     | 17/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Desarrollo de Landing Page (UI Design, Wireframes y Mock-ups)                                         |
+| 1.8     | 18/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Elaboración de Web Applications UX/UI Design y Wireframes                                             |
+| 1.9     | 19/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Desarrollo de Wireflow Diagrams, User Flow Diagrams y evidencia de Sprint 1                           |
+| 2.01    | 20/09/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Inclusión de conclusiones de Student Outcome, colaboración del equipo y despliegue de la Landing Page |
+| 2.02    | 06/10/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Implementación de Frontend -  Revisión de documentos.                         |
+| 2.03    | 07/10/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Agregar Sprint 2 |
+| 2.04    | 11/10/2025 |Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Deploy de Frontend    |
+| 3.01    | 13/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Desarrollo del Backend    |
+| 3.02    | 14/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Agregar Sprint 3 |
+| 3.1     | 16/10/2025 |Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Deploy de Backend    |
+| 4.1     | 23/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Reestructuración de Backend    |
+| 4.1.1   | 26/10/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Fusion primitiva con el Frontend    |
+| 4.2     | 29/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Agregacion de la API externa    |
+| 4.3     | 28/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Despliegue del Backend    |
+| 4.4    | 29/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Agregar Sprint 4 |
+| 4.5     | 29/11/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Fusion y Despliegue del Frontend    |
+| 4.6     | 02/12/2025 | Marco Nakasone,Jose Chirito,Billy Ruiz,Pablo Martinez | Despliegue de Landing Page fusionada con Frontend y Backend    |
 
 
 </div>
