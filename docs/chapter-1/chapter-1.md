@@ -294,7 +294,7 @@ Para el desarrollo del informe perteneciente a la entrega del TF, se dividió la
 | ------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | José Chirito        | Mejoras de metodos previos del fronted , backend y avance del sprint 4 .                                                                                                                        |
 | Marco Nakasone      | Mejoras en el fronted,backend  y conectar correctamente con el fronted  para asegurar la compatibilidad de endpoints y flujos funcionales.                                                    |
-| Pablo Martinez      | Avance del reporte y corrrecciones del mismo.                                                                                                                                                                      | 
+                                                                                                                                                        | 
 
 # Capítulo I: Introducción
 
