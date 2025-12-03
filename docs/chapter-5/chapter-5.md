@@ -901,9 +901,10 @@ Durante el Sprint 4, se logró un progreso significativo en la fusion e integrac
 En esta sección se incluye la relación de endpoints documentados con OpenAPI, desarrollados como parte del alcance del Sprint 4. Se resumen los logros alcanzados en relación con la implementación y documentación de los servicios REST del Backend.
 
 **Backend en Rider**
+![backend](../../assets/chapter-5/backend_rider.png)  
 
 **Frontend en WebStorm**
-
+![frontend](../../assets/chapter-5/fronted_webstorm.png)  
 
 **API**
 
