@@ -949,7 +949,7 @@ Durante el Sprint 4, se logró desplegar exitosamente la API del Backend y el Fr
  * **Despliegue del Frontend**
   ![fronted_deploy](../../assets/chapter-5/fronted_render.png) 
 
- **URL**: https://front-end-wine-three.vercel.app/signin
+ **URL**: https://next-happen-pi.vercel.app/signin
 
   * **Despliegue de la Landing Page** 
 
@@ -1084,4 +1084,10 @@ Enlace Canva:
 https://www.canva.com/design/DAGz2cQCyes/CnihQ1X2sTbSBQMhopjcZg/edit?ui=e30
 
 Enlace Video Exposicion:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120011_upc_edu_pe/IQBZh_zeZri3RKA-xAJnMBbnAV6VgaY0fnKPY0wbxIVcJeo?e=DxLUSS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Enlace Video About The Team:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120011_upc_edu_pe/IQAvtqH_FESDRJdqstLysTxqASA2dgVCOf_1O3Gasg6ysOw?e=chcbDR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
